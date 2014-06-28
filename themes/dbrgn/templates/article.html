@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
+
+{% block content %}
+
+    <h1 class="title">{{ article.title }}</h1>
+
+    {% if article.date %}
+        <div class="date">
+            <p>{{ article.date|strftime("%B %d, %Y") }}</p>
+        </div>
+    {% endif %}
+
+    <div class="clearboth article-content">
+        {{ article.content }}
+    </div>
+
+    {% if article.tags %}
+        <div class="tags">
+            <p>태그 : 
+            {% for tag in article.tags|sort %}
+                {%- if not loop.first %}, {% endif -%}
+                <a href="{{ SITEURL }}/{{ tag.url }}">{{ tag.name.replace(' ', '_') }}</a>
+            {%- endfor %}</p>
+        </div>
+    {% endif %}
+
+    {% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
+        {% include 'disqus.html' %}
+    {% endif %}
+
+{% endblock %}

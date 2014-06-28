@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="{% if article and article.language %}{{ article.language }}{% else %}{{ DEFAULT_LANG }}{% endif %}">
+
+<head>
+    {% block head %}
+
+    <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
+
+    <!-- meta -->
+    <meta charset="utf-8" />
+    <meta name="author" content="{{ AUTHOR }}" />
+    {% if article and article.summary %}
+        <meta name="description" content="{{ article.summary|striptags }}" />
+    {% endif %}
+    <meta name="dc.language" content="{% if article and article.language %}{{ article.language }}{% else %}{{ DEFAULT_LANG }}{% endif %}" />
+    <meta name="dc.license" content="{{ BLOG_LICENSE }}">
+    {% if ctx and ctx.summary %}<meta name="description" content="{{ ctx.summary }}">{% endif %}
+    {% if ctx and ctx.tags %}<meta name="keywords" content="{{ ctx.tags|sort(case_sensitive=true)|join(', ') }}">{% endif %}
+    {% if ctx and ctx.pub_date %}
+        <meta name="dc.date.created" content="{{ ctx.pub_date.date().isoformat() }}">
+        <meta name="dc.date.issued" content="{{ ctx.pub_date.date().isoformat() }}">
+    {% endif %}
+    {% if GOOGLE_SITE_VERIFICATION %}
+        <meta name="google-site-verification" content="{{ GOOGLE_SITE_VERIFICATION }}" />
+    {% endif %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- favicon -->
+    <link rel="icon" href="/theme/favicon.ico" type="image/x-icon">
+
+    <!-- newsfeeds -->
+    {% if FEED_ALL_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Full Atom Feed" />
+    {% endif %}
+    {% if FEED_ALL_RSS %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed" />
+    {% endif %}
+    {% if FEED_ATOM %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_ATOM }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Atom Feed" />
+    {% endif %}
+    {% if FEED_RSS %}
+        <link href="{{ FEED_DOMAIN }}/{{ FEED_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
+    {% endif %}
+    {% if CATEGORY_FEED_ATOM and category %}
+        <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_ATOM|format(category.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Categories Atom Feed" />
+    {% endif %}
+    {% if CATEGORY_FEED_RSS and category %}
+        <link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Categories RSS Feed" />
+    {% endif %}
+    {% if TAG_FEED_ATOM and tag %}
+        <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_ATOM|format(tag.slug) }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} Tags Atom Feed" />
+    {% endif %}
+    {% if TAG_FEED_RSS and tag %}
+        <link href="{{ FEED_DOMAIN }}/{{ TAG_FEED_RSS|format(tag.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Tags RSS Feed" />
+    {% endif %}
+
+    <!-- assets -->
+    <!--[if lt IE 9]>
+        <script src="https://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link href="https://fonts.googleapis.com/css?family=Linden+Hill:400,400italic" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/{{ CSS_FILE }}" type="text/css">
+    <link rel="stylesheet" href="{{ SITEURL }}/theme/css/pygments.css" type="text/css">
+
+    {% endblock head %}
+</head>
+
+<body>
+    <div id="wrapper">
+        <div id="blogtitle"><a href="{{ SITEURL }}">{{ SITENAME }}</a></div>
+        <ul id="mainnav">
+            <li class="first"><a href="/">home</a></li>
+            <li><a href="/archive/">archive</a></li>
+            <li><a href="/tags/">tags</a></li>
+            <li class="last"><a href="/about/">about me</a></li>
+        </ul>
+
+        <div class="clearboth"></div>
+
+        <section id="content">
+            {% block content %}{% endblock %}
+        </section>
+    </div>
+
+    <div id="footer">
+      <p>Powered by <a href="http://blog.getpelican.com/">Pelican</a></p>
+    </div>
+
+    {# Google Analytics #}
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', '{{ GOOGLE_ANALYTICS }}']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+
+    {# Mathjax for LaTeX rendering #}
+    {% if article and article.latex %}
+        {{ article.latex }}
+    {% endif %}
+    {% if page and page.latex %}
+        {{ page.latex }}
+    {% endif %}
+
+</body>
+
+</html>

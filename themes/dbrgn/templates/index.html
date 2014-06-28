@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+    {%- for article in articles_page.object_list %}
+
+        <article class="entry-overview">
+            <div class="date">{{ article.locale_date }}</div>
+            <div class="detail">
+                <header><h2>
+                    <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark">
+                        {{ article.title }}
+                    </a>
+                </h2></header>
+                <div class="summary">{{ article.summary|striptags }}</div>
+                <div class="indextags">
+                    {% for tag in article.tags|sort %}
+                        <a href="{{ SITEURL }}/{{ tag.url }}">#{{ tag.name.replace(' ', '_') }}</a>
+                    {% endfor %}
+                </div>
+            </div>
+        </article>
+
+      {%- endfor %}
+
+      {% include 'pagination.html' %}
+
+{% endblock %}
