@@ -17,23 +17,30 @@ p {
 }
 
 /* carpedm20 */
+li {
+  list-style: none;
+  margin: 0.3em 0em;
+  padding: 0em;
+}
+#profile ul {
+  padding-left: 1em;
+}
+
+small {
+  font-size: 0.6em;
+}
+
 #footer p {
   font-size: 0.8em;
   text-align: center;
 }
+
 #links table {
   margin-left: 1em;
 }
-li {
-    list-style: none;
-    margin: 0.3em 0em;
-    padding: 0em;
-}
-#projects h3, #links h3, #awards h3 {
-    margin-left: 1em;
-}
-small {
-    font-size: 0.6em;
+
+#projects h3, #links h3, #awards h3, #presentation h3 {
+  margin-left: 1em;
 }
 /* carpedm20 */
 
