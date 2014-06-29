@@ -11,12 +11,18 @@ Profile
 -------
 
 - Python_ programmer
-- Senior of `UNIST`_
+- B.S. in C.S.E from `UNIST`_
 - 3rd president of `HeXA`_
-- Blog :: `carpedm20.com`_
 
-- Github :: `github.com/carpedm20`_
-- Linkedin :: `linkedin.com/in/carpedm20`_
+
+Links
+-----
+:Email: carpedm20@gmail.com
+:Blog: `carpedm20.com`_
+:Facebook: `facebook.com/carpedm20`_
+:Github: `github.com/carpedm20`_
+:Linkedin: `linkedin.com/in/carpedm20`_
+:Slideshare: `slideshare.net/carpedm20`_
 
 
 Awards

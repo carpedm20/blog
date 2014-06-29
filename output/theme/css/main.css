@@ -21,6 +21,9 @@ p {
   font-size: 0.8em;
   text-align: center;
 }
+#links table {
+  margin-left: 1em;
+}
 li {
     list-style: none;
     margin: 0.3em 0em;
