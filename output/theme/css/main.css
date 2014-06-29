@@ -29,6 +29,9 @@ li {
 #projects h3 {
     margin-left: 1em;
 }
+small {
+    font-size: 0.6em;
+}
 /* carpedm20 */
 
 #blogtitle {
