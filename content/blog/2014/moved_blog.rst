@@ -1,5 +1,5 @@
-Move blog from blogger
-######################
+Moved blog from blogger
+#######################
 :date: 2014-06-29 23:04
 :category: blog,
 :tags: blog
