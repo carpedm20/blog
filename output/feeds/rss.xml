@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>carpedm20</title><link>/</link><description></description><atom:link href="/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Sat, 21 Jun 2014 23:47:00 +0200</lastBuildDate><item><title>딥러닝과 머신러닝</title><link>/2014/6/21/dibreoninggwa-meosinreoning/</link><description>&lt;p&gt;얼마 전 Cask 공식 문서를 한국어로 번역해서 공개한 바 있다. Cask는 기본적으로 개발중인 패키지의 의존성을 관리하기 위한 툴이다.&lt;/p&gt;
-&lt;p&gt;Emacs24부터는 기본적으로 패키지 관리자가 포함되어있지만, 이를 통해서 설치되는 패키지는 전역적으로 설치된다. 이러한 방식은 편리하지만, 각각의 프로젝트에게는 섬세하지도, 적절하지도 않다. Emacs24의 기본 패키지 관리자는 루비와 비교하면 Gem에 해당한다. 루비에서 Cask의 역할은 Gem이 아니라 Bundler의 역할과 같다. Cask는 각 패키지의 의존성을 패키지 단위로 관리해주고, 패키지나 Emacs를 해당하는 의존성을 바탕으로 실행할 수 있도록 도와주는 도구이다.&lt;/p&gt;
-&lt;p&gt;Cask는 이러한 의존성 관리를 크게 두 방향에서 사용할 수 있도록 해준다. 먼저 하나는 Bundler와 같이 프로젝트 단위로 자신의 의존성을 정의하고 프로젝트를 개발할 수 있는 환경을 만들어주는 역할이다. 두번째는 Emacs를 에디터로 사용하는 사람들의 입장에서 패키지들을 체계적으로 관리할 수 있게 도와준다. 이 글에서는 Cask를 통해서 Emacs 환경 설정을 관리하는 방법에 대해서 다룬다.&lt;/p&gt;
-&lt;p&gt;Cask 설치
-(참고: Cask는 Emacs24 이상에서만 사용가능하다) Cask는 아래 명령어로 설치할 수 있다. 시스템에 파이썬이 설치되어있어야한다.&lt;/p&gt;
-&lt;p&gt;$ curl -fsSkL &lt;a class="reference external" href="https://raw.github.com/cask/cask/master/go"&gt;https://raw.github.com/cask/cask/master/go&lt;/a&gt; | python
-Mac에서 Homebrew를 사용하고 있다면 brew 명령어를 사용해서 설치하는 방법도 있다.&lt;/p&gt;
-&lt;p&gt;$ brew install cask
-정상적으로 설치되었는지 확인해본다.&lt;/p&gt;
-&lt;p&gt;$ cask --version
-0.7.0
-Cask 사용해보기
-본적적인 .emacs.d 환경설정에 앞서 cask를 간단히 사용해보자. 임의의 위치에 cask를 테스트해볼 디렉터리를 만든다. 여기서는 ~/tmp/cask를 사용한다.&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>carpedm20</title><link>/</link><description></description><atom:link href="/feeds/rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 29 Jun 2014 23:04:00 +0200</lastBuildDate><item><title>Neural Network</title><link>/2014/6/29/neural-network/</link><description>&lt;div class="section" id="id1"&gt;
+&lt;h2&gt;Neural network란 무엇인가?&lt;/h2&gt;
+&lt;p&gt;신경망 네트워크(Neural network)를 설명하기 전에 인공 뉴런(artificial neuron)의 대표적인 두가지, Perceptron 과 Sigmoid neuron에 대해서 설명하고자 한다.&lt;/p&gt;
+&lt;p&gt;Perceptron은 x1, x2 ... 와 같은 몇개의 binary input을 받으며 하나의 binary output을 만들어 낸다. Perceptron 아이디어를 만들어낸 Frank Rosenblatt는 w1, w2 ... 와 같이 각 input의 중요도를 나타내는 정수, 즉 weight 를 만들어 냈다. 즉, neuron의 output은 weight와 input의 곱의 합으로 결정이 되며, 그 값이 threshold 값 보다 크면 output이 1이 되고, 작다면 그 반대인 0이 된다.&lt;/p&gt;
+&lt;p&gt;이러한 Perceptron은 여러개의 layer를 형성하면서 좀더 인간의 neural network와 닮아가게 된다.&lt;/p&gt;
+&lt;/div&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">carpedm20</dc:creator><pubDate>Sun, 29 Jun 2014 23:04:00 +0200</pubDate><guid>tag:,2014-06-29:2014/6/29/neural-network/</guid><category>machine learning</category></item><item><title>딥러닝과 머신러닝</title><link>/2014/6/21/dibreoninggwa-meosinreoning/</link><description>&lt;p&gt;Hello World!&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">carpedm20</dc:creator><pubDate>Sat, 21 Jun 2014 23:47:00 +0200</pubDate><guid>tag:,2014-06-21:2014/6/21/dibreoninggwa-meosinreoning/</guid><category>python</category><category>blog</category><category>rst</category><category>pelican</category></item></channel></rss>

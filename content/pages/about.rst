@@ -12,7 +12,6 @@ Profile
 
 - Python_ programmer
 - B.S. in C.S.E from `UNIST`_
-- 3rd president of `HeXA`_
 
 
 Links
@@ -39,6 +38,16 @@ Hacking
 - `Codegate 2014`_ quals ::17th place ( `HeXA`_ )
 - `Holyshield 2013`_ :: 1st place ( CodePink )
 - `2013 Korea Whitehat Contest`_ :: 3rd place ( `HeXA`_ )
+
+
+Experiments
+-----------
+
+- 2014.07 ~ :: `NAVER Labs`_ Internship
+- 2013.01 ~ :: `UNIST`_ `MSNL`_ (Mobile Social Network Lab) Internship
+  - Optimizing Mobile web browsing: From Caching in local AP to battery optimization
+  - Optimizing Mobile Video Streaming: From Context-aware Scheduling to Cloud-assisted Caching
+- 2012.08 ~ 2013.03 :: 3rd president of `HeXA`_
 
 
 Projects
@@ -86,6 +95,9 @@ Presentation
 .. _Codegate 2014: http://codegate.org/
 .. _HolyShield 2013: https://www.facebook.com/CATHolyShield/photos/a.438453622859643.95021.270853396286334/634153726622964
 .. _2013 Korea Whitehat Contest: http://www.whitehatcontest.com/
+
+.. _NAVER Labs: http://lab.naver.com/
+.. _MSNL: http://msn.unist.ac.kr/
 
 .. _pyNdrive: https://github.com/carpedm20/ndrive
 .. _MovieTag: https://github.com/carpedm20/movietag
