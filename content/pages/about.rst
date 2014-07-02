@@ -24,6 +24,14 @@ Links
 :Slideshare: `slideshare.net/carpedm20`_
 
 
+Interests
+---------
+
+- Machine Learning
+- Hacking
+- Supercomputing
+
+
 Awards
 ------
 
@@ -40,14 +48,19 @@ Hacking
 - `2013 Korea Whitehat Contest`_ :: 3rd place ( `HeXA`_ )
 
 
-Experiments
------------
+Experience
+----------
 
-- 2014.07 ~ :: `NAVER Labs`_ Internship
-- 2013.01 ~ :: `UNIST`_ `MSNL`_ (Mobile Social Network Lab) Internship
-  - Optimizing Mobile web browsing: From Caching in local AP to battery optimization
-  - Optimizing Mobile Video Streaming: From Context-aware Scheduling to Cloud-assisted Caching
-- 2012.08 ~ 2013.03 :: 3rd president of `HeXA`_
+Intern, `NAVER Labs`_ (2014.07 ~ )
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Intern, `UNIST`_ `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Optimizing Mobile Video Streaming: From Context-aware Scheduling to Cloud-assisted Caching
+- Optimizing Mobile Web browsing: Through Page Caching in Local Access Point
+
+3rd president, `HeXA`_ (2012.08 ~ 2013.03)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 Projects
@@ -75,6 +88,7 @@ Projects
 - 카카오톡 및 라인 리버싱 및 보고서 작성 :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__
 - 예스24 타인 계정 로그인 취약점 발견 및 보고 :: `기사 <http://dailysecu.com/news_view.php?article_id=5781>`__
 
+
 Presentation
 ------------
 
@@ -82,6 +96,14 @@ Presentation
 ~~~~
 - `쉽게 쓰여진 Django`_ (14-03-19)
 - `영화 서비스에 대한 생각`_ (14-03-05)
+
+
+Skills
+------
+
+- Programming : C++, C#, Java, Python (& Django), HTML/CSS, Javascript, PHP
+- Human Languages: English - TOEIC 880 (2012), Korean - Native
+
 
 .. _carpedm20.com: http://carpedm20.com
 .. _github.com/carpedm20: https://github.com/carpedm20

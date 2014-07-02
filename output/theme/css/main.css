@@ -39,8 +39,13 @@ small {
   margin-left: 1em;
 }
 
-#projects h3, #links h3, #awards h3, #presentation h3 {
+#projects h3, #links h3, #awards h3, #presentation h3, #experience h3{
   margin-left: 1em;
+  margin-bottom: 0.8em;
+}
+
+#footer {
+  margin-top: 2em;
 }
 /* carpedm20 */
 
@@ -156,7 +161,7 @@ h1 cite {
 
 h2 {
     margin: 0;
-    padding: 15px 0 20px;
+    padding: 20px 0 20px;
 }
 
 .archives h2 {
