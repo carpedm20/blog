@@ -11,7 +11,7 @@ Profile
 -------
 
 - Python_ programmer
-- B.S. in C.S.E from `UNIST`_
+- B.S. in Computer Science from `UNIST`_
 
 
 Links
@@ -29,6 +29,7 @@ Interests
 
 - Machine Learning
 - Hacking
+- Web service
 - Supercomputing
 
 
@@ -38,14 +39,19 @@ Awards
 Supercomputing
 ~~~~~~~~~~~~~~
 - `ISC 14 Student Cluster Challenge`_ :: Finalist ( in Leipzig / Germany, `UNIST`_ )
+   - International Supercomputing Conference 14
 - `ASC 14`_ :: Finalist as a team adviser ( in Guangzhou / China, `UNIST`_ )
+   - Asia student Supercomputing Challenge 14
 - `ASC 13`_ :: Finalist ( in Shanghai / China, `UNIST`_ )
+   - Asia student Supercomputing Challenge 13
 
 Hacking
 ~~~~~~~
 - `Codegate 2014`_ quals ::17th place ( `HeXA`_ )
 - `Holyshield 2013`_ :: 1st place ( CodePink )
+   - held by Catholic University of Korea
 - `2013 Korea Whitehat Contest`_ :: 3rd place ( `HeXA`_ )
+   - held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
 
 
 Experience
@@ -54,7 +60,7 @@ Experience
 Intern, `NAVER Labs`_ (2014.07 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Intern, `UNIST`_ `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
+Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Optimizing Mobile Video Streaming: From Context-aware Scheduling to Cloud-assisted Caching
 - Optimizing Mobile Web browsing: Through Page Caching in Local Access Point
@@ -79,8 +85,8 @@ Projects
 2013
 ~~~~
 - `MovieDuk`_ :: Django
-- `random-wall`_ :: Javascript plugin
-- `UNIST Robot`_ :: Windows program
+- `random-wall`_ :: Javascript library
+- `UNIST Robot`_ :: Windows program (C#)
 - `헥사봇`_ :: KakaoTalk bot
 - `포탈봇`_ :: Facebook bot :: `링크 <https://www.facebook.com/hexa.portal>`__
 - `컴공아 일하자`_ :: Facebook bot :: `링크 <https://www.facebook.com/comgong.job>`__
@@ -118,7 +124,7 @@ Skills
 .. _HolyShield 2013: https://www.facebook.com/CATHolyShield/photos/a.438453622859643.95021.270853396286334/634153726622964
 .. _2013 Korea Whitehat Contest: http://www.whitehatcontest.com/
 
-.. _NAVER Labs: http://lab.naver.com/
+.. _NAVER Labs: https://www.facebook.com/naverlabs
 .. _MSNL: http://msn.unist.ac.kr/
 
 .. _pyNdrive: https://github.com/carpedm20/ndrive

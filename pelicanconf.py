@@ -27,7 +27,7 @@ TRANSLATION_FEED_ATOM = None
 # Build process
 STATIC_PATHS = ['images', 'files']
 TYPOGRIFY = False  # TODO blocked by pelican issue #980
-SUMMARY_MAX_LENGTH = 15
+SUMMARY_MAX_LENGTH = 10
 DEFAULT_PAGINATION = 10
 DEFAULT_ORPHANS = 2
 
