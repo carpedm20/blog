@@ -53,7 +53,7 @@
 &lt;p&gt;wieght와 threshold를 바꿔가면서, 우리는 다른 의사 결정 모델을 만들 수 있다. 예를들어, threshold 를 3으로 정했다고 가정해보자. 그렇다면 perceptron은 날씨가 좋을땐 언제든지 혹은 교통 수단과 연인의 의사 조건이 맞았을 때 축제에 참가할 수 있게 될 것이다. 이런 방법으로 전혀 다른 의사 결정 모델을 만들 수 있다. threshold 를 줄이는 것은 당신이 축제에 더욱 가고싶다는 의미를 나타낸다.&lt;/p&gt;
 &lt;p&gt;하지만 perceptron은 인간의 의사결정 모델과는 전혀 닮지 않았다! 하지만 위의 예시가 의미하는 바는 perceptron이 결정들을 만들기 위해서 어떻게 다른 요소들을 계산하는지를 보여준다. 또한, 복잡한 perceptron 네트워크를 구축한다면 미묘한 결정을 내릴 수 있게 될 것이다.&lt;/p&gt;
 &lt;img alt="" class="align-center" src="http://neuralnetworksanddeeplearning.com/images/tikz1.png" /&gt;
-&lt;p&gt;위에 보이는 네트워크에서는, 첫번째 열의 perceptron들이 input에 중요도를 계산해 3개의 간단한 결정을 내린다. 여기서 첫번째 열의 perceptron들을 첫번째 층(layer) perceptron 이라 부르겠다. 그렇다면 두번째 층에 있는 perceptron들은 무엇을 하는가? 각각의 perceptron 은 첫번째 층에서 만들어진 의사 결정들을 토대로 새로운 결정을 만들어 낸다. 이러한 방법으로 두번째 층의 perceptron은 첫번째 층보다 더욱 복잡하고 추상적인 레벨의 결정을 내릴 수 있다.마찬가지로 세번째 층의 perceptron 은 더더욱 복잡한 결정을 내릴 것이다. 이러한 방식으로, 다층 레이어의 perceptron 네트워크는 세련된 의사 결정을 내릴 수 있는 것이다.&lt;/p&gt;
+&lt;p&gt;위에 보이는 네트워크에서는, 첫번째 열의 perceptron들이 input에 중요도를 계산해 3개의 간단한 결정을 내린다. 여기서 첫번째 열의 perceptron들을 첫번째 층(layer) perceptron 이라 부르겠다. 그렇다면 두번째 layer에 있는 perceptron들은 무엇을 하는가? 각각의 perceptron 은 첫번째 layer에서 만들어진 의사 결정들을 토대로 새로운 결정을 만들어 낸다. 이러한 방법으로 두번째 layer의 perceptron은 첫번째 layer보다 더욱 복잡하고 추상적인 레벨의 결정을 내릴 수 있다.마찬가지로 세번째 layer의 perceptron 은 더더욱 복잡한 결정을 내릴 것이다. 이러한 방식으로, multi-level layer의 perceptron 네트워크는 세련된 의사 결정을 내릴 수 있는 것이다.&lt;/p&gt;
 &lt;p&gt;그런데, 나는 perceptron을 하나의 output 만 만들어 내는 모델이라고 정의를 내렸다. 하지만 위의 네트워크는 여러개의 output 들을 만들어 내는 것 처럼 보인다. 사실, 그것들은 여전히 하나의 output 이다. 여러개의 output 화살표들은 단지 다른 perceptron에서의 output을 input으로 사용되는 것을 나타낼 때 유용할 뿐이다.&lt;/p&gt;
 &lt;p&gt;이제 perceptron 을 좀더 간단한 방법으로 정리해보자. $\sum_j w_j x_j &gt; \mbox{threshold}$ 은 다소 다루기 어려운 식이며, 우리는 이것을 두개의 식으로 나눠 간단하게 할 수 있다. 가장 첫번째 변화는 $\sum_j w_j x_j$ 를 $w \cdot x \equiv \sum_j w_j x_j$ 처럼 하나의 점곱(dot product = scalar product)으로 바꾸는 것이다. 여기서 w 와 x 는 각각 weight 와 input 의 벡터가 된다. 두번째 변화는 threshold 항을 식의 반대쪽으로 옮기고, $b \equiv-\mbox{threshold}$ 로 나타낼 수 있다. 여기서 b는 bias의 약자이다.&lt;/p&gt;&lt;a class="displaced_anchor" name="eqtn2"&gt;&lt;/a&gt;\begin{eqnarray}
 \mbox{output} = \left\{
@@ -217,7 +217,59 @@ graph.append("text")
       .style("font-size", "16px")
       .text("step function");
 &lt;/script&gt;
-&lt;/p&gt;&lt;p&gt;만약 $\sigma$가 &lt;/p&gt;&lt;p&gt;( .. 진행중 .. )&lt;/p&gt;
+&lt;/p&gt;&lt;p&gt;만약 $\sigma$가 step function이었다면, sigmoid neuron은 perceptron과 같았을 것이다. 왜냐하면, $w \cdot x + b$가 양수인지 음수에 따라 sigmoid neuron의 output이 1 또는 0으로 결정이 되기 때문이다. 하지만 위의 그래프처럼 생긴 실제 $\sigma$ 함수를 사용하면서 평탄해진 perceptron이 된다. 따라서 구체적인 수식보다는 이러한 평탄함이 $\sigma$ 함수의 핵심이라고 볼 수 있다. $\sigma$의 평평함은 작은 $\Delta w_j$와 $\Delta b$가 neuron의 작은 $\Delta \mbox{output}$을 만든다는 것을 의미한다. 미적분을 계산하면, $\Delta \mbox{output}$는 대략적으로:&lt;/p&gt;
+
+&lt;a class="displaced_anchor" name="eqtn5"&gt;&lt;/a&gt;\begin{eqnarray}
+\Delta \mbox{output} \approx \sum_j \frac{\partial \, \mbox{output}}{\partial w_j}
+\Delta w_j + \frac{\partial \, \mbox{output}}{\partial b} \Delta b,
+\tag{5}\end{eqnarray}
+
+&lt;p&gt;의 값을 가지게 된다. 당신이 도함수(partial derivatives)에 익숙하지 않다고 해서 불편함을 느낄 이유가 전혀 없다! 위의 수식이 복잡해 보이더라도, 매우 간단하다: $\Delta \mbox{output}$는 $\Delta w_j$와 $\Delta b$의 1차 함수로 표현할 수 있다는 말이다. 이러한 선형성은 output에서 발생하는 작은 변화가 우리가 원하는 방식으로 만들어 질 수 있도록 weight와 bias를 바꾸기 쉽다는 것을 의미한다. 그렇기 때문에 sigmoid neuron은 perceptron의 형태와 질적으로 많이 비슷하며, 어떻게 weight와 bias를 바꿀지를 알아내는 것이 훨씬 쉽다.&lt;/p&gt;
+
+&lt;p&gt;$\sigma$ 함수의 정확한 식이 아니라 그 모양이 훨씬 중요하다면, 왜 우리는 Equation (3)은 어떻게 나오게 된걸까? 사실 우리는 종종 활성화 함수(activation function) $f(\cdot)$에 대한 output이 $f(w \cdot x + b)$인 neuron을 종종 고려하게 될 것이다다. 우리가 다른 활성화 함수를 사용할때 가장 큰 변화는 Equation (5)의 특정 변수의 변화이다. 우리가 $\sigma$함수를 이용해서 이러한 도함수를 계산하게 될 때 지수함수의 특별한 성질 때문에 계산이 매우 간단하게 된다. 다시 정리하자면, $\sigma$함수는 neural network에서 보편적으로 쓰이며, 이 책에서 가장 많이 사용될 활성화 함수다.&lt;/p&gt;&lt;p&gt;그렇다면 sigmoid neuron의 output을 어떻게 해석해야 할까? perceptron과 sigmoid neuron의 가장 큰 변화는 sigmoid neuron은 0 또는 1 이외의 output을 가질 수 있다는 점이다. 0과 1 사이의 어떠한 실수가 될 수 있기 때문에 0.173과 0.689 와 같은 값들이 output이 될 수 있다. 이러한 속성은 매우 유용한데, 예를 들면 우리가 한 이미지 안에 있는 픽셀들의 평균 intensity를 neural network의 output으로 나타낼 수 있다는 점이다. 하지만 이러한 속성은 때때로는 매우 성가실 때도 있다. 만약 우리가 &amp;quot;이미지가 9다&amp;quot; 또는 &amp;quot;이미지가 9가 아니다&amp;quot; 이렇게 두가를 output으로 가지는 network가 있다고 가정해 보자. 이러한 경우에는 당연히 output을 0과 1로 표현하는 것이 훨씬 쉬울것이다. 하지만 output을 0.5보다 크거나 같은지에 따라 &amp;quot;9&amp;quot;인지 &amp;quot;9&amp;quot;가 아닌지를 결정하게 된다면 쉽게 문제를 해결할 수 있다.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="excercises"&gt;
+&lt;h2&gt;Excercises&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Sigmoid neuron simulating perceptrons, part 1&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;perceptron의 모든 weight와 bias를 양의 상수 $c &amp;gt; 0$로 곱했을때, network의 행동이 변하지 않는다는 것을 증명해라&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;dl class="first docutils"&gt;
+&lt;dt&gt;Sigmoid neuron simulating perceptrons, part 2&lt;/dt&gt;
+&lt;dd&gt;&lt;p class="first last"&gt;???&lt;/p&gt;
+&lt;/dd&gt;
+&lt;/dl&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div class="section" id="the-architecture-of-neural-networks"&gt;
+&lt;h2&gt;The architecture of neural networks&lt;/h2&gt;
+&lt;p&gt;다음 섹션에서 나는 손글씨 숫자들을 비교적 잘 분류하는 neural network를 소개할 것이다. 하지만 그 전에, 하나의 network에서의 부분들을 부르는 용어에 대해 설명하고자 한다. 다음과 같은 네트워크가 있다고 생각해 보자:&lt;/p&gt;
+&lt;img alt="" class="align-center" src="http://neuralnetworksanddeeplearning.com/images/tikz10.png" /&gt;
+&lt;p&gt;앞서 언급했다시피, 가장 왼쪽에 있는 layer를 $input layer$라고 부르고, 이 layer 안에 있는 neuron들을 $input neruon$이라 부른다. 가장 오른쪽 layer, 즉 $output layer$는 output neuron을 가진다(여기서는 하나의 output neuron만을 갖고 있다). 중앙에 있는 layer는 input 혹은 output layer도 아니기 때문에 $hiden layer$라고 부른다. 여기서 &amp;quot;hidden&amp;quot;이라는 단어가 조금 신비스럽게 들릴지도 모르지만 (처음에 내가 이 단어를 들었을때는 철학적인 혹은 수학적인 의미를 갖고 있다고 생각했다) 이 단어는 단지 &amp;quot;input도 output도 아닌&amp;quot;을 의마할 뿐이다. 위에 보이는 network는 하나의 hidden layer만 있지만, 여러개의 hidden layer를 가질수 도 있다. 예를 들면 아래의 4개의 layer를 가진 networt(four-layer network)는 두 개의 hidden layer를 갖고 있다.&lt;/p&gt;
+&lt;img alt="" class="align-center" src="http://neuralnetworksanddeeplearning.com/images/tikz11.png" /&gt;
+&lt;p&gt;다소 혼란스럽겠지만 전통적인 이유로 위와 같은 sigmoid neuron으로 구성된 network를 multilayer percetpron 혹은 MLP라고 부른다. 하지만, 혼란을 막기위해 이 책에서 MLP라는 용어를 쓰지 않겠지만, 이러한 용어가 있다는 사실을 알려주고 싶다.&lt;/p&gt;
+&lt;p&gt;input과 output layer의 디자인은 가끔 쉬워보일때가 있다. 예를들면, 손글씨 숫자를 "9"인지 아닌지를 구분하고 싶다고 가정해 보자. 가장 자연스러워 보이는 방법은, 이미지 픽셀의 조명도를 input neuron으로 가지는 network를 만드는 것이다. 만약 이미지가 $64 \times 64$ 그레이스케일(greyscale) 이미지라면, $4,096 = 64  \times 64$개의 input neuron이 필요하다. 여기서 조명도는 0과 1 사이로 scale한 숫자들이 될 것이다. output layer에는 하나의 neuron만 있을것이고, output 값이 0.5보다 작으면 "input 이미지는 9가 아니다"라는 결론이 나오고, 0.5보다 크다면 "input 이미지는 9다"라는 결론이 나올것이다.&lt;/p&gt;&lt;p&gt;이렇게 input과 output layer를 디자인 하는 방법은 다소 쉬워 보이는 반면, hidden layer를 디자인 하는것은 꽤나 어려워 보인다. 특히, 몇개의 주먹구구식 경험들로 만든 규칙으로 hidden layer를 전체적으로 디자인하는것은 불가능하다. 그래서 nueral network 연구자들은 우리가 원하는 network를 얻을 수 있도록 도와주는 hideen layer 디자인을 위한 design heuristic을 많이 개발했다. 예를 들면, network를 트레이닝 하는데 드는 시간과 hidden layer의 갯수를 여떻게 trade off 할지에 대한 heuristic 방법론들이 있다. 그러한 design heuristic은 이후에 좀더 다뤄볼 예정이다.&lt;/p&gt;
+&lt;p&gt;지금까지 우리는 한 layer의 output이 다음 layer의 input으로 사용되는 neural network에 대해 다뤄왔다. 이러한 network를 우리는 *feedforward* (실행 전에 결함을 예측하고 행하는 피드백 과정의 제어) neural network라고 부른다. 이 말은 정보가 앞쪽 방향으로만 전달되고 반대 방향으로는 전달되지 않는, 다시 말하면 loop가 존재하지 않는 network를 의미한다. 만약 loop가 존재한다면 $\sigma$ 함수의 input이 output에 영향을 받는 상황이 생길 것이다. 그러한 상황은 말이 되지 않기 때문에 우리는 그러한 loop를 허용하지 않는다.&lt;/p&gt;&lt;p&gt;하지만, 다른 인공 신경 네트워크(artificial neural network) 모델에서는 feedback loop가 가능한 경우도 있다. 이러한 모델을 우리는 &lt;a class="reference external" href="http://en.wikipedia.org/wiki/Recurrent_neural_network"&gt;recurrent neural networks&lt;/a&gt; 라고 부른다.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="a-simple-network-to-classify-handwritten-digits"&gt;
+&lt;h2&gt;A simple network to classify handwritten digits&lt;/h2&gt;
+&lt;p&gt;지금까지 우리는 neural network를 정의했으며, 다시 손글씨 인지 문제로 돌아와 보자. 우리는 손글씨 인지 문제를 두개의 소문제(sub-problem)로 나눌 수 있다. 먼저, 우리는 이미지를 하나의 숫자만 포함하는 작은 이미지들로 나누는 것이다. 예를들어, 아래의 이미지를&lt;/p&gt;
+&lt;img alt="" class="align-center" src="http://neuralnetworksanddeeplearning.com/images/digits.png" /&gt;
+&lt;p&gt;6개의 분리된 이미지로 나누면,&lt;/p&gt;
+&lt;img alt="" class="align-center" src="http://neuralnetworksanddeeplearning.com/images/digits_separate.png" /&gt;
+&lt;p&gt;위의 그림처럼 될 것이다. 우리 인간은 이러한 &lt;em&gt;분할 문제 (segmentation problem)&lt;/em&gt; 을 손쉽게 해결할 수 있지만, 컴퓨터 프로그램에게는 그렇지 않다. 일단 이미지가 분리되고 나면, 프로그램은 각각의 숫자를 인지해야 한다. 위의 예시에서 처음으로 분할된 이미지를&lt;/p&gt;
+&lt;img alt="" class="align-center" src="http://neuralnetworksanddeeplearning.com/images/mnist_first_digit.png" /&gt;
+&lt;p&gt;프로그램은 5라고 인지해야 할 것이다.&lt;/p&gt;
+&lt;p&gt;우리는 두번째 문제, 즉 각각의 숫자를 분류하는 문제를 해결하는 프로그램을 짜는데 집중할 것이다. 왜냐하면 여러분이 하나의 숫자를 구분할 수 있다면, 분할 문제를 해결하는 것은 크게 어렵지 않기 때문이다. 이미지 분할 문제를 해결하는 방법에는 여러가지가 있다. 한가지 방법으로는 여러번 이미지를 나눠 본 후 시도한 분할을 단일 숫자 분류기로 점수를 내는 것이다. 만약 단일 숫자 분류기가 작은 이미지들을 분류하는데 어려움을 겪지 않았다면 높은 점수를 받을 것이고, 숫자를 인지하는데 어려움을 겪는다면 낮은 점수를 받을것이다. 이 방법의 핵심 아이디어는, 만약 단일 숫자 분류기가 어딘가에서 난항을 겪는다면, 아마 이미지 분할이 제대로 이루어지지 않았을 가능성이 높다는 데에 있다. 이러한 아이디어 뿐만 아니라 다른 여러가지 방법으로 이미지 분할 문제를 잘 해결할 수 있을 것이다. 그렇기 때문에, 이미지 분할 문제 보다는 더 흥미롭고 어려운 단일 숫자를 분류할 수 있는 neural network를 만드는 데에 집중할 것이다.&lt;/p&gt;
+&lt;p&gt;하나의 숫자를 인지하기 위해 다음과 같은 3개의 layer를 가진 neural network를 이용할 것이다:&lt;/p&gt;
+&lt;img alt="" class="align-center" src="http://neuralnetworksanddeeplearning.com/images/tikz12.png" /&gt;
+&lt;p&gt;input layer는 픽셀들의 값을 인코딩한 뉴런들로 구성되어 있다. 다음 섹션에서 다루겠지만, 우리의 training data는 $28 times 28$ 픽셀 이미지기 때문에 $784 = 28 times 28$개 만큼의 neuron을 필요로 한다. 간단하게 그리기 위해서 위의 그림에서는 neuron을 많이 생략했다. input pixel은 흰색을 의미하는 0.0 부터 검정색을 의미하는 1.0 까지의 실수 값을 가지게 되며, 그 값은 회색의 진한 정도를 나타낸다.&lt;/p&gt;
+&lt;p&gt;두번째 layer는 hidden layer다.&lt;/p&gt;
+&lt;p&gt;( .. 진행중 .. )&lt;/p&gt;
 &lt;/div&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">carpedm20</dc:creator><pubDate>Thu, 03 Jul 2014 10:24:00 +0200</pubDate><guid>tag:,2014-07-03:2014/7/3/neural-net-translation/</guid><category>machine learning</category><category>neural network</category><category>perceptron</category><category>sigmoid neuron</category></item><item><title>Moved blog from blogger</title><link>/2014/6/29/moved-blog-from-blogger/</link><description>&lt;p&gt;I moved my blog from blogger (&lt;a class="reference external" href="http://carpedm20.blogspot.kr"&gt;http://carpedm20.blogspot.kr&lt;/a&gt;) to here.&lt;/p&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">carpedm20</dc:creator><pubDate>Sun, 29 Jun 2014 23:04:00 +0200</pubDate><guid>tag:,2014-06-29:2014/6/29/moved-blog-from-blogger/</guid><category>blog</category></item></channel></rss>
