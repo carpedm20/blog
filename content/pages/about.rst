@@ -104,6 +104,14 @@ Presentation
 - `영화 서비스에 대한 생각`_ (14-03-05)
 
 
+Translation
+-----------
+
+2014
+~~~~
+- Neural network and deep learning, Chapter 1 :: `original <http://neuralnetworksanddeeplearning.com/chap1.html>`_ :: `translation <http://carpedm20.github.io/2014/7/3/neural-net-translation/>`_ (14-07-03 ~ )
+
+
 Skills
 ------
 

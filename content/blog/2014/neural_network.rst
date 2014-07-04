@@ -5,31 +5,39 @@
 :tags: machine learning, neural network, perceptron, sigmoid neuron
 :slug: neural-net-translation
 
-http://neuralnetworksanddeeplearning.com/ 에 올라온 챕터을 이해하고 기록하고자 번역 작업을 시작한다. 번역의 속도를 높이기 위해 **수많은** 의역이 포함되어 있다. 
+
+http://neuralnetworksanddeeplearning.com/ 에 올라온 챕터을 이해하고 기록하고자 번역을 시작한다. 번역의 속도를 높이기 위해 **수많은** 의역이 포함되어 있다.
+
+Info
+----
+:원문: http://neuralnetworksanddeeplearning.com/chap1.html
+:저자: `Michael Nielsen <http://michaelnielsen.org/>`_
+:역자: 김태훈 (carpedm20)
+
 
 CHAPTER 1 Using neural nets to recognize handwritten digits
 -----------------------------------------------------------
 
-인간의 사각계는 이 세계의 불가사의 중 하나다. 잠시 아래의 손글씨들을 잠시 읽어보자.
+나는 인간의 사각계는 이 세계의 불가사의 중 하나라고 생각한다. 아래의 손글씨를 잠시 읽어보자.
 
 .. image:: http://neuralnetworksanddeeplearning.com/images/digits.png
    :width: 160 px
    :align: center
 
-대부분의 사람들은 그다지 큰 노력없이 504192 라고 읽을 수 있을 것이다. 하지만 이러한 과정은 생각만큼 쉽지는 않다. 인간 좌뇌 우뇌에서는, V1으로 알려진 일차 시각 피질(primary visual cortex)이 있으며, 이러한 V1은 1억 4천만개의 뉴런과 뉴런 사이에 형성된 100억개의 연결들이 존재한다. 하지만 모든 시각 피질(V2, V3, V4 그리고 V5)의 연결들은 더욱 복잡한 이미지 처리를 하게 된다. 즉, 우리의 머릿속에는 수억년간 진화해온 슈퍼컴퓨터가 있으며, 시각적 세계를 이해하는데 매우 적합하게 진화해 왔다. 다시 손글씨 숫자들 이야기로 돌아가면, 숫자륵 읽는 것은 쉽지 않은 과정이다. 하지만, 우리 인간은 두 눈이 보여주는 것들을 꽤나 자연스럽게 이해해 왔다. 이러한 과정은 무의식 중에 일어나기 때문에 우리는 시각계의 문제를 해결하는 것이 얼마나 어려운지를 알아채지 못하곤 한다.
+대부분의 사람들은 그다지 큰 노력없이 504192이라고 읽을 수 있을 것이다. 하지만 이러한 과정은 생각만큼 쉽지는 않다. 인간 좌뇌 우뇌에는 V1으로 알려진 일차 시각 피질(primary visual cortex)이 있으며, 이러한 V1은 1억 4천만개의 뉴런과 뉴런들 사이에 형성된 100억개의 연결(connection)들이 존재한다. 또한 다른 시각 피질(V2, V3, V4 그리고 V5)의 연결들은 더욱 복잡한 이미지 처리를 하게 된다. 즉, 우리의 머릿속에는 수억년동안 시각적 세계를 이해하기에 적합하도록 진화해온 슈퍼컴퓨터가 있다. 다시 손글씨 숫자들 이야기로 돌아가면, 숫자를 보고 인지하는것은 쉽지 않은 과정이다. 하지만, 우리는 두 눈이 보여주는 것을 꽤나 자연스럽게 이해해 왔다. 이러한 과정은 무의식 중에 일어나기 때문에 우리의 시각계가 얼마나 어려운 문제를 해결하는지 알아채지 못하곤 한다.
 
-시각적 패턴 인지의 어려움은 위의 예시처럼 손으로 쓴 숫자들을 읽는 컴퓨터 프로그램을 만들려고 할 때 명백해 진다. 우리가 쉽게 생각했던 것이 급격하게 어려워 보일것이다. 우리가 모양을 인지하는 과정을 간략하게 보면, "9는 위쪽에 곡선이 있고 오른쪽 아래에는 수직선이 있다", 일 것이고 알고리즘으로 설명하기에는 쉽지가 않아 보인다. 당신이 그런 규칙들을 정확하게 만들다 보면, 수많은 경고와 에러의 늪, 그리고 예외적인 케이스 문제에 쉽게 빠져 버리고 말 것이다. 절망적이군..
+시각적 패턴 인지의 어려움은 위의 예시처럼 손으로 쓴 숫자들을 읽는 컴퓨터 프로그램을 만들려고 할 때 명백해 진다. 잠시만 생각해보면 우리가 쉽게 생각했던 것이 급격하게 어려워 보일것이다. 우리가 모양을 인지하는 과정을 간략하게 예를 들면 "9는 위쪽에 곡선이 있고 오른쪽 아래에는 수직선이 있다"가 될 수 있고 이것을 알고리즘(algorithm)으로 설명하기에는 쉽지가 않아 보인다. 당신이 그런 규칙들을 정확하게 만들려고 시도하다 보면 경고와 에러의 늪, 그리고 수많은 예외적인 케이스 문제에 쉽게 빠져 버리고 말 것이다. 절망적이군..
 
-Neural Network는 이러한 문제를 다른 방식으로 접근한다. 핵심은 training example이라 불리는 많은 양의 손글씨 숫자들을 가지고:
+Neural Network는 이러한 문제를 전혀 다른 방식으로 접근한다. 핵심은 training example이라 불리는 많은 양의 손글씨 숫자들을 가지고:
 
 .. image:: http://neuralnetworksanddeeplearning.com/images/mnist_100_digits.png
    :width: 440px
    :align: center
 
 
-숫자를 인지하는 방법을 배우는 시스템을 만드는 것이다. 즉, neural network는 주어진 예시들을 이용해 손글씨 숫자 인지를 위한 규칙을 자동적으로 만들어 낸다. 또한, training example의 수를 늘림으로써 network는 손글씨에 대해 더욱 많이 배우면서 정확도를 높일 수 있다. 그래서 위에 제시된 100개의 예시 외에 수천 수만개의 training example을 사용하면 더욱 좋은 손글씨 인지 시스템을 만들 수 있게 될 것이다.
+숫자를 인지하는 방법을 배워가는 하나의 시스템을 만드는 것이다. 즉, neural network는 주어진 예시들을 이용해 숫자 인지를 위한 규칙을 자동적으로 만들어 낸다. 또한, training example의 수를 늘림으로써 network는 손글씨에 대해 좀 더 배울 수 있고 시스템의 정확도를 높일 수 있다. 그래서 위에 제시된 100개의 예시 뿐만 아니라 수천 수만개의 training example을 사용한다면 더욱 좋은 손글씨 인지 시스템을 만들 수 있게 될 것이다.
 
-이 챕터에서는 neural network를 사용해 손글씨 숫자를 인지하는 컴퓨터 프로그램을 만들게 된다. 프로그램은 74 줄 밖에 안되며, 특별한 neural network 라이브러리를 전혀 사용하지 않는다. 하지만 이 짧은 프로그램은 사람의 중재없이  96프로의 정확도를 보여준다. 그리고 이후의 챕터에서는 정확도를 99프로로 높이게 된다. 실제로 뛰어난 상업 neural network는 은행에서 수표를 읽거나 우체국에서 주소를 읽는데 사용이 된다.
+이 챕터에서는 neural network를 사용해 손글씨 숫자를 인지하는 컴퓨터 프로그램을 만들게 된다. 프로그램은 74 줄 밖에 안되며, 특별한 neural network 라이브러리를 전혀 사용하지 않는다. 하지만 이 짧은 프로그램은 사람의 중재없이  96프로의 정확도를 보여준다. 그리고 이후의 챕터에서는 정확도를 99프로로 높이게 된다. 실제로 뛰어난 상업 neural network는 은행에서 수표를 읽거나 우체국에서 주소를 읽는데 사용이 된다.1
 
 우리가 손글씨 인지에 집중하는 이유는 neural network의 전반적인 이해에 도움이 되는 훌륭한 문제이기 때문이다. 문제로써 가장 좋은 이유는 바로 우리의 도전의식을 북돋기 때문이다. 그리고 deep learning과 같이 더욱 발전된 기술들을 이해하는데 도움이 된다. 이 책의 후반부에는, 컴퓨터 비전, 음성 인식, 자연어 처리 등의 다양한 분야에서 이러한 아이디어가 어떻게 적용되는지를 공부하게 될 것이다.
 
@@ -118,6 +126,198 @@ NAND 게이트 예제는 perceptron을 간단한 논리 계산에 사용될 수 
 .. image:: http://neuralnetworksanddeeplearning.com/images/tikz4.png
    :align: center
 
+여기서 특이한 것은 가장 왼쪽에 있는 perceptron의 output이 가장 아래에 있는 perceptron의 input으로 두번 들어간다는 것이다. perceptron을 정의할때 나는 이러한 경우가 가능한지 그렇지 않은지에 대해 언급하지 않았다. 실제로 이것은 상관이 없다. 우리가 이러한 경우를 제거하고 싶다면, 두개의 선을 wiehgt가 -4인 연결로 합치면 된다. (만얀 이것이 잘 이해가 되지 않는다면, 여러분은 잠시 멈춰서 스스로 이해를 하는 시간을 꼭 가지도록 하자.) 아래의 그림은 weight가 표시되지 않은 선의 weight는 모두 -2이고 bias는 3인 perceptron으로 이루어진 네트워크를 보여준다:
+
+.. image:: http://neuralnetworksanddeeplearning.com/images/tikz5.png
+   :align: center
+
+지금까지 나는 x1, x2와 같은 input을 perceptron왼쪽에 떠다니는 것으로 그려왔다. 하지만, input을 하나의 layer를 만들어 그리는 것이 더욱 평범한 방법이다:
+
+.. image:: http://neuralnetworksanddeeplearning.com/images/tikz6.png
+   :align: center
+
+output은 있지만 input은 없는 input perceptron은
+
+.. image:: http://neuralnetworksanddeeplearning.com/images/tikz7.png
+   :align: center
+
+.. raw:: html
+
+   <p>위와같이 간단하게 표기할 수 있다. 사실 이것은 input이 없는 perceptron을 뜻하지는 않는다. 한번 input이 없는 perceptron을 생각해 보자. 그렇다면 $\sum_j w_j x_j$ 은 언제나 0이 되며, $b > 0$라면 $1$의 output을 $b \leq 0$면 $0$의 output을 나타낼 것이다. 즉, perceptron은 우리가 원하는 값이 아닌 항상 고정된 값만 출력할 것이다. 그렇기 때문에 input perceptron을 perceptron이 아니라 단순히 x1, x2 ... 와 같은 고정된 값으로 정의된 단위 유닛(unit)으로 생각하는 것이 낫다. </p>
+
+위의 예제에서는 많은 NAND 게이트를 가진 회로를 perceptron의 network로 나타내는 방법을 보여주었다. 그리고 NAND 게이트로 모든 계산이 가능하기 때문에, perceptron의 network 또한 모든 계산이 가능하다는 것을 보여준다.
+
+perceptron의 계산의 범용성(computational university)은 우리를 안심시키는 동시에 실망스러움을 안겨준다. 먼저 어느 컴퓨팅 장비에서도 perceptron network가 이용될 수 있기 때문에 안심이 된다. 허나 perceptron이 단지 새로운 형태의 NAND 게이트일 뿐이라고 생각한다면 다소 실망스럽다.
+
+하지만, 인공 뉴런 네트워크의 weight와 bias를 자동적으로 조절(tuning)할 수 있는 러닝 알고리즘(learning algorithm)을 고안할 수 있기 때문에 그렇게 상황이 나쁜것은 아니다. 즉, 이러한 자동적 조절은 프로그래머의 직접적인 중재 없이도 외부적인 자극(output이 맞는지 맞지 않는지)에 반응한다는 말이다. 이러한 러닝 알고리즘은 전통적인 논리 게이트와는 철저하게 다른 방법으로 인공뉴런을 사용할 수 있게 한다. 때문에 논리 회로로 해결하기에는 극히 어려운 문제도 neural network를 사용하면 쉽게 해결할 수 있다.
+
+
+Sigmoid neurons
+---------------
+
+러닝 알고리즘(Learning algorithm)이란 단어는 매우 멋져 보이지만, neural network에 어떻게 러닝 알고리즘을 적용할 수 있을까? 잠시 우리가 어떤 문제를 해결하기 위해 perceptron network를 이용한다고 생각해 보자. network의 input은 손글씨 숫자들을 스캔해서 얻은 픽셀 데이터라고 가정하자. 그리고 netowrk를 통해서 숫자를 제대로 구분하기 위해 올바른 wieght 와 bias를 찾고 싶다고 가정하자. 우리는 러닝이 어떻게 작동하는지 보기 위해, weight나 bias에 작은 변화를 주었다. 우리는 이러한 작은 변화가 network의 결과에 적당한 변화를 만드는 것을 확인하고 싶다. 잠시후 보게 되겠지만, 이러한 작은 변화는 러닝을 가능하게 한다. 이것이 우리가 원하는 network의 구조이다 (확실히 손글씨 인지를 하기에는 매우 간단하다): 
+
+.. image:: http://neuralnetworksanddeeplearning.com/images/tikz8.png
+   :align: center
+
+만약 weight나 bias의 작은 변화가 output에 작은 변화를 만든다면, 우리는 이 사실을 통해 network가 제대로 작동하도록 조정할 수 있을것이다. 예를 들어, network가 숫자 "9"를 "8"이라고 잘못 분류했다고 가정하자. 우리는 weight와 bias에 변화를 주면서 network가 이미지를 "9"라는 결과로 분류하도록 만들 수 있을것이다. 그리고 이러한 과정을 반복하면서 올바른 output을 만들어 내는 wieght와 bias를 찾게 된다. 바로 network가 러닝을 하는 것이다.
+
+문제는 network에 perceptron이 있다면 이러한 과정이 이루어지지 않는다는 점이다. 사실 weight와 bias의 작은 변화는 network의 결과를 완전히 바꿔버리는(즉 0에서 1로 혹은 1에서 0으로) 결과를 초래할 수 있다. 이러한 변화는 network의 나머지 부분을 완전히 그리고 이해하기 복잡하게 바꿔버릴 수 있다. 그렇기 때문에 "9"라는 숫자가 제대로 분류가 되었다 하더라도, 다른 이미지를 인지하는 부분이 수정하기 까다롭게 바뀌어 버릴지도 모른다. 이렇기 때문에 점차적으로 weight와 bias를 변화해 가면서 우리가 원하는 행동을 만들어가는 것이 매우 어렵다. 하지만 이러한 문제를 해결하는 똑똑한 방법이 있을것이다.
+
+여기서 우리는 sigmoid neuron이라 불리는 새로운 인공 뉴런(artificial neuron)을 소개함으로써 이 문제를 해결할 수 있다. sigmoid neuron은 perceptron과 비슷하지만, weight와 bias의 변화가 output에 단지 작은 변화만을 만들 수 있도록 개조되었다. 이것이 sigmoid neuron의 network가 배움을 가능하게 하는 중요한 사실이다.
+
+자, 이제 sigmoid neuron에 대해 설명하겠다. 우리는 perceptron을 그린 방식으로 sigmoid neuron을 그릴 것이다:
+
+.. image:: http://neuralnetworksanddeeplearning.com/images/tikz9.png
+   :align: center
+
+.. raw:: html
+
+   <p>perceptron의 경우와 같이, sigmoid neuron 또한 x1, x2 ... 와 같은 input이 있다. 하지만 0이나 1 뿐만이 아니라 0과 1사이의 값들을 input으로 받을 수 있다. 그래서 0.638 .. 과 같은 값이 sigmoid neuron의 input이 될 수 있다는 말이다. 또한 perceptron처럼 sigmoid neuron에는 w1, w2 ... 와 b 와 같은 wieght와 bias가 있다. 하지만 output은 0 혹은 1이 아닌  $\sigma(w \cdot x+b)$의 값을 가지며, 여기서 $\sigma$는 sigmoid function이라고 불린다. sigmoid function의 정의는 다음과 같다:</p>
+
+   <a class="displaced_anchor" name="eqtn3"></a>\begin{eqnarray} 
+     \sigma(z) \equiv \frac{1}{1+e^{-z}}.
+     \tag{3}\end{eqnarray}
+
+   <p>이 문장들을 좀더 깔끔하게 나타내면, input x1, x2 ...와 weight w1, w2 ..., 그리고 bais b를 가진 sigmoid neuron은 아래와 같다.</p>
+
+   <a class="displaced_anchor" name="eqtn4"></a>\begin{eqnarray} 
+     \frac{1}{1+\exp(-\sum_j w_j x_j-b)}.
+     \tag{4}\end{eqnarray}
+
+처음 위의 식을 보면 perceptron의 식과는 무척 달라 보일것이다. sigmoid function의 수식은 당신이 이미 친숙한 경우가 아니라면 접근하기 어려워 보일지도 모른다. 사실, perceptron과 sigmoid neuron 사이에는 공통점이 많이 있으며, sigmoid 함수의 대수적 형태가 perceptron 보다 더 기술적인 내용들을 포함하고 있다.
+
+.. raw:: html
+   <p>perceptron과의 유사성을 이해하기 위해서, $z \equiv w \cdot x + b$가 큰 양수라고 가정하자. 그렇다면 $e^{-z} \approx 0$이 되며, 즉 $\sigma(z) \approx 1$가 된다. 즉, $z \equiv w \cdot x + b$가 크고 정수일때, sigmoid neuron의 output은 pereptron의 경우와 마찬가지로 거의 1이 된다는 것을 의미한다. 만약 $z \equiv w \cdot x + b$가 큰 음수일 경우에도 perceptron의 output과 거의 비슷하다.</p>
+
+   <p>그렇다면 $\sigma$는 어떻게 생겼을까? 어떻게 우리는 그것을 이해하면 될까? 사실 $\sigma$의 정확한 형태보다는 함수를 그렸을 때의 모양이 더욱 중요하다. 아래 그림은 함수를 그래프로 그린 것이다:</p>
+   
+   <p><div id="sigmoid_graph"><a name="sigmoid_graph"></a></div>
+   <script src="http://d3js.org/d3.v2.min.js"></script>
+   <script>
+   function s(x) {return 1/(1+Math.exp(-x));}
+   var m = [40, 120, 50, 120];
+   var height = 290 - m[0] - m[2];
+   var width = 600 - m[1] - m[3];
+   var xmin = -5;
+   var xmax = 5;
+   var sample = 400;
+   var x1 = d3.scale.linear().domain([0, sample]).range([xmin, xmax]);
+   var data = d3.range(sample).map(function(d){ return {
+         x: x1(d), 
+         y: s(x1(d))}; 
+      });
+   var x = d3.scale.linear().domain([xmin, xmax]).range([0, width]);
+   var y = d3.scale.linear()
+                  .domain([0, 1])
+                  .range([height, 0]);
+   var line = d3.svg.line()
+      .x(function(d) { return x(d.x); })
+      .y(function(d) { return y(d.y); })
+   var graph = d3.select("#sigmoid_graph")
+      .append("svg")
+      .attr("width", width + m[1] + m[3])
+      .attr("height", height + m[0] + m[2])
+      .append("g")
+      .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
+   var xAxis = d3.svg.axis()
+                     .scale(x)
+                     .tickValues(d3.range(-4, 5, 1))
+                     .orient("bottom")
+   graph.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0, " + height + ")")
+      .call(xAxis);
+   var yAxis = d3.svg.axis()
+                     .scale(y)
+                     .tickValues(d3.range(0, 1.01, 0.2))
+                     .orient("left")
+                     .ticks(5)
+   graph.append("g")
+      .attr("class", "y axis")
+      .call(yAxis);
+   graph.append("path").attr("d", line(data));
+   graph.append("text")
+      .attr("class", "x label")
+      .attr("text-anchor", "end")
+      .attr("x", width/2)
+      .attr("y", height+35)
+      .text("z");
+   graph.append("text")
+         .attr("x", (width / 2))             
+         .attr("y", -10)
+         .attr("text-anchor", "middle")  
+         .style("font-size", "16px") 
+         .text("sigmoid function");
+   </script></p>
+
+아래의 그림은 sigmoid 함수가 평탄해진 계단 함수(step function)를 나타낸다:
+
+.. raw:: html
+
+   <p>
+   <div id="step_graph"></div>
+   <script>
+   function s(x) {return x < 0 ? 0 : 1;}
+   var m = [40, 120, 50, 120];
+   var height = 290 - m[0] - m[2];
+   var width = 600 - m[1] - m[3];
+   var xmin = -5;
+   var xmax = 5;
+   var sample = 400;
+   var x1 = d3.scale.linear().domain([0, sample]).range([xmin, xmax]);
+   var data = d3.range(sample).map(function(d){ return {
+         x: x1(d), 
+         y: s(x1(d))}; 
+      });
+   var x = d3.scale.linear().domain([xmin, xmax]).range([0, width]);
+   var y = d3.scale.linear()
+                  .domain([0,1])
+                  .range([height, 0]);
+   var line = d3.svg.line()
+      .x(function(d) { return x(d.x); })
+      .y(function(d) { return y(d.y); })
+   var graph = d3.select("#step_graph")
+      .append("svg")
+      .attr("width", width + m[1] + m[3])
+      .attr("height", height + m[0] + m[2])
+      .append("g")
+      .attr("transform", "translate(" + m[3] + "," + m[0] + ")");
+   var xAxis = d3.svg.axis()
+                     .scale(x)
+                     .tickValues(d3.range(-4, 5, 1))
+                     .orient("bottom")
+   graph.append("g")
+      .attr("class", "x axis")
+      .attr("transform", "translate(0, " + height + ")")
+      .call(xAxis);
+   var yAxis = d3.svg.axis()
+                     .scale(y)
+                     .tickValues(d3.range(0, 1.01, 0.2))
+                     .orient("left")
+                     .ticks(5)
+   graph.append("g")
+      .attr("class", "y axis")
+      .call(yAxis);
+   graph.append("path").attr("d", line(data));
+   graph.append("text")
+      .attr("class", "x label")
+      .attr("text-anchor", "end")
+      .attr("x", width/2)
+      .attr("y", height+35)
+      .text("z");
+   graph.append("text")
+         .attr("x", (width / 2))             
+         .attr("y", -10)
+         .attr("text-anchor", "middle")  
+         .style("font-size", "16px") 
+         .text("step function");
+   </script>
+   </p>
+
+.. raw:: html
+
+   <p>만약 $\sigma$가 </p>
 
 
 ( .. 진행중 .. )
