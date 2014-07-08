@@ -397,7 +397,13 @@ A simple network to classify handwritten digits
 
 input layer는 픽셀들의 값을 인코딩한 뉴런들로 구성되어 있다. 다음 섹션에서 다루겠지만, 우리의 training data는 $28 \times 28$ 픽셀 이미지기 때문에 $784 = 28 \times 28$개 만큼의 neuron을 필요로 한다. 간단하게 그리기 위해서 위의 그림에서는 neuron을 많이 생략했다. input pixel은 흰색을 의미하는 0.0 부터 검정색을 의미하는 1.0 까지의 실수 값을 가지게 되며, 그 값은 회색의 진한 정도를 나타낸다.
 
-두번째 layer는 hidden layer다. 
+.. raw:: html
+
+   <p>두번째 layer는 hidden layer다. hidden layer에 존재하는 neuron의 갯수를 $n$으로 나타내며 우리는 $n$을 바꿔가며 실험을 진행할 것이다. 위의 예시에 나와있는 hidden layer는 $n = 15$개의 neuron을 갖고 있다.</p>
+
+   <p>output layer는 10개의 neuron을 갖고 있다. 만약 첫번째 neuron의 상태가 output $\approx 1$이면 network가 input 이미지를 0으로 인식한다는 것을 의미한다. 만약 두번째 neuron의 상태가 $\approx 1$이면 이미지를 1로 인식한다는 것이다. 좀더 정확하게 설명하면, 우리는 output neuron을 0 부터 9까지 숫자를 붙이고, 어떤 neuron이 가장 높은 activation 값을 가지고 있는지 알아낼 것이다. 만약 6이라고 이름 붙인 neuron의 값이 가장 크다면, network는 input 숫자를 6으로 인지하고 있다는 의미다.</p>
+
+   <p>당신은 아마 왜 우리가 10개의 output neuron을 사용하고 있는지 궁금할 것이다. 그 이유는 우리가 만들고 있는 netork가 숫자 0, 1, 2, ... , 9를 구분해야하기 때문이다. 하지만 여러분은 각각의 output을 이진수로 생각해서, 4개의 output neuron으로도 충분하다고 생각할 지도 모른다. 이렇게 생각하는 이유는, $2^4 = 16$이기 때문에 충분히 10개의 가능한 값을 구분할 수 있을 것이라 말하고 싶을것이다. 하지만 왜 우리는 10개의 neuron을 상용해야만 하는 것일까? 그것은 비효율적이지 않을까? 우리가 이를 정당화 할 수 있는 방법은 경험에 의거했기 때문이다. 우리는 두가지 network를 모두 만들어 실험을 해 보았지만, 10개의 neuron을 가진 network가 4개의 neuron을 가진 network 보다 숫자를 더 잘 인지했다. </p>
 
 
 
