@@ -403,7 +403,32 @@ input layer는 픽셀들의 값을 인코딩한 뉴런들로 구성되어 있다
 
    <p>output layer는 10개의 neuron을 갖고 있다. 만약 첫번째 neuron의 상태가 output $\approx 1$이면 network가 input 이미지를 0으로 인식한다는 것을 의미한다. 만약 두번째 neuron의 상태가 $\approx 1$이면 이미지를 1로 인식한다는 것이다. 좀더 정확하게 설명하면, 우리는 output neuron을 0 부터 9까지 숫자를 붙이고, 어떤 neuron이 가장 높은 activation 값을 가지고 있는지 알아낼 것이다. 만약 6이라고 이름 붙인 neuron의 값이 가장 크다면, network는 input 숫자를 6으로 인지하고 있다는 의미다.</p>
 
-   <p>당신은 아마 왜 우리가 10개의 output neuron을 사용하고 있는지 궁금할 것이다. 그 이유는 우리가 만들고 있는 netork가 숫자 0, 1, 2, ... , 9를 구분해야하기 때문이다. 하지만 여러분은 각각의 output을 이진수로 생각해서, 4개의 output neuron으로도 충분하다고 생각할 지도 모른다. 이렇게 생각하는 이유는, $2^4 = 16$이기 때문에 충분히 10개의 가능한 값을 구분할 수 있을 것이라 말하고 싶을것이다. 하지만 왜 우리는 10개의 neuron을 상용해야만 하는 것일까? 그것은 비효율적이지 않을까? 우리가 이를 정당화 할 수 있는 방법은 경험에 의거했기 때문이다. 우리는 두가지 network를 모두 만들어 실험을 해 보았지만, 10개의 neuron을 가진 network가 4개의 neuron을 가진 network 보다 숫자를 더 잘 인지했다. </p>
+   <p>당신은 아마 왜 우리가 10개의 output neuron을 사용하고 있는지 궁금할 것이다. 그 이유는 우리가 만들고 있는 netork가 숫자 0, 1, 2, ... , 9를 구분해야하기 때문이다. 하지만 여러분은 각각의 output을 이진수로 생각해서, 4개의 output neuron으로도 충분하다고 생각할 지도 모른다. 이렇게 생각하는 이유는, $2^4 = 16$이기 때문에 충분히 10개의 가능한 값을 구분할 수 있을 것이라 말하고 싶을것이다. 하지만 왜 우리는 10개의 neuron을 상용해야만 하는 것일까? 그것은 비효율적이지 않을까? 우리가 이를 정당화 할 수 있는 방법은 경험에 의거했기 때문이다. 우리는 두가지 network를 모두 만들어 실험을 해 보았지만, 10개의 neuron을 가진 network가 4개의 neuron을 가진 network 보다 숫자를 더 잘 인지했다. 이런 경험적 증명이 아닌 다른 방법으로 10개 output network가 4개 output neuron보다 뛰어난 이유를 설명할 수 있을까?</p>
+
+이것을 이해하기 위해서, 처음으로 돌아가 neural network가 무엇인지에 대해 생각해 보는것이 도움이 된다.  먼저 10개 output neuron의 경우를 보자. 첫번째 output neroun을 보면, 이것은 input 이미지의 숫자가 0인지 아닌지를 hidden layer를 거치면서 결정된다. 그렇다면 hidden neroun들은 무엇을 하는 것일까? 여기서 hidden layer의 첫번째 neroun이 아래와 같은 이미지가 있는지 없는지를 알아낸다고 가정해 보자:
+
+.. image:: http://neuralnetworksanddeeplearning.com/images/tikz13.png
+   :align: center
+
+그렇다면, input 이미지와 위의 이미지를 겹쳐서 겹친 부분의 pixel에는 큰 weight를 곱하고, 그렇지 않은 pixel에는 작은 weight를 곱하면 될 것이다. 비슷한 방식으로, hhidden layer의 두번째, 세번째 그리고 네번째 neuron은 아래에 나열된 이미지가 존재하는지 존재하지 않는지를 구분한다고 가정해 보자:
+
+.. image:: http://neuralnetworksanddeeplearning.com/images/tikz14.png
+   :align: center
+
+위에 그림들을 조합해 보면, 각각의 이미지가 0의 부분 이미지라는 것을 알 수 있을것이다:
+
+.. image:: http://neuralnetworksanddeeplearning.com/images/tikz15.png
+   :align: center
+
+그래서 위에서 언급된 4개의 hidden neuron이 active라면 우리는 숫자가 0이라고 결론을 내릴 수 있을 것이다. 하지만 당연히 이 방법만이 숫자 0을 결정하는 증거가 되는 것은 아니다. 예를 들면, 앞서 제시한 4개의 이미지를 조금씩 변형할 수도 있고, 찌그러 트릴 수도 있다. 어쨋든, 적어도 이 방법으로 0을 안전하게 인지할 수 있을것으로 보인다.
+
+이러한 방법으로 network 함수들을 생각해 본다면, 우리는 왜 4개의 경우보다 10개의 output을 가진 network의 성능이 더 높다는 것을 그럴듯 하게 설명할 수 있을 것이다. 만약 4개의 output neuron의 경우를 상상해 본다면, 쉽게 위와 같은 process를 상상하기 어려울 것이다.
+
+하지만 결론적으로 이것은 모두 경험적 실험에 의한 결과이다. 그 어떤것도 3개 layer의 neural network가 내가 설명한 것처럼 작동할 것이라는 걸 증명하지 않는다. 아마 좀더 똑똑한 learning algorithm을 사용한다면 4개의 output neuron의 경우에 적합한 wiehgt를 찾아낼 지도 모른다. 하지만, 나의 실험적 결과로는 10개의 output neuron의 경우가 훨씬 더 잘 작동했고, 이 사실은 여러분이 neural network 구조를 디자인하는데 있어 많은 시간을 줄여 줄 것이다.
+
+
+Learning with gradient descent
+------------------------------
 
 
 
