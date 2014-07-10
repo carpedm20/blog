@@ -27,7 +27,7 @@ TRANSLATION_FEED_ATOM = None
 # Build process
 STATIC_PATHS = ['images', 'files']
 TYPOGRIFY = False  # TODO blocked by pelican issue #980
-SUMMARY_MAX_LENGTH = 10
+SUMMARY_MAX_LENGTH = 15
 DEFAULT_PAGINATION = 10
 DEFAULT_ORPHANS = 2
 
@@ -57,8 +57,8 @@ LINKS =  (('Name', 'http://url.com/'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'http://twitter.com/username'),
-          ('LinkedIn', 'http://twitter.com/username'),
-          ('Github', 'http://twitter.com/username'),)
+                  ('LinkedIn', 'http://twitter.com/username'),
+                            ('Github', 'http://twitter.com/username'),)
 
 DEFAULT_PAGINATION = 10
 
