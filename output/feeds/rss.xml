@@ -284,6 +284,16 @@ graph.append("text")
 &lt;/div&gt;
 &lt;div class="section" id="learning-with-gradient-descent"&gt;
 &lt;h2&gt;Learning with gradient descent&lt;/h2&gt;
+&lt;p&gt;( ... )&lt;/p&gt;
+&lt;p&gt;여기서 우리가 원하는 것은 모든 training input $x$에 대해서 network의 output이 $y(x)$와 근접한 결과를 만들어내는 weight와 bias를 찾는 알고리즘이다. 얼마나 우리가 목표와 근접한지를 계산하기 위해 우리는 cost function을 다음과 같이 정의한다:&lt;/p&gt;
+
+&lt;a class="displaced_anchor" name="eqtn6"&gt;&lt;/a&gt;\begin{eqnarray}  C(w,b) \equiv
+  \frac{1}{2} \sum_x \| y(x) - a\|^2.
+  \tag{6}\end{eqnarray}
+
+&lt;p&gt;여기서 $w$는 network의 모든 weight를 나타내고, b는 bias를, a는 x라는 input에 대해 계산한 network의 output값을 의미한며, 모든 training input인 x에 대한 식의 합을 계산한다. 당연히, output a는 x, w, b에 의존적이지만, 이 식을  간단하게 표현하기 위해 나는 이런 의존성을 명확히 표시하지는 않았다. 여기서 cost function을 $C$로 표현하고 quadratic cost function이라 부른다. 또한 이 식은 mean squred error, 즉 MSE라고 표현되기도 한다. quatratic cost function을 잘 들여다 보면, $C(w,b)$가 양수 값의 합이기 때문에 결과적으로 양수가 된다는 것을 알 수 있다. 그리고, 모든 training input $x$에 대해 $y(x)$가 output $a$에 근접한다면 $C(w,b)$는 작아지고, $C(w,b) \approx 0$가 될 것이다. 그렇기 때문에 우리의 training 알고리즘이 $C(w,b) \approx 0$를 만드는 적절한 weight와 bias를 찾는다면 좋은 알고리즘이라고 볼 수 있겠다. 하지만 반대로, 많은 input $x$에 대해  $y(x)$가 output $a$에 근접하지 않는다면 $C(w,b)$는 결국 큰 숫자가 될 것이고, 이러한 weight와 bias를 찾는 알고리즘은 좋은 알고리즘이 아니다. 그래서 weight와 bias의 함수인 $C(w,b)$를 최소화하는 training 알고리즘을 찾는것이 우리읭 목표이다. 다시 말하자면, cost를 가장 작게 만드는 weight와 bias를 찾아야 한다는 것이다. 여기서 우리는 gradient descent라고 알려진 algorithm을 사용할 것이다.&lt;/p&gt;&lt;p&gt;그렇다면 왜 quadratic cost를 소개했을까? 결국 우리가 진짜로 관심있는 것은 적절하게 이미지를 분류하는 network 아닌가? quadratic cost와 같은 측정법을 최소화 하는 대신, 숫자를 정확하게 예측하는 정도를 최대화 하려고 하지 않을까? 여기서 문제는 정확히 분류된 이미지의 &amp;quot;수&amp;quot;는 weight와 bias의 부드러운 함수(smooth function) 형태를 만들기 어렵다. 대부분의 경우 weight와 bias를 조금 바꾸는 것으로는 정확히 분류된 training 이미지의 &amp;quot;수&amp;quot;에는 큰 변화를 주지 않는디. 그렇기 때문에 이런 방식으로는 어떻게 weight와 bias를 바꿔야 성능이 좋아지는지를 알아내기 힘들다. 그 대신에 우리가 quadratic cost와 같은 cost 함수를 사용한다면 cost를 줄이기 위해서 어떻게 wieght와 bias를 바꿔야 하는지 쉽게 알아낼 수 있을것이다. 그렇기 때문에 우리는 먼저 quadratic cost를 줄이는데 집중을 하고, 그 후에 분류의 정확도를 조사할 것이다.&lt;/p&gt;
+&lt;p&gt;이제 당신은 왜 cost function을 사용해야 하는지 알았더라도, 여전히 왜 quadratic function을 사용했는지 궁금해 할 수 있다. quadratic function 말고는 다른 옵션은 없을까? 만약 우리가 다른 cost function을 사용한다면 완전히 다른 weight와 bias를 얻게 되지는 않을까? 이러한 고민을 하는것은 당연하며, 나중에 우리는 다른 cost function을 사용해 볼 것이다. 하지만, quadratic cost function은 neural network를 이해하는데 매우 적합한 함수이기 때문에 당분간은 이것을 사용할 것이다.&lt;/p&gt;
+&lt;p&gt;다시 정리하자면, neural network를 training하는데 있어 우리의 목표는  quadratic cost function인 $C(w,b)$를 최소화 하는 것이다.&lt;/p&gt;
 &lt;p&gt;( .. 진행중 .. )&lt;/p&gt;
 &lt;/div&gt;
 </description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">carpedm20</dc:creator><pubDate>Thu, 03 Jul 2014 00:00:00 +0200</pubDate><guid>tag:,2014-07-03:2014/neural-net-translation/</guid><category>machine learning</category><category>neural network</category><category>perceptron</category><category>sigmoid neuron</category></item><item><title>Moved blog from blogger</title><link>/2014/moved-blog-from-blogger/</link><description>&lt;p&gt;I moved my blog from blogger (&lt;a class="reference external" href="http://carpedm20.blogspot.kr"&gt;http://carpedm20.blogspot.kr&lt;/a&gt;) to here.&lt;/p&gt;
