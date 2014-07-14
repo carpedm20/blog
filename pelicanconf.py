@@ -33,7 +33,7 @@ DEFAULT_ORPHANS = 2
 
 # URL configuration
 RELATIVE_URLS = True  # dev only
-ARTICLE_URL = '{date:%Y}/{date:%-m}/{date:%-d}/{slug}/'
+ARTICLE_URL = '{date:%Y}/{slug}/'
 ARTICLE_SAVE_AS = ARTICLE_URL + 'index.html'
 PAGE_URL = '{slug}/'
 PAGE_SAVE_AS = PAGE_URL + 'index.html'
@@ -44,8 +44,8 @@ TAGS_SAVE_AS = 'tags/index.html'
 ARCHIVES_SAVE_AS = 'archive/index.html'
 ARCHIVES_URL = 'archive/'
 YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
-MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%-m}/index.html'
-DAY_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%-m}/{date:%-d}/index.html'
+#MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%-m}/index.html'
+#DAY_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%-m}/{date:%-d}/index.html'
 PAGE_LANG_SAVE_AS = False
 ARTICLE_LANG_SAVE_AS = False
 AUTHOR_SAVE_AS = False
