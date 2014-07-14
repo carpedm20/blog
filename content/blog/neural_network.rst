@@ -430,7 +430,17 @@ input layer는 픽셀들의 값을 인코딩한 뉴런들로 구성되어 있다
 Learning with gradient descent
 ------------------------------
 
-( ... )
+이제 우리에겐 neural network의 전체적인 디자인이 있다. 그런데 어떻게 이 network>가 숫자를 인지하는 것을 배울 수 있을까? 가장 먼저, 우리에게 필요한 것은 "training dataset"이라고 불리는 숫자 인지를 배울 데이터가 필요하다. 우리는 수만개의 손글
+씨 숫자 이미지를 스캔한 이미지와 그 이미지에 해당하는 숫자가 있는 `MNIST 데이터 셋 <http://yann.lecun.com/exdb/mnist/>`_ 을 사용할 것이다. MNIST라는 이름은 `NIST <http://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology>`_ (the United States' National Institute of Standards and Technology)에 의해 모>여진 데이터를 수정한 부분 데이터이기 때문에 붙여졌다. 아래는 MNIST 에 포함된 몇>개의 이미지 예시다:
+
+.. image:: http://neuralnetworksanddeeplearning.com/images/digits_separate.png
+   :align: center
+
+사실 이미지는 이 챕터를 시작할 때 보여줬던 이미지들이다. 당연히 우리의 network를
+ 테스트 할 때에는 training set에서 사용했던 이미지들은 사용하지 않을 것이다!
+
+ MNIST 데이터는 두개의 부분으로 나뉜다. 첫번째 파트는 60,000개의 이미지로 구성되>어 있고 training data로 사용할 것이다. 이 이미지들은 250명의 사람들로부터 얻은 >스캔한 손글씨들이며, 반은 US Census Bureau 노동자들로부터, 나머지 반은 고등학교 학생들로부터 얻었다. 이미지들은 28 * 28 픽셀 사이즈로 회색톤(greyscale)으로 되어
+ 있다. MNIST의 두번째 파트는
 
 .. raw:: html
    <p>이제 우리는 training input을 x로 효녀할 것이다. 각각의 training input $x$를 $28 \times 28 = 784$차원의 벡터로 생각하면 이해하기 쉬울것이다. 각 vector의 값들은 한 이미지에 있는 pixel들의 grey value(얼마나 흰지 검은지를 나타내는 값)을 표현한다. 우리가 원하는 결과값은 $y = y(x)$로 표현하고, 여기서 $y$는 10차원 벡터이다. 예를 들면, 숫자 6을 나태내는 이미지 x의 경우, $y(x) = (0, 0, 0, 0, 0, 0, 1, 0, 0, 0)^T$ 가 우리가 원하는 network의 output일 것이다. 여기서 $T$는 transpose 계산이며, row vector를 column vector로 바꾸는 연산자이다.</p>
