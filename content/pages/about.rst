@@ -78,10 +78,10 @@ Projects
 - `korail.js`_ :: Javascript library :: in progress
 - `UNIST Auction`_ :: Django
 - `CloudyAfterSunny`_ :: Chrome extension :: in progress
-- `LINE`_ :: `Python`_ LINE library :: in progress
+- `LINE`_ :: `Python`_ `LINE`_ library :: in progress :: **Hacking**
 - `FoxOffice`_ :: Django :: in progress
 - `MovieTag`_ :: Django
-- `pyNdrive`_ :: `Python`_ library
+- `pyNdrive`_ :: `Python`_ `Ndrive <http://ndrive.naver.com>`__ library :: **Hacking**
 - `Colosseum`_ :: Django
 - `Dada Study`_ :: Django
 - `유니스트 내가 전해주까`_ :: Facebook bot :: `링크 <https://www.facebook.com/unistbap?>`__
@@ -90,16 +90,16 @@ Projects
 
 2013
 ~~~~
-- `kakao`_ :: `Python` KakaoTalk library
+- `kakao`_ :: `Python`_ `KakaoTalk`_ library :: **Hacking**
+- `헥사봇`_ :: `KakaoTalk`_ bot
 - `MovieDuk`_ :: Django
 - `random-wall`_ :: Javascript library
 - `UNIST Robot`_ :: Windows program (C#)
-- `헥사봇`_ :: KakaoTalk bot
 - `포탈봇`_ :: Facebook bot :: `링크 <https://www.facebook.com/hexa.portal>`__
 - `컴공아 일하자`_ :: Facebook bot :: `링크 <https://www.facebook.com/comgong.job>`__
-- 교내 전자 출결 서비스 취약점 발견 및 보고 :: `보고서 <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__
-- 카카오톡 및 라인 리버싱 및 보고서 작성 :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__
-- 예스24 타인 계정 로그인 취약점 발견 및 보고 :: `기사 <http://dailysecu.com/news_view.php?article_id=5781>`__
+- 교내 전자 출결 서비스 취약점 발견 및 보고 :: `보고서 <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
+- 카카오톡 및 라인 리버싱 및 보고서 작성 :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
+- 예스24 타인 계정 로그인 취약점 발견 및 보고 :: `기사 <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
 
 
 Presentation
@@ -155,6 +155,8 @@ Skills
 .. _유니스트 내가 전해주까: https://github.com/carpedm20/UNIST-FedEx
 .. _유니스트 밥먹기 십오분전: https://github.com/carpedm20/bap-15min-before
 .. _유니스트 버스 언제와?: https://github.com/carpedm20/chrome-unist-bus
+
+.. _KakaoTalk: http://www.kakao.com/talk/ko
 
 .. _random-wall: https://github.com/carpedm20/random-wall
 .. _MovieDuk: https://github.com/carpedm20/random-wall
