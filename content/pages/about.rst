@@ -76,7 +76,7 @@ Projects
 2014
 ~~~~
 - `korail.js`_ :: Javascript library :: in progress
-- `UNIST Auction`_ :: Django
+- `UNIST Auction`_ :: Django :: `Demo link <http://pam.herokuapp.com/>`__
 - `CloudyAfterSunny`_ :: Chrome extension :: in progress
 - `LINE`_ :: `Python`_ `LINE`_ library :: in progress :: **Hacking**
 - `FoxOffice`_ :: Django :: in progress
@@ -84,8 +84,8 @@ Projects
 - `pyNdrive`_ :: `Python`_ `Ndrive <http://ndrive.naver.com>`__ library :: **Hacking**
 - `Colosseum`_ :: Django
 - `Dada Study`_ :: Django
-- `유니스트 내가 전해주까`_ :: Facebook bot :: `링크 <https://www.facebook.com/unistbap?>`__
-- `유니스트 밥먹기 십오분전`_ :: Faecebook bot :: `링크 <https://www.facebook.com/unistfedex?>`__
+- `유니스트 내가 전해주까`_ :: Facebook bot :: `페북 링크 <https://www.facebook.com/unistfedex?>`__
+- `유니스트 밥먹기 십오분전`_ :: Faecebook bot :: `페북 링크 <https://www.facebook.com/unistbap?>`__
 - `유니스트 버스 언제와?`_ :: Chrome extension :: `크롬 웹 스토어 <https://chrome.google.com/webstore/detail/unist-bus-when/bjlijmbdlcjimbaehpppflcgmdgjlgme>`__
 
 2013
