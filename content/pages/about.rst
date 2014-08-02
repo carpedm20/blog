@@ -59,7 +59,7 @@ Experience
 
 Intern, `NAVER Labs`_ (2014.07 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Sermo: Cloud Comment Hosting Service, open source project
+- Sermo :: Cloud Comment Hosting Service :: open source project
 
 Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -78,7 +78,7 @@ Projects
 - `korail.js`_ :: Javascript library :: in progress
 - `UNIST Auction`_ :: Django
 - `CloudyAfterSunny`_ :: Chrome extension :: in progress
-- `LINE`_ :: `Python`_ library :: in progress
+- `LINE`_ :: `Python`_ LINE library :: in progress
 - `FoxOffice`_ :: Django :: in progress
 - `MovieTag`_ :: Django
 - `pyNdrive`_ :: `Python`_ library
@@ -90,6 +90,7 @@ Projects
 
 2013
 ~~~~
+- `kakao`_ :: `Python` KakaoTalk library
 - `MovieDuk`_ :: Django
 - `random-wall`_ :: Javascript library
 - `UNIST Robot`_ :: Windows program (C#)
@@ -162,6 +163,7 @@ Skills
 .. _포탈봇: https://github.com/carpedm20/UNIST-portal-bot
 .. _컴공아 일하자: https://github.com/carpedm20/comgong-job
 
+.. _kakao: https://github.com/carpedm20/kakaotalk
 
 .. _쉽게 쓰여진 Django: http://www.slideshare.net/carpedm20/django-32473577
 .. _영화 서비스에 대한 생각: http://www.slideshare.net/carpedm20/ss-32447808
