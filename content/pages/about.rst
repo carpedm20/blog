@@ -76,7 +76,7 @@ Projects
 2014
 ~~~~
 - `korail.js`_ :: Javascript library :: in progress
-- `UNIST Auction`_ :: Django :: `Demo link <http://pam.herokuapp.com/>`__
+- `UNIST Auction`_ :: Django :: `demo <http://pam.herokuapp.com/>`__
 - `CloudyAfterSunny`_ :: Chrome extension :: in progress
 - `LINE`_ :: `Python`_ `LINE`_ library :: in progress :: **Hacking**
 - `FoxOffice`_ :: Django :: in progress
