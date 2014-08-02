@@ -59,6 +59,7 @@ Experience
 
 Intern, `NAVER Labs`_ (2014.07 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Sermo: cloud comment hosting service open source project
 
 Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -74,6 +75,11 @@ Projects
 
 2014
 ~~~~
+- `koreail.js` :: Javascript library - in progress
+- `UNIST Auction`_ :: Django
+- `CloudyAfterSunny`_ :: Chrome extension - in progress
+- `LINE`_ :: `Python`_ library - in progress
+- `FoxOffice`_ :: Django - in progress
 - `MovieTag`_ :: Django
 - `pyNdrive`_ :: `Python`_ library
 - `Colosseum`_ :: Django
@@ -134,6 +140,12 @@ Skills
 
 .. _NAVER Labs: https://www.facebook.com/naverlabs
 .. _MSNL: http://msn.unist.ac.kr/
+
+.. _LINE: https://github.com/carpedm20/LINE
+.. _korail.js: https://github.com/carpedm20/korail.js
+.. _FoxOffice: https://github.com/carpedm20/foxoffice
+.. _UNIST Auction: https://github.com/carpedm20/UNIST-pam
+.. _CloudyAfterSunny: https://github.com/carpedm20/CloudyAfterSunny
 
 .. _pyNdrive: https://github.com/carpedm20/ndrive
 .. _MovieTag: https://github.com/carpedm20/movietag
