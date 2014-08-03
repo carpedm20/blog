@@ -49,9 +49,9 @@ Hacking
 ~~~~~~~
 - `Codegate 2014`_ quals ::17th place ( `HeXA`_ )
 - `Holyshield 2013`_ :: 1st place ( CodePink )
-   - held by Catholic University of Korea
+   - Held by Catholic University of Korea
 - `2013 Korea Whitehat Contest`_ :: 3rd place ( `HeXA`_ )
-   - held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
+   - Held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
    - Received an award of $8,000
 
 Experience
@@ -68,19 +68,21 @@ Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
 
 3rd president, `HeXA`_ (2012.08 ~ 2013.03)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+- Find a vulnerability of electronic attendance system of UNIST :: `report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__
+- Find a login vulnerability of a Korean online shopping mall, `yes24 <http://www.yes24.com/>`__ :: `article <http://dailysecu.com/news_view.php?article_id=5781>`__
+- Reverse engineering of `LINE` and `KakaoTalk` (Korean instant messaging application) :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
 
 Projects
 --------
 
 2014
 ~~~~
-- `korail.js`_ :: Javascript library :: in progress
+- `korail.js`_ :: Javascript library :: *in progress*
+- `CloudyAfterSunny`_ :: Chrome extension :: *in progress*
+- `LINE`_ :: `Python`_ `LINE`_ library :: *in progress* :: **Hacking**
+- `FoxOffice`_ :: Django :: *in progress*
+- `korail2`_ :: `Python`_ library :: **Hacking**
 - `UNIST Auction`_ :: Django :: `demo <http://pam.herokuapp.com/>`__
-- `CloudyAfterSunny`_ :: Chrome extension :: in progress
-- `LINE`_ :: `Python`_ `LINE`_ library :: in progress :: **Hacking**
-- `FoxOffice`_ :: Django :: in progress
-- `korail2`_ :: `Python`_ library :: ** Hacking **
 - `MovieTag`_ :: Django
 - `pyNdrive`_ :: `Python`_ `Ndrive <http://ndrive.naver.com>`__ library :: **Hacking**
 - `Colosseum`_ :: Django
