@@ -52,7 +52,7 @@ Hacking
    - held by Catholic University of Korea
 - `2013 Korea Whitehat Contest`_ :: 3rd place ( `HeXA`_ )
    - held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
-
+   - Received an award of $8,000
 
 Experience
 ----------
@@ -80,6 +80,7 @@ Projects
 - `CloudyAfterSunny`_ :: Chrome extension :: in progress
 - `LINE`_ :: `Python`_ `LINE`_ library :: in progress :: **Hacking**
 - `FoxOffice`_ :: Django :: in progress
+- `korail2`_ :: `Python`_ library :: ** Hacking **
 - `MovieTag`_ :: Django
 - `pyNdrive`_ :: `Python`_ `Ndrive <http://ndrive.naver.com>`__ library :: **Hacking**
 - `Colosseum`_ :: Django
@@ -143,6 +144,7 @@ Skills
 .. _MSNL: http://msn.unist.ac.kr/
 
 .. _LINE: https://github.com/carpedm20/LINE
+.. _korail2: https://github.com/carpedm20/korail2
 .. _korail.js: https://github.com/carpedm20/korail.js
 .. _FoxOffice: https://github.com/carpedm20/foxoffice
 .. _UNIST Auction: https://github.com/carpedm20/UNIST-pam
@@ -165,7 +167,7 @@ Skills
 .. _포탈봇: https://github.com/carpedm20/UNIST-portal-bot
 .. _컴공아 일하자: https://github.com/carpedm20/comgong-job
 
-.. _kakao: https://github.com/carpedm20/kakaotalk
+.. _kakao: https://github.com/namongk/kakaotalk
 
 .. _쉽게 쓰여진 Django: http://www.slideshare.net/carpedm20/django-32473577
 .. _영화 서비스에 대한 생각: http://www.slideshare.net/carpedm20/ss-32447808
