@@ -79,7 +79,7 @@ Projects
 ~~~~
 - `korail.js`_ :: Javascript library :: *in progress*
 - `CloudyAfterSunny`_ :: Chrome extension :: *in progress*
-- `LINE`_ :: `Python`_ `LINE`_ library :: *in progress* :: **Hacking**
+- `LINE`_ :: `Python`_ `LINE`_ library :: **Hacking**:: *in progress*
 - `FoxOffice`_ :: Django :: *in progress*
 - `korail2`_ :: `Python`_ library :: **Hacking**
 - `UNIST Auction`_ :: Django :: `demo <http://pam.herokuapp.com/>`__
@@ -87,9 +87,9 @@ Projects
 - `pyNdrive`_ :: `Python`_ `Ndrive <http://ndrive.naver.com>`__ library :: **Hacking**
 - `Colosseum`_ :: Django
 - `Dada Study`_ :: Django
-- `유니스트 내가 전해주까`_ :: Facebook bot :: `페북 링크 <https://www.facebook.com/unistfedex?>`__
-- `유니스트 밥먹기 십오분전`_ :: Faecebook bot :: `페북 링크 <https://www.facebook.com/unistbap?>`__
-- `유니스트 버스 언제와?`_ :: Chrome extension :: `크롬 웹 스토어 <https://chrome.google.com/webstore/detail/unist-bus-when/bjlijmbdlcjimbaehpppflcgmdgjlgme>`__
+- `유니스트 내가 전해주까`_ :: Facebook bot :: `Facebook link <https://www.facebook.com/unistfedex?>`__
+- `유니스트 밥먹기 십오분전`_ :: Faecebook bot :: `Facebook link <https://www.facebook.com/unistbap?>`__
+- `유니스트 버스 언제와?`_ :: Chrome extension :: `Chrome web store <https://chrome.google.com/webstore/detail/unist-bus-when/bjlijmbdlcjimbaehpppflcgmdgjlgme>`__
 
 2013
 ~~~~
@@ -98,11 +98,11 @@ Projects
 - `MovieDuk`_ :: Django
 - `random-wall`_ :: Javascript library
 - `UNIST Robot`_ :: Windows program (C#)
-- `포탈봇`_ :: Facebook bot :: `링크 <https://www.facebook.com/hexa.portal>`__
-- `컴공아 일하자`_ :: Facebook bot :: `링크 <https://www.facebook.com/comgong.job>`__
-- 교내 전자 출결 서비스 취약점 발견 및 보고 :: `보고서 <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
+- `포탈봇`_ :: Facebook bot :: `link <https://www.facebook.com/hexa.portal>`__
+- `컴공아 일하자`_ :: Facebook bot :: `link <https://www.facebook.com/comgong.job>`__
+- 교내 전자 출결 서비스 취약점 발견 및 보고 :: `report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
 - 카카오톡 및 라인 리버싱 및 보고서 작성 :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
-- 예스24 타인 계정 로그인 취약점 발견 및 보고 :: `기사 <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
+- 예스24 타인 계정 로그인 취약점 발견 및 보고 :: `news article <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
 
 
 Presentation
@@ -125,7 +125,7 @@ Translation
 Skills
 ------
 
-- Programming : C++, C#, Java, Python (& Django), HTML/CSS, Javascript, PHP
+- Programming : Python (& Django), HTML/CSS, Javascript, Java, C++, C#
 - Human Languages: English - TOEIC 880 (2012), Korean - Native
 
 
