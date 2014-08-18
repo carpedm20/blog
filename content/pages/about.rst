@@ -77,14 +77,13 @@ Projects
 
 2014
 ~~~~
-- `korail.js`_ :: Javascript library :: *in progress*
-- `CloudyAfterSunny`_ :: Chrome extension :: *in progress*
-- `LINE`_ :: `Python`_ `LINE`_ library :: **Hacking**:: *in progress*
+- `pyLINE`_ :: Python `LINE`_ library :: **Hacking** :: `documentation <http://carpedm20.github.io/line/>`__
+- `korail2`_ :: Python library :: **Hacking**
+- `emoji`_ :: Python library :: *in progress*
 - `FoxOffice`_ :: Django :: *in progress*
-- `korail2`_ :: `Python`_ library :: **Hacking**
 - `UNIST Auction`_ :: Django :: `demo <http://pam.herokuapp.com/>`__
 - `MovieTag`_ :: Django
-- `pyNdrive`_ :: `Python`_ `Ndrive <http://ndrive.naver.com>`__ library :: **Hacking**
+- `pyNdrive`_ :: Python `Ndrive <http://ndrive.naver.com>`__ library :: **Hacking** :: `documentation <http://carpedm20.github.io/ndrive/>`__
 - `Colosseum`_ :: Django
 - `Dada Study`_ :: Django
 - `유니스트 내가 전해주까`_ :: Facebook bot :: `Facebook link <https://www.facebook.com/unistfedex?>`__
@@ -93,8 +92,8 @@ Projects
 
 2013
 ~~~~
-- `kakao`_ :: `Python`_ `KakaoTalk`_ library :: **Hacking**
-- `헥사봇`_ :: `KakaoTalk`_ bot
+- `kakao`_ :: Python `KakaoTalk`_ library :: **Hacking**
+- `헥사봇`_ :: `KakaoTalk`_ bot :: **Hacking**
 - `MovieDuk`_ :: Django
 - `random-wall`_ :: Javascript library
 - `UNIST Robot`_ :: Windows program (C#)
@@ -144,10 +143,12 @@ Skills
 
 .. _NAVER Labs: https://www.facebook.com/naverlabs
 .. _MSNL: http://msn.unist.ac.kr/
+.. _LINE: http://line.me/en/
 
-.. _LINE: https://github.com/carpedm20/LINE
+.. _pyLINE: https://github.com/carpedm20/LINE
 .. _korail2: https://github.com/carpedm20/korail2
 .. _korail.js: https://github.com/carpedm20/korail.js
+.. _emoji: https://github.com/carpedm20/emoji
 .. _FoxOffice: https://github.com/carpedm20/foxoffice
 .. _UNIST Auction: https://github.com/carpedm20/UNIST-pam
 .. _CloudyAfterSunny: https://github.com/carpedm20/CloudyAfterSunny
