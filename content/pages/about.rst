@@ -79,7 +79,7 @@ Projects
 ~~~~
 - `pyLINE`_ :: Python `LINE`_ library :: `documentation <http://carpedm20.github.io/line/>`__ :: **Hacking**
 - `korail2`_ :: Python library :: **Hacking**
-- `emoji`_ :: Python library :: *in progress*
+- `emoji`_ :: Python library
 - `FoxOffice`_ :: Django :: *in progress*
 - `UNIST Auction`_ :: Django :: `demo <http://pam.herokuapp.com/>`__
 - `MovieTag`_ :: Django
