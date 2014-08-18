@@ -70,20 +70,20 @@ Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Find a vulnerability of electronic attendance system of UNIST :: `report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__
 - Find a login vulnerability of a Korean online shopping mall, `yes24 <http://www.yes24.com/>`__ :: `article <http://dailysecu.com/news_view.php?article_id=5781>`__
-- Reverse engineering of `LINE` and `KakaoTalk` (Korean instant messaging application) :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
+- Reverse engineering of `LINE` and `KakaoTalk`_ (Korean instant messaging application) :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
 
 Projects
 --------
 
 2014
 ~~~~
-- `pyLINE`_ :: Python `LINE`_ library :: **Hacking** :: `documentation <http://carpedm20.github.io/line/>`__
+- `pyLINE`_ :: Python `LINE`_ library :: `documentation <http://carpedm20.github.io/line/>`__ :: **Hacking**
 - `korail2`_ :: Python library :: **Hacking**
 - `emoji`_ :: Python library :: *in progress*
 - `FoxOffice`_ :: Django :: *in progress*
 - `UNIST Auction`_ :: Django :: `demo <http://pam.herokuapp.com/>`__
 - `MovieTag`_ :: Django
-- `pyNdrive`_ :: Python `Ndrive <http://ndrive.naver.com>`__ library :: **Hacking** :: `documentation <http://carpedm20.github.io/ndrive/>`__
+- `pyNdrive`_ :: Python `Ndrive <http://ndrive.naver.com>`__ library :: `documentation <http://carpedm20.github.io/ndrive/>`__ :: **Hacking**
 - `Colosseum`_ :: Django
 - `Dada Study`_ :: Django
 - `유니스트 내가 전해주까`_ :: Facebook bot :: `Facebook link <https://www.facebook.com/unistfedex?>`__
