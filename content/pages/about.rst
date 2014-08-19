@@ -74,8 +74,8 @@ Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
 
 Leader, `HeXA`_ (a security research group at UNIST) (2012.08 ~ 2013.03)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Reverse engineering of `LINE`_ and `KakaoTalk`_ :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
-- Reverse engineering of Ndrive and Korail mobile application
+- Reverse engineering of `LINE`_ and `KakaoTalk`_ :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: Python library `pyLINE`_, `kakao`_
+- Reverse engineering of `Ndrive`_ and `Korail`_ mobile application :: Python library `pyNdrive`_, `korail2`_ 
 - Find a login vulnerability of `YES24 <http://www.yes24.com/>`__ (Korean online shopping mall) :: `article <http://dailysecu.com/news_view.php?article_id=5781>`__
 - Find a vulnerability of electronic attendance system of UNIST :: `report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__
 
@@ -85,12 +85,12 @@ Projects
 2014
 ~~~~
 - `pyLINE`_ :: Python `LINE`_ library :: `documentation <http://carpedm20.github.io/line/>`__ :: **Hacking**
-- `korail2`_ :: Python library :: **Hacking**
+- `korail2`_ :: Python `Korail`_ library :: **Hacking**
 - `emoji`_ :: Python library
 - `FoxOffice`_ :: Django :: *in progress*
 - `UNIST Auction`_ :: Django :: `demo <http://pam.herokuapp.com/>`__
 - `MovieTag`_ :: Django
-- `pyNdrive`_ :: Python `Ndrive <http://ndrive.naver.com>`__ library :: `documentation <http://carpedm20.github.io/ndrive/>`__ :: **Hacking**
+- `pyNdrive`_ :: Python `Ndrive`_ library :: `documentation <http://carpedm20.github.io/ndrive/>`__ :: **Hacking**
 - `Colosseum`_ :: Django
 - `Dada Study`_ :: Django
 - `유니스트 내가 전해주까`_ :: Facebook bot :: `Facebook link <https://www.facebook.com/unistfedex?>`__
@@ -151,6 +151,8 @@ Skills
 .. _NAVER Labs: https://www.facebook.com/naverlabs
 .. _MSNL: http://msn.unist.ac.kr/
 .. _LINE: http://line.me/en/
+.. _Korail: http://info.korail.com/mbs/english/index.jsp
+.. _Ndrive: http://ndrive.naver.com/index.nhn
 
 .. _pyLINE: https://github.com/carpedm20/LINE
 .. _korail2: https://github.com/carpedm20/korail2
