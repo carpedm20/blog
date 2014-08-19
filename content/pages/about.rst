@@ -17,19 +17,19 @@ Profile
 Links
 -----
 :Email: carpedm20@gmail.com
-:Blog: `carpedm20.com`_
-:Facebook: `facebook.com/carpedm20`_
 :Github: `github.com/carpedm20`_
 :Linkedin: `linkedin.com/in/carpedm20`_
 :Slideshare: `slideshare.net/carpedm20`_
+:Facebook: `facebook.com/carpedm20`_
+:Twitter: `twitter.com/carpedm20`_
 
 
 Interests
 ---------
 
 - Machine Learning
-- Hacking
-- Web service
+- Reverse Engineering
+- Web Service
 - Supercomputing
 
 
@@ -65,7 +65,7 @@ Experience
 
 Intern, `NAVER Labs`_ (2014.07 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Sermo :: Cloud Comment Hosting Service :: open source project
+- Sermo :: Cloud Comment Hosting Service :: Open source :: Django
 
 Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -74,8 +74,8 @@ Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
 
 Leader, `HeXA`_ (a security research group at UNIST) (2012.08 ~ 2013.03)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Reverse engineering of `LINE`_ and `KakaoTalk`_ :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: Python library `pyLINE`_, `kakao`_
-- Reverse engineering of `Ndrive`_ and `Korail`_ mobile application :: Python library `pyNdrive`_, `korail2`_ 
+- Reverse engineering of `LINE`_ and `KakaoTalk`_ :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: `pyLINE`_ and `kakao`_
+- Reverse engineering of `Ndrive`_ and `Korail`_ mobile application ::`pyNdrive`_ and `korail2`_ 
 - Find a login vulnerability of `YES24 <http://www.yes24.com/>`__ (Korean online shopping mall) :: `article <http://dailysecu.com/news_view.php?article_id=5781>`__
 - Find a vulnerability of electronic attendance system of UNIST :: `report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__
 
@@ -140,6 +140,7 @@ Skills
 .. _facebook.com/carpedm20: https://www.facebook.com/carpedm20
 .. _linkedin.com/in/carpedm20: https://www.linkedin.com/in/carpedm20
 .. _slideshare.net/carpedm20: http://www.slideshare.net/carpedm20
+.. _twitter.com/carpedm20: https://twitter.com/carpedm20
 
 .. _ISC 14 Student Cluster Challenge: http://www.isc-events.com/isc14/student-cluster-competition.html
 .. _ASC 14: http://www.asc-events.org/ASC14/index14en.php
