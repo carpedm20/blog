@@ -40,10 +40,17 @@ Supercomputing
 ~~~~~~~~~~~~~~
 - `ISC 14 Student Cluster Challenge`_ :: Finalist ( in Leipzig / Germany, `UNIST`_ )
    - International Supercomputing Conference 14
+   - 8 x (Xeon E5-2692 x 2 + 16G x 6 + Nvidia K40 GPU)
+   - GADGET2 using G2X(GADGET2 for GPU), GSL, HDF5, FFTW and MPI
+   - HPL using CUDA, MPI
 - `ASC 14`_ :: Finalist as a team adviser ( in Guangzhou / China, `UNIST`_ )
    - Asia student Supercomputing Challenge 14
+   - 6 x (Xeon E5-2692 x 2 + 16G x 8 + Nvidia Titan GPU)
+   - SU2 using MPI, Metis, Tecio, CGNS
+   - HPL using CUDA, MPI
 - `ASC 13`_ :: Finalist ( in Shanghai / China, `UNIST`_ )
    - Asia student Supercomputing Challenge 13
+   - 6 x (Xeon E5-2650 x 2 + 16G x 8 + Xeon PHI-5110P)
 
 Hacking
 ~~~~~~~
@@ -62,12 +69,12 @@ Intern, `NAVER Labs`_ (2014.07 ~ )
 - Sermo :: Cloud Comment Hosting Service :: open source project
 
 Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Optimizing Mobile Video Streaming: From Context-aware Scheduling to Cloud-assisted Caching
 - Optimizing Mobile Web browsing: Through Page Caching in Local Access Point
 
-3rd president, `HeXA`_ (2012.08 ~ 2013.03)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Leader, `HeXA`_ (a security research group at UNIST) (2012.08 ~ 2013.03)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Find a vulnerability of electronic attendance system of UNIST :: `report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__
 - Find a login vulnerability of a Korean online shopping mall, `yes24 <http://www.yes24.com/>`__ :: `article <http://dailysecu.com/news_view.php?article_id=5781>`__
 - Reverse engineering of `LINE` and `KakaoTalk`_ (Korean instant messaging application) :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
