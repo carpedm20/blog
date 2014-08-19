@@ -40,14 +40,12 @@ Supercomputing
 ~~~~~~~~~~~~~~
 - `ISC 14 Student Cluster Challenge`_ :: Finalist ( in Leipzig / Germany, `UNIST`_ )
    - International Supercomputing Conference 14
-   - 8 x (Xeon E5-2692 x 2 + 16G x 6 + Nvidia K40 GPU)
-   - GADGET2 using G2X(GADGET2 for GPU), GSL, HDF5, FFTW and MPI
-   - HPL using CUDA, MPI
+   - 8 x (Xeon E5-2692 x 2 + 16G x 6 + `Nvidia K40 <http://www.nvidia.com/object/tesla-servers.html>`__ GPU)
+   - `GADGET2 <http://www.mpa-garching.mpg.de/gadget/>`__ using `G2X <http://www.lab4241.com/cef/g2x/>`__ (GADGET2 for GPU), GSL, HDF5, FFTW and MPI based on `this <http://www.astro.lu.se/compugpu2010/resources/Frigaard.pdf>`__
 - `ASC 14`_ :: Finalist as a team adviser ( in Guangzhou / China, `UNIST`_ )
    - Asia student Supercomputing Challenge 14
-   - 6 x (Xeon E5-2692 x 2 + 16G x 8 + Nvidia Titan GPU)
-   - SU2 using MPI, Metis, Tecio, CGNS
-   - HPL using CUDA, MPI
+   - 6 x (Xeon E5-2692 x 2 + 16G x 8 + `Nvidia Titan <http://www.nvidia.co.kr/gtx-700-graphics-cards/gtx-780/>`__ GPU)
+   - `SU2 <http://su2.stanford.edu/>`__ using MPI, Metis, Tecio, CGNS
 - `ASC 13`_ :: Finalist ( in Shanghai / China, `UNIST`_ )
    - Asia student Supercomputing Challenge 13
    - 6 x (Xeon E5-2650 x 2 + 16G x 8 + Xeon PHI-5110P)
