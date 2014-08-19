@@ -56,6 +56,7 @@ Hacking
 - `Codegate 2014`_ quals :: 17th place ( `HeXA`_ )
 - `Holyshield 2013`_ :: 1st place ( CodePink )
    - Held by Catholic University of Korea
+   - Award from president of Catholic University of Korea (가톨릭대학교 총장상)
 - `2013 Korea Whitehat Contest`_ :: 3rd place ( `HeXA`_ )
    - Held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
    - Received an award of $8,000
