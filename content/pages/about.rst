@@ -49,11 +49,11 @@ Supercomputing
 - `ASC 13`_ :: Finalist ( in Shanghai / China, `UNIST`_ )
    - Asia student Supercomputing Challenge 13
    - Cluster : 6 x (Xeon E5-2650 x 2 + `Xeon Phi-5110P <http://ark.intel.com/ko/products/71992/Intel-Xeon-Phi-Coprocessor-5110P-8GB-1_053-GHz-60-core>`__ + 16G x 6)
-   - Application : `HPL <http://www.netlib.org/benchmark/hpl/>`__ using MPI with MIC(Xeon_Phi)
+   - Application : `HPL <http://www.netlib.org/benchmark/hpl/>`__ using MPI with Intel MIC (Xeon Phi)
 
 Hacking
 ~~~~~~~
-- `Codegate 2014`_ quals ::17th place ( `HeXA`_ )
+- `Codegate 2014`_ quals :: 17th place ( `HeXA`_ )
 - `Holyshield 2013`_ :: 1st place ( CodePink )
    - Held by Catholic University of Korea
 - `2013 Korea Whitehat Contest`_ :: 3rd place ( `HeXA`_ )
@@ -74,9 +74,10 @@ Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
 
 Leader, `HeXA`_ (a security research group at UNIST) (2012.08 ~ 2013.03)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Reverse engineering of `LINE`_ and `KakaoTalk`_ :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
+- Reverse engineering of Ndrive and Korail mobile application
+- Find a login vulnerability of `YES24 <http://www.yes24.com/>`__ (Korean online shopping mall) :: `article <http://dailysecu.com/news_view.php?article_id=5781>`__
 - Find a vulnerability of electronic attendance system of UNIST :: `report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__
-- Find a login vulnerability of a Korean online shopping mall, `yes24 <http://www.yes24.com/>`__ :: `article <http://dailysecu.com/news_view.php?article_id=5781>`__
-- Reverse engineering of `LINE` and `KakaoTalk`_ (Korean instant messaging application) :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
 
 Projects
 --------
