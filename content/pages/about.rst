@@ -111,11 +111,12 @@ Projects
 - 예스24 타인 계정 로그인 취약점 발견 및 보고 :: `news article <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
 
 
-Presentation
-------------
+Presentations
+-------------
 
 2014
 ~~~~
+- `140분의 파이썬 <http://carpedm20.github.io/140min-python/>`__ (`NAVER D2 대학생 세미나 <http://helloworld.naver.com/helloworld/900758>`__, 14-08-26)
 - `쉽게 쓰여진 Django`_ (14-03-19)
 - `영화 서비스에 대한 생각`_ (14-03-05)
 
