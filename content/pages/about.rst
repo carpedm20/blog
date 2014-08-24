@@ -117,6 +117,8 @@ Presentation
 
 2014
 ~~~~
+- `140분의 파이썬 <https://carpedm20.github.io/140min-python>`__ (`NAVER D2 대학생 세미나 <http://helloworld.naver.com/helloworld/900758>`__, 14-08-26)
+- `모솔의 마법사 <http://www.slideshare.net/carpedm20/slide-38290883>`__ (`GDG Student Hackathon <http://gdghackathon.github.io/>`__, 14-08-24)
 - `쉽게 쓰여진 Django`_ (14-03-19)
 - `영화 서비스에 대한 생각`_ (14-03-05)
 
