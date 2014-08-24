@@ -56,6 +56,7 @@ Hacking
 - `Codegate 2014`_ quals :: 17th place ( `HeXA`_ )
 - `Holyshield 2013`_ :: 1st place ( CodePink )
    - Held by Catholic University of Korea
+   - Award from president of Catholic University of Korea (가톨릭대학교 총장상)
 - `2013 Korea Whitehat Contest`_ :: 3rd place ( `HeXA`_ )
    - Held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
    - Received an award of $8,000
@@ -88,6 +89,7 @@ Projects
 - `korail2`_ :: Python `Korail`_ library :: **Hacking**
 - `emoji`_ :: Python library
 - `FoxOffice`_ :: Django :: *in progress*
+- `Magician of Solo`_ (솔로의 마법사) :: Android :: `PPT <http://www.slideshare.net/carpedm20/slide-38290883>`__
 - `UNIST Auction`_ :: Django :: `demo <http://pam.herokuapp.com/>`__
 - `MovieTag`_ :: Django
 - `pyNdrive`_ :: Python `Ndrive`_ library :: `documentation <http://carpedm20.github.io/ndrive/>`__ :: **Hacking**
@@ -116,7 +118,8 @@ Presentations
 
 2014
 ~~~~
-- `140분의 파이썬 <http://carpedm20.github.io/140min-python/>`__ (`NAVER D2 대학생 세미나 <http://helloworld.naver.com/helloworld/900758>`__, 14-08-26)
+- `140분의 파이썬 <https://carpedm20.github.io/140min-python>`__ (`NAVER D2 대학생 세미나 <http://helloworld.naver.com/helloworld/900758>`__, 14-08-26)
+- `모솔의 마법사 <http://www.slideshare.net/carpedm20/slide-38290883>`__ (`GDG Student Hackathon <http://gdghackathon.github.io/>`__, 14-08-24)
 - `쉽게 쓰여진 Django`_ (14-03-19)
 - `영화 서비스에 대한 생각`_ (14-03-05)
 
@@ -161,6 +164,7 @@ Skills
 .. _korail.js: https://github.com/carpedm20/korail.js
 .. _emoji: https://github.com/carpedm20/emoji
 .. _FoxOffice: https://github.com/carpedm20/foxoffice
+.. _Magician of Solo: https://github.com/four-minus-one/magician-of-solo
 .. _UNIST Auction: https://github.com/carpedm20/UNIST-pam
 .. _CloudyAfterSunny: https://github.com/carpedm20/CloudyAfterSunny
 
