@@ -89,7 +89,7 @@ Projects
 - `korail2`_ :: Python `Korail`_ library :: **Hacking**
 - `emoji`_ :: Python library
 - `FoxOffice`_ :: Django :: *in progress*
-- `Magician of Solo`_ (솔로의 마법사) :: Android :: `PPT <http://www.slideshare.net/carpedm20/slide-38290883>`__
+- `Magician of Solo`_ (모솔의 마법사) :: Android :: `PPT <http://www.slideshare.net/carpedm20/slide-38290883>`__
 - `UNIST Auction`_ :: Django :: `demo <http://pam.herokuapp.com/>`__
 - `MovieTag`_ :: Django
 - `pyNdrive`_ :: Python `Ndrive`_ library :: `documentation <http://carpedm20.github.io/ndrive/>`__ :: **Hacking**
