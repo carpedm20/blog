@@ -89,6 +89,7 @@ Projects
 - `korail2`_ :: Python `Korail`_ library :: **Hacking**
 - `emoji`_ :: Python library
 - `FoxOffice`_ :: Django :: *in progress*
+- `Magician of Solo`_ (솔로의 마법사) :: Android
 - `UNIST Auction`_ :: Django :: `demo <http://pam.herokuapp.com/>`__
 - `MovieTag`_ :: Django
 - `pyNdrive`_ :: Python `Ndrive`_ library :: `documentation <http://carpedm20.github.io/ndrive/>`__ :: **Hacking**
@@ -163,6 +164,7 @@ Skills
 .. _korail.js: https://github.com/carpedm20/korail.js
 .. _emoji: https://github.com/carpedm20/emoji
 .. _FoxOffice: https://github.com/carpedm20/foxoffice
+.. _Magician of Solo: https://github.com/four-minus-one/magician-of-solo
 .. _UNIST Auction: https://github.com/carpedm20/UNIST-pam
 .. _CloudyAfterSunny: https://github.com/carpedm20/CloudyAfterSunny
 
