@@ -144,6 +144,9 @@ ETC
 
 - `트위스티드: 파이썬 네트워크 프로그래밍 <http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261154>`__ 추천사 작성
 
+.. image:: https://raw.githubusercontent.com/carpedm20/carpedm20.github.com/master/images/twisted_recommendation.png
+   :width: 70%
+
 .. _carpedm20.com: http://carpedm20.com
 .. _github.com/carpedm20: https://github.com/carpedm20
 .. _facebook.com/carpedm20: https://www.facebook.com/carpedm20
