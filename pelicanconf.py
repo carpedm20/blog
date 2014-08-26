@@ -57,8 +57,8 @@ LINKS =  (('Name', 'http://url.com/'),)
 
 # Social widget
 SOCIAL = (('Twitter', 'http://twitter.com/username'),
-                  ('LinkedIn', 'http://twitter.com/username'),
-                            ('Github', 'http://twitter.com/username'),)
+          ('LinkedIn', 'http://twitter.com/username'),
+          ('Github', 'http://twitter.com/username'),)
 
 DEFAULT_PAGINATION = 10
 

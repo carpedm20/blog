@@ -11,7 +11,8 @@ Profile
 -------
 
 - Python_ programmer
-- B.S. in Computer Science from `UNIST`_
+- B.S. in Computer Science from `UNIST`_ (will graduate on August 2015)
+- Birth in 1992
 
 
 Links
@@ -89,7 +90,7 @@ Projects
 - `korail2`_ :: Python `Korail`_ library :: **Hacking**
 - `emoji`_ :: Python library
 - `FoxOffice`_ :: Django :: *in progress*
-- `Magician of Solo`_ (솔로의 마법사) :: Android :: `PPT <http://www.slideshare.net/carpedm20/slide-38290883>`__
+- `Magician of Solo`_ (모솔의 마법사) :: Android :: `PPT <http://www.slideshare.net/carpedm20/slide-38290883>`__
 - `UNIST Auction`_ :: Django :: `demo <http://pam.herokuapp.com/>`__
 - `MovieTag`_ :: Django
 - `pyNdrive`_ :: Python `Ndrive`_ library :: `documentation <http://carpedm20.github.io/ndrive/>`__ :: **Hacking**
@@ -113,8 +114,8 @@ Projects
 - 예스24 타인 계정 로그인 취약점 발견 및 보고 :: `news article <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
 
 
-Presentation
-------------
+Presentations
+-------------
 
 2014
 ~~~~
