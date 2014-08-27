@@ -9,7 +9,7 @@ dd {
 .first.last.simple {
   padding: 0px;
 }
-#profile li, #links li, #interests li, #awards li, #experience li, #projects li, #presentation li, #skills li, #translation li {
+#profile li, #links li, #interests li, #awards li, #experience li, #projects li, #presentations li, #skills li, #translation li {
   list-style: none;
   margin: 0.3em 0em;
   padding: 0em;
@@ -31,11 +31,11 @@ small {
   margin-left: 1em;
 }
 
-#interests h3, #projects h3, #links h3, #awards h3, #presentation h3, #experience h3, #translation h3, #current h3, #old h3 {
+#interests h3, #projects h3, #links h3, #awards h3, #presentations h3, #experience h3, #translation h3, #current h3, #old h3 {
   margin-left: 1em;
   margin-bottom: 0.8em;
 }
-#interests li, #projects li, #links li, #awards li, #presentation li, #experience li, #translation li, #current li, #old li {
+#interests li, #projects li, #links li, #awards li, #presentations li, #experience li, #translation li, #current li, #old li {
   line-height: 1em;
 }
 
