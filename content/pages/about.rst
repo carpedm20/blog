@@ -2,7 +2,7 @@
 :comments: no
 
 .. image:: /images/carpedm20.png
-    :alt: Portrait picture of me
+    :alt: carpedm20
     :align: right
     :width: 250
     :height: 250
