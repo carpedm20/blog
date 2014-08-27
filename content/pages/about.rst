@@ -25,16 +25,17 @@ Links
 :Twitter: `twitter.com/carpedm20`_
 
 
-Current Interests
------------------
+Interests
+---------
 
+Current
+~~~~~~~
 - Machine Learning
 - Data Visualization
 
 
-Old Interests
--------------
-
+Old
+~~~
 - Hacking
 - Supercomputing
 - Web Service
