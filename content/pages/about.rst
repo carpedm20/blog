@@ -25,13 +25,19 @@ Links
 :Twitter: `twitter.com/carpedm20`_
 
 
-Interests
----------
+Current Interests
+-----------------
 
 - Machine Learning
-- Reverse Engineering
-- Web Service
+- Data Visualization
+
+
+Old Interests
+-------------
+
+- Hacking
 - Supercomputing
+- Web Service
 
 
 Awards
