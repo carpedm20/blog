@@ -10,9 +10,9 @@
 Profile
 -------
 
+- 1992.11.08
 - Python_ programmer
 - B.S. in Computer Science from `UNIST`_ (will graduate on August 2015)
-- Birth in 1992
 
 
 Links
@@ -139,6 +139,13 @@ Skills
 - Programming : Python (& Django), HTML/CSS, Javascript, Java, C++, C#
 - Human Languages: English - TOEIC 880 (2012), Korean - Native
 
+ETC
+---
+
+- `트위스티드: 파이썬 네트워크 프로그래밍 <http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261154>`__ 추천사 작성
+
+.. image:: https://raw.githubusercontent.com/carpedm20/carpedm20.github.com/master/images/twisted_recommendation.png
+   :width: 85%
 
 .. _carpedm20.com: http://carpedm20.com
 .. _github.com/carpedm20: https://github.com/carpedm20
