@@ -72,7 +72,6 @@ Hacking
 Experience
 ----------
 
-<<<<<<< HEAD
 Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -80,12 +79,7 @@ Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 
 Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Sermo :: Cloud Comment Hosting Service :: Open source :: Django
-=======
-Intern, `NAVER Labs`_ (2014.07 ~ )
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Sermo :: Cloud Comment Hosting Service :: Open source :: `Documentation <http://carpedm20.github.io/sermo/>`__
->>>>>>> 080f2bc59d8e53fc81df20b5009c7e245779d28e
 
 Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
