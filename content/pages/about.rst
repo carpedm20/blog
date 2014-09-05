@@ -81,8 +81,8 @@ Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Sermo :: Cloud Comment Hosting Service :: Open source :: `Documentation <http://carpedm20.github.io/sermo/>`__
 
-Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ 2014.08)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Optimizing Mobile Video Streaming: From Context-aware Scheduling to Cloud-assisted Caching
 - Optimizing Mobile Web browsing: Through Page Caching in Local Access Point
 
