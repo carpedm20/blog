@@ -96,6 +96,12 @@ Leader, `HeXA`_ (a security research group at UNIST) (2012.08 ~ 2013.03)
 Projects
 --------
 
+d3.js
+~~~~~
+
+- Uniform Random Rample example :: `demo <http://carpedm20.github.io/d3/random.js/>`__
+
+
 2014
 ~~~~
 - `pyLINE`_ :: Python `LINE`_ library :: `documentation <http://carpedm20.github.io/line/>`__ :: **Hacking**
