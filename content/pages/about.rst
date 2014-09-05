@@ -65,8 +65,13 @@ Hacking
 Experience
 ----------
 
-Intern, `NAVER Labs`_ (2014.07 ~ )
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Study Machine Learning
+
+Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Sermo :: Cloud Comment Hosting Service :: Open source :: Django
 
 Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
@@ -163,6 +168,7 @@ ETC
 
 .. _NAVER Labs: https://www.facebook.com/naverlabs
 .. _MSNL: http://msn.unist.ac.kr/
+.. _PAIL: http://pail.unist.ac.kr/
 .. _LINE: http://line.me/en/
 .. _Korail: http://info.korail.com/mbs/english/index.jsp
 .. _Ndrive: http://ndrive.naver.com/index.nhn
