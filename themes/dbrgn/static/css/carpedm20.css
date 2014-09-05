@@ -1,0 +1,45 @@
+/* carpedm20 */
+li {
+  line-height: 1.8em;
+}
+
+dd {
+ margin-left: 20px;
+}
+.first.last.simple {
+  padding: 0px;
+}
+#profile li, #links li, #interests li, #awards li, #experience li, #projects li, #presentations li, #skills li, #translation li {
+  list-style: none;
+  margin: 0.3em 0em;
+  padding: 0em;
+}
+#profile ul, #skills ul {
+  padding-left: 1em;
+}
+
+small {
+  font-size: 0.6em;
+}
+
+#footer p {
+  font-size: 0.8em;
+  text-align: center;
+}
+
+#links table {
+  margin-left: 1em;
+}
+
+#interests h3, #projects h3, #links h3, #awards h3, #presentations h3, #experience h3, #translation h3, #current h3, #old h3 {
+  margin-left: 1em;
+  margin-bottom: 0.8em;
+}
+#interests li, #projects li, #links li, #awards li, #presentations li, #experience li, #translation li, #current li, #old li {
+  line-height: 1em;
+}
+
+#footer {
+  margin-top: 2em;
+}
+/* carpedm20 */

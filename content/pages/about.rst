@@ -2,7 +2,7 @@
 :comments: no
 
 .. image:: /images/carpedm20.png
-    :alt: Portrait picture of me
+    :alt: carpedm20
     :align: right
     :width: 250
     :height: 250
@@ -10,7 +10,7 @@
 Profile
 -------
 
-- 1992.11.08
+- Born in 1992
 - Python_ programmer
 - B.S. in Computer Science from `UNIST`_ (will graduate on August 2015)
 
@@ -28,10 +28,17 @@ Links
 Interests
 ---------
 
+Current
+~~~~~~~
 - Machine Learning
-- Reverse Engineering
-- Web Service
+- Data Visualization
+
+
+Old
+~~~
+- Hacking
 - Supercomputing
+- Web Service
 
 
 Awards
@@ -65,6 +72,7 @@ Hacking
 Experience
 ----------
 
+<<<<<<< HEAD
 Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -73,6 +81,11 @@ Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Sermo :: Cloud Comment Hosting Service :: Open source :: Django
+=======
+Intern, `NAVER Labs`_ (2014.07 ~ )
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Sermo :: Cloud Comment Hosting Service :: Open source :: `Documentation <http://carpedm20.github.io/sermo/>`__
+>>>>>>> 080f2bc59d8e53fc81df20b5009c7e245779d28e
 
 Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -112,8 +125,8 @@ Projects
 - `MovieDuk`_ :: Django
 - `random-wall`_ :: Javascript library
 - `UNIST Robot`_ :: Windows program (C#)
-- `포탈봇`_ :: Facebook bot :: `link <https://www.facebook.com/hexa.portal>`__
-- `컴공아 일하자`_ :: Facebook bot :: `link <https://www.facebook.com/comgong.job>`__
+- `포탈봇`_ :: Facebook bot :: `Facebook link <https://www.facebook.com/hexa.portal>`__
+- `컴공아 일하자`_ :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.job>`__
 - 교내 전자 출결 서비스 취약점 발견 및 보고 :: `report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
 - 카카오톡 및 라인 리버싱 및 보고서 작성 :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
 - 예스24 타인 계정 로그인 취약점 발견 및 보고 :: `news article <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
