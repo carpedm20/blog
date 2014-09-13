@@ -11,7 +11,6 @@ Profile
 -------
 
 - Born in 1992
-- Python_ programmer
 - B.S. in Computer Science from `UNIST`_ (will graduate on August 2015)
 
 
