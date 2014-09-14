@@ -87,8 +87,6 @@ Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ 2014.08)
 
 Leader, `HeXA`_ (a security research group at UNIST) (2012.08 ~ 2013.03)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- 2014 HeXA 2nd CTF :: 2nd place
-- 2013 HeXA 1st CTF :: 1st place
 - Reverse engineering of `LINE`_ and `KakaoTalk`_ :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: `pyLINE`_ and `kakao`_
 - Reverse engineering of `Ndrive`_ and `Korail`_ mobile application ::`pyNdrive`_ and `korail2`_ 
 - Find a login vulnerability of `YES24 <http://www.yes24.com/>`__ (Korean online shopping mall) :: `article <http://dailysecu.com/news_view.php?article_id=5781>`__
