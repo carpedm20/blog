@@ -9,12 +9,12 @@ dd {
 .first.last.simple {
   padding: 0px;
 }
-#profile li, #links li, #interests li, #awards li, #experience li, #projects li, #presentations li, #skills li, #translation li {
+#profile li, #about-me li, #introduction li, #links li, #interests li, #awards li, #experience li, #projects li, #presentations li, #skills li, #translation li {
   list-style: none;
   margin: 0.3em 0em;
   padding: 0em;
 }
-#profile ul, #skills ul {
+#profile ul, #skills ul, #about-me ul, #introduction ul {
   padding-left: 1em;
 }
 

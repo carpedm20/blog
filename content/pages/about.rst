@@ -1,11 +1,11 @@
 :slug: about
 :comments: no
 
-.. image:: /images/carpedm20.png
+.. image:: http://carpedm20.github.io/images/carpedm20.png
     :alt: carpedm20
     :align: right
-    :width: 250
-    :height: 250
+    :width: 170
+    :height: 170
 
 Profile
 -------
@@ -13,6 +13,11 @@ Profile
 - Born in 1992
 - B.S. in Computer Science from `UNIST`_ (will graduate on August 2015)
 
+
+About me
+--------
+
+- *드라마 '유령'을 보고 해킹에 빠진 컴덕. 단순히 해커의 언어라는 이유로 시작했던 파이썬. 그렇게 파이썬이라는 나라가 허락한 유일한 마약에 빠져 파이뽕에 취해있다. 취미는 역시 해킹. 가끔 파이썬 라이브러리를 만들거나 영화를 감상한다.*
 
 Links
 -----
