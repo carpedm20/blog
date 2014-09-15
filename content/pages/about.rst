@@ -78,7 +78,7 @@ Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 
 Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Sermo :: Cloud Comment Hosting Service :: Open source :: `Documentation <http://carpedm20.github.io/sermo/>`__
+- Sermo :: Cloud Comment Hosting Service :: Open source :: `Documentation <http://carpedm20.github.io/sermo.html>`__
 
 Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
