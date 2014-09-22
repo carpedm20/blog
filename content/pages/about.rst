@@ -103,6 +103,7 @@ d3.js
 
 2014
 ~~~~
+- `ReviewDuk`_ :: Korean sentiment analyzer
 - `pyLINE`_ :: Python `LINE`_ library :: `documentation <http://carpedm20.github.io/line/>`__ :: **Hacking**
 - `korail2`_ :: Python `Korail`_ library :: **Hacking**
 - `emoji`_ :: Python library
@@ -185,6 +186,7 @@ ETC
 .. _Korail: http://info.korail.com/mbs/english/index.jsp
 .. _Ndrive: http://ndrive.naver.com/index.nhn
 
+.. _ReviewDuk: https://github.com/carpedm20/reviewduk
 .. _pyLINE: https://github.com/carpedm20/LINE
 .. _korail2: https://github.com/carpedm20/korail2
 .. _korail.js: https://github.com/carpedm20/korail.js
