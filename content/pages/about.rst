@@ -74,7 +74,7 @@ Experience
 Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Korean sentiment analyzer: Korean sentiment analyzer based on Movie reviews
+- Korean sentiment analyzer: Korean sentiment analyzer based on Movie reviews :: `demo <http://pail.unist.ac.kr:8080/>`__
 - Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos
 
 Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
@@ -96,6 +96,11 @@ Leader, `HeXA`_ (a security research group at UNIST) (2012.08 ~ 2013.03)
 Projects
 --------
 
+Machine Learning
+~~~~~~~~~~~~~~~~
+
+- `ReviewDuk`_ :: Korean sentiment analyzer :: `demo <http://pail.unist.ac.kr:8080/>`__ :: Machine Learning
+
 d3.js
 ~~~~~
 
@@ -104,7 +109,6 @@ d3.js
 
 2014
 ~~~~
-- `ReviewDuk`_ :: Korean sentiment analyzer :: `demo <http://pail.unist.ac.kr:8080/>`__ :: Machine Learning
 - `pyLINE`_ :: Python `LINE`_ library :: `documentation <http://carpedm20.github.io/line/>`__ :: **Hacking**
 - `korail2`_ :: Python `Korail`_ library :: **Hacking**
 - `emoji`_ :: Python library
