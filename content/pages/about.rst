@@ -74,7 +74,7 @@ Experience
 Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Korean sentiment analyzer: Korean sentiment analyzer based on Movie reviews :: `demo <http://pail.unist.ac.kr:8080/>`__
+- `ReviewDuk`__: Korean sentiment analyzer: Korean sentiment analyzer based on Movie reviews :: `demo <http://pail.unist.ac.kr:8080/>`__
 - Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos
 
 Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
@@ -99,7 +99,9 @@ Projects
 Machine Learning
 ~~~~~~~~~~~~~~~~
 
-- `ReviewDuk`_ :: Korean sentiment analyzer :: `demo <http://pail.unist.ac.kr:8080/>`__ :: Machine Learning
+- `ReviewDuk`_ :: Korean sentiment analyzer :: `demo <http://pail.unist.ac.kr:8080/>`__
+- `FoodDuk`_ :: Bigdata Restaurant recommend engine :: *in progress*
+- `ImageDuk`_ :: Object recognition engine learned from `ImageNet <http://image-net.org/>`__ data :: *in progress*
 
 d3.js
 ~~~~~
