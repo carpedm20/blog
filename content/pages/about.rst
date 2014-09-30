@@ -74,7 +74,7 @@ Experience
 Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- `ReviewDuk`__: Korean sentiment analyzer: Korean sentiment analyzer based on Movie reviews :: `demo <http://pail.unist.ac.kr:8080/>`__
+- `ReviewDuk`_: Korean sentiment analyzer: Korean sentiment analyzer based on Movie reviews :: `demo <http://pail.unist.ac.kr:8080/>`__
 - Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos
 
 Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
@@ -101,7 +101,7 @@ Machine Learning
 
 - `ReviewDuk`_ :: Korean sentiment analyzer :: `demo <http://pail.unist.ac.kr:8080/>`__
 - `FoodDuk`_ :: Bigdata Restaurant recommend engine :: *in progress*
-- `ImageDuk`_ :: Object recognition engine learned from `ImageNet <http://image-net.org/>`__ data :: *in progress*
+- ImageDuk :: Object recognition engine learned from `ImageNet <http://image-net.org/>`__ data :: *in progress*
 
 d3.js
 ~~~~~
@@ -192,6 +192,7 @@ ETC
 .. _Ndrive: http://ndrive.naver.com/index.nhn
 
 .. _ReviewDuk: https://github.com/carpedm20/reviewduk
+.. _FoodDuk: https://github.com/carpedm20/foodduk
 .. _pyLINE: https://github.com/carpedm20/LINE
 .. _korail2: https://github.com/carpedm20/korail2
 .. _korail.js: https://github.com/carpedm20/korail.js
