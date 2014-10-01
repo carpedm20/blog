@@ -161,7 +161,7 @@ Translation
 Skills
 ------
 
-- Programming : Python (& Django), HTML/CSS, Javascript, Java, C++, C#
+- Programming: Python(& Django), Javascript(& Angular.js), HTML/CSS, Java, C++, C#
 - Human Languages: English - TOEIC 880 (2012), Korean - Native
 
 ETC
