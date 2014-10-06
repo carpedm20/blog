@@ -161,7 +161,8 @@ Skills
 ETC
 ---
 
-- `트위스티드: 파이썬 네트워크 프로그래밍 <http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261154>`__ 추천사 작성
+- Wrote a recommendation for the Korean version of `Twisted Network Programming Essentials <http://www.amazon.com/Twisted-Network-Programming-Essentials-McKellar/dp/1449326110>`__
+   - `트위스티드: 파이썬 네트워크 프로그래밍 <http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261154>`__ 추천사 작성
 
 
 .. _carpedm20.com: http://carpedm20.com
