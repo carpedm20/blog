@@ -1,17 +1,11 @@
 :slug: about
 :comments: no
 
-.. image:: http://carpedm20.github.io/images/carpedm20.png
-    :alt: carpedm20
-    :align: right
-    :width: 170
-    :height: 170
-
 Profile
 -------
 
-- Born in 1992
 - B.S. in Computer Science from `UNIST`_ (will graduate on August 2015)
+- Ulsan, South Korea
 
 
 Links
@@ -45,16 +39,16 @@ Awards
 
 Supercomputing
 ~~~~~~~~~~~~~~
-- `ISC 14 Student Cluster Challenge`_ :: Finalist ( in Leipzig / Germany, `UNIST`_ )
-   - International Supercomputing Conference 14
+- `International Supercomputing Conference 14 Student Cluster Challenge <http://www.isc-events.com/isc14/student-cluster-competition.html>`__ :: Finalist
+   - In Leipzig / Germany
    - Cluster : 8 x (Xeon E5-2692 x 2 + `Nvidia K40 <http://www.nvidia.com/object/tesla-servers.html>`__ + 16G x 8)
    - Application : `GADGET2 <http://www.mpa-garching.mpg.de/gadget/>`__ using `G2X <http://www.lab4241.com/cef/g2x/>`__ (GADGET2 for GPU), MPI, FFTW, GSL and HDF5
-- `ASC 14`_ :: Finalist as a team adviser ( in Guangzhou / China, `UNIST`_ )
-   - Asia student Supercomputing Challenge 14
+- `Asia student Supercomputing Challenge 14 <http://www.asc-events.org/ASC14/index14en.php>`__ :: Finalist
+   - In Guangzhou / China (participate as a team adviser)
    - Cluster : 6 x (Xeon E5-2692 x 2 + `Nvidia Titan <http://www.nvidia.co.kr/gtx-700-graphics-cards/gtx-780/>`__ + 16G x 6)
    - Application : `SU2 <http://su2.stanford.edu/>`__ using MPI, Metis, Tecio, CGNS
-- `ASC 13`_ :: Finalist ( in Shanghai / China, `UNIST`_ )
-   - Asia student Supercomputing Challenge 13
+- `Asia student Supercomputing Challenge 13 <http://www.asc-events.org/13en/index13en.php>`__ :: Finalist
+   - In Shanghai / China
    - Cluster : 6 x (Xeon E5-2650 x 2 + `Xeon Phi-5110P <http://ark.intel.com/ko/products/71992/Intel-Xeon-Phi-Coprocessor-5110P-8GB-1_053-GHz-60-core>`__ + 16G x 6)
    - Application : `HPL <http://www.netlib.org/benchmark/hpl/>`__ using MPI with Intel MIC (Xeon Phi)
 
@@ -167,7 +161,8 @@ Skills
 ETC
 ---
 
-- `트위스티드: 파이썬 네트워크 프로그래밍 <http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261154>`__ 추천사 작성
+- Wrote a recommendation for the Korean version of `Twisted Network Programming Essentials <http://www.amazon.com/Twisted-Network-Programming-Essentials-McKellar/dp/1449326110>`__
+   - `트위스티드: 파이썬 네트워크 프로그래밍 <http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261154>`__ 추천사 작성
 
 
 .. _carpedm20.com: http://carpedm20.com
