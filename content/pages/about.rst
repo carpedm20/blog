@@ -97,12 +97,6 @@ Machine Learning
 - `FoodDuk`_ :: Bigdata Restaurant recommend engine :: *in progress*
 - ImageDuk :: Object recognition engine learned from `ImageNet <http://image-net.org/>`__ data :: *in progress*
 
-.. image:: https://raw.githubusercontent.com/carpedm20/reviewduk/master/demo/5.png
-    :alt: carpedm20
-    :target: https://github.com/carpedm20/reviewduk
-    :align: center
-    :width: 728
-    :height: 455
 
 d3.js
 ~~~~~
@@ -126,13 +120,6 @@ d3.js
 - `유니스트 밥먹기 십오분전`_ :: 494 users (**1 of 5** UNIST students used) :: Faecebook bot :: `Facebook link <https://www.facebook.com/unistbap?>`__
 - `유니스트 버스 언제와?`_ :: Chrome extension :: `Chrome web store <https://chrome.google.com/webstore/detail/unist-bus-when/bjlijmbdlcjimbaehpppflcgmdgjlgme>`__
 
-.. image:: https://camo.githubusercontent.com/84995b051f0cde5ff066c353a4c00e8e6b6c500b/687474703a2f2f322e62702e626c6f6773706f742e636f6d2f2d2d52315331327772724f592f55354c5a7758534c4d35492f41414141414141414541382f7a304c6f65635a444138512f73313630302f73637265656e73686f74342e706e67
-    :alt: carpedm20
-    :target: https://github.com/carpedm20/movietag
-    :align: center
-    :width: 728
-    :height: 600
-
 
 2013
 ~~~~
@@ -146,13 +133,6 @@ d3.js
 - 교내 전자 출결 서비스 취약점 발견 및 보고 :: `report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
 - 카카오톡 및 라인 리버싱 및 보고서 작성 :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
 - 예스24 타인 계정 로그인 취약점 발견 및 보고 :: `news article <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
-
-.. image:: https://camo.githubusercontent.com/8315b17e470f1c3555d915c1d132b1dde6c3ad4c/687474703a2f2f312e62702e626c6f6773706f742e636f6d2f2d4b4e46386c6177597731412f5576784c617854596574492f41414141414141414351412f4e306c6e694a2d656570452f73313630302f352e706e67
-    :alt: carpedm20
-    :target: https://github.com/carpedm20/movieduk
-    :align: center
-    :width: 596
-    :height: 768
 
 
 Presentations
@@ -185,6 +165,27 @@ ETC
 
 - Wrote a recommendation for the Korean version of `Twisted Network Programming Essentials <http://www.amazon.com/Twisted-Network-Programming-Essentials-McKellar/dp/1449326110>`__
    - `트위스티드: 파이썬 네트워크 프로그래밍 <http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261154>`__ 추천사 작성
+
+.. image:: https://raw.githubusercontent.com/carpedm20/reviewduk/master/demo/5.png
+    :alt: carpedm20
+    :target: https://github.com/carpedm20/reviewduk
+    :align: center
+    :width: 728
+    :height: 455
+
+.. image:: https://camo.githubusercontent.com/84995b051f0cde5ff066c353a4c00e8e6b6c500b/687474703a2f2f322e62702e626c6f6773706f742e636f6d2f2d2d52315331327772724f592f55354c5a7758534c4d35492f41414141414141414541382f7a304c6f65635a444138512f73313630302f73637265656e73686f74342e706e67
+    :alt: carpedm20
+    :target: https://github.com/carpedm20/movietag
+    :align: center
+    :width: 728
+    :height: 600
+
+.. image:: https://camo.githubusercontent.com/8315b17e470f1c3555d915c1d132b1dde6c3ad4c/687474703a2f2f312e62702e626c6f6773706f742e636f6d2f2d4b4e46386c6177597731412f5576784c617854596574492f41414141414141414351412f4e306c6e694a2d656570452f73313630302f352e706e67
+    :alt: carpedm20
+    :target: https://github.com/carpedm20/movieduk
+    :align: center
+    :width: 596
+    :height: 768
 
 
 .. _carpedm20.com: http://carpedm20.com
