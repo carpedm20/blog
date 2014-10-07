@@ -166,27 +166,6 @@ ETC
 - Wrote a recommendation for the Korean version of `Twisted Network Programming Essentials <http://www.amazon.com/Twisted-Network-Programming-Essentials-McKellar/dp/1449326110>`__
    - `트위스티드: 파이썬 네트워크 프로그래밍 <http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261154>`__ 추천사 작성
 
-.. image:: https://raw.githubusercontent.com/carpedm20/reviewduk/master/demo/5.png
-    :alt: carpedm20
-    :target: https://github.com/carpedm20/reviewduk
-    :align: center
-    :width: 728
-    :height: 455
-
-.. image:: https://camo.githubusercontent.com/84995b051f0cde5ff066c353a4c00e8e6b6c500b/687474703a2f2f322e62702e626c6f6773706f742e636f6d2f2d2d52315331327772724f592f55354c5a7758534c4d35492f41414141414141414541382f7a304c6f65635a444138512f73313630302f73637265656e73686f74342e706e67
-    :alt: carpedm20
-    :target: https://github.com/carpedm20/movietag
-    :align: center
-    :width: 728
-    :height: 600
-
-.. image:: https://camo.githubusercontent.com/8315b17e470f1c3555d915c1d132b1dde6c3ad4c/687474703a2f2f312e62702e626c6f6773706f742e636f6d2f2d4b4e46386c6177597731412f5576784c617854596574492f41414141414141414351412f4e306c6e694a2d656570452f73313630302f352e706e67
-    :alt: carpedm20
-    :target: https://github.com/carpedm20/movieduk
-    :align: center
-    :width: 596
-    :height: 768
-
 
 .. _carpedm20.com: http://carpedm20.com
 .. _github.com/carpedm20: https://github.com/carpedm20
