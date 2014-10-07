@@ -97,7 +97,7 @@ Machine Learning
 - `FoodDuk`_ :: Bigdata Restaurant recommend engine :: *in progress*
 - ImageDuk :: Object recognition engine learned from `ImageNet <http://image-net.org/>`__ data :: *in progress*
 
-.. image:: https://raw.githubusercontent.com/carpedm20/reviewduk/master/demo/4.png
+.. image:: https://raw.githubusercontent.com/carpedm20/reviewduk/master/demo/5.png
     :alt: carpedm20
     :target: https://github.com/carpedm20/reviewduk
     :align: center
