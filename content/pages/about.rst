@@ -39,15 +39,15 @@ Awards
 
 Supercomputing
 ~~~~~~~~~~~~~~
-- `International Supercomputing Conference 14 Student Cluster Challenge <http://www.isc-events.com/isc14/student-cluster-competition.html>`__ :: Finalist
+- `International Supercomputing Conference 14 Student Cluster Challenge <http://www.isc-events.com/isc14/student-cluster-competition.html>`__ :: **Finalist**
    - In Leipzig / Germany
    - Cluster : 8 x (Xeon E5-2692 x 2 + `Nvidia K40 <http://www.nvidia.com/object/tesla-servers.html>`__ + 16G x 8)
    - Application : `GADGET2 <http://www.mpa-garching.mpg.de/gadget/>`__ using `G2X <http://www.lab4241.com/cef/g2x/>`__ (GADGET2 for GPU), MPI, FFTW, GSL and HDF5
-- `Asia student Supercomputing Challenge 14 <http://www.asc-events.org/ASC14/index14en.php>`__ :: Finalist
+- `Asia student Supercomputing Challenge 14 <http://www.asc-events.org/ASC14/index14en.php>`__ :: **Finalist**
    - In Guangzhou / China (participate as a team adviser)
    - Cluster : 6 x (Xeon E5-2692 x 2 + `Nvidia Titan <http://www.nvidia.co.kr/gtx-700-graphics-cards/gtx-780/>`__ + 16G x 6)
    - Application : `SU2 <http://su2.stanford.edu/>`__ using MPI, Metis, Tecio, CGNS
-- `Asia student Supercomputing Challenge 13 <http://www.asc-events.org/13en/index13en.php>`__ :: Finalist
+- `Asia student Supercomputing Challenge 13 <http://www.asc-events.org/13en/index13en.php>`__ :: **Finalist**
    - In Shanghai / China
    - Cluster : 6 x (Xeon E5-2650 x 2 + `Xeon Phi-5110P <http://ark.intel.com/ko/products/71992/Intel-Xeon-Phi-Coprocessor-5110P-8GB-1_053-GHz-60-core>`__ + 16G x 6)
    - Application : `HPL <http://www.netlib.org/benchmark/hpl/>`__ using MPI with Intel MIC (Xeon Phi)
@@ -55,10 +55,10 @@ Supercomputing
 Hacking
 ~~~~~~~
 - `Codegate 2014`_ quals :: 17th place ( `HeXA`_ )
-- `Holyshield 2013`_ :: 1st place ( CodePink )
+- `Holyshield 2013`_ :: **1st place** ( CodePink )
    - Held by Catholic University of Korea
    - Award from president of Catholic University of Korea (가톨릭대학교 총장상)
-- `2013 Korea Whitehat Contest`_ :: 3rd place ( `HeXA`_ )
+- `2013 Korea Whitehat Contest`_ :: **3rd place** ( `HeXA`_ )
    - Held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
    - Received an award of $8,000
 
