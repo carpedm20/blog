@@ -94,7 +94,7 @@ Machine Learning
 ~~~~~~~~~~~~~~~~
 
 - `ReviewDuk`_ :: Korean sentiment analyzer :: `demo <http://pail.unist.ac.kr:8080/>`__
-- `FoodDuk`_ :: Bigdata Restaurant recommend engine :: *in progress*
+- `FoodDuk`_ :: Big data Restaurant recommend engine :: *in progress*
 - ImageDuk :: Object recognition engine learned from `ImageNet <http://image-net.org/>`__ data :: *in progress*
 
 
