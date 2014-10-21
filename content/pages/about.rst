@@ -54,7 +54,6 @@ Supercomputing
 
 Hacking
 ~~~~~~~
-- `Codegate 2014`_ quals :: 17th place ( `HeXA`_ )
 - `Holyshield 2013`_ :: **1st place** ( CodePink )
    - Held by Catholic University of Korea
    - Award from president of Catholic University of Korea (가톨릭대학교 총장상)
@@ -124,7 +123,7 @@ d3.js
 2013
 ~~~~
 - `kakao`_ :: Python `KakaoTalk`_ library :: **Hacking**
-- `헥사봇`_ :: more than 100,000 users :: `KakaoTalk`_ bot :: **Hacking**
+- `헥사봇`_ :: more than **100,000** users :: `KakaoTalk`_ bot :: **Hacking**
 - `MovieDuk`_ :: Django
 - `random-wall`_ :: Javascript library
 - `UNIST Robot`_ :: Windows program (C#)
@@ -177,7 +176,6 @@ ETC
 .. _ISC 14 Student Cluster Challenge: http://www.isc-events.com/isc14/student-cluster-competition.html
 .. _ASC 14: http://www.asc-events.org/ASC14/index14en.php
 .. _ASC 13: http://www.asc-events.org/13en/index13en.php
-.. _Codegate 2014: http://codegate.org/
 .. _HolyShield 2013: https://www.facebook.com/CATHolyShield/photos/a.438453622859643.95021.270853396286334/634153726622964
 .. _2013 Korea Whitehat Contest: http://www.whitehatcontest.com/
 
