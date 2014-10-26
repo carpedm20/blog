@@ -63,7 +63,7 @@ Hacking
 
 Startup
 ~~~~~~~
-- `정주영 START-UP COMPETITION <http://www.asan-nanum.org/startup/>`__ :: Arial Final ( Two idiots )
+- `정주영 Start-up Competition <http://www.asan-nanum.org/startup/>`__ :: Arial Final ( Two idiots )
    - Held by Asan Nanum Foundation
    - Sharing the study framework :: `Dada Study`_
 
@@ -71,7 +71,7 @@ Startup
 Experience
 ----------
 
-Intern, `Moloco Ads`_ (2014.10 ~ )
+Intern, `Moloco`_ , Inc (2014.10 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - in progress
 
@@ -193,7 +193,7 @@ ETC
 .. _NAVER Labs: https://www.facebook.com/naverlabs
 .. _MSNL: http://msn.unist.ac.kr/
 .. _PAIL: http://pail.unist.ac.kr/
-.. _Moloco Ads: http://www.molocoads.com
+.. _Moloco: http://www.molocoads.com
 .. _LINE: http://line.me/en/
 .. _Korail: http://info.korail.com/mbs/english/index.jsp
 .. _Ndrive: http://ndrive.naver.com/index.nhn
