@@ -61,6 +61,13 @@ Hacking
    - Held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
    - Received an award of $8,000
 
+Startup
+~~~~~~~
+- `정주영 START-UP COMPETITION <http://www.asan-nanum.org/startup/>`__ :: Arial Final ( Two idiots )
+   - Held by Asan Nanum Foundation
+   - Sharing the study framework :: `Dada Study`_
+
+
 Experience
 ----------
 
@@ -100,7 +107,7 @@ Machine Learning
 d3.js
 ~~~~~
 
-- Uniform Random sample example :: `demo <http://carpedm20.github.io/d3/random.js/>`__
+- Uniform random sample example :: `demo <http://carpedm20.github.io/d3/random.js/>`__
 
 
 2014
