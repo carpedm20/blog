@@ -66,6 +66,13 @@ Startup
 - `정주영 Start-up Competition <http://www.asan-nanum.org/startup/>`__ :: Arial Final ( Two idiots )
    - Held by Asan Nanum Foundation
    - Sharing the study framework :: `Dada Study`_
+- 2014 UNIST Venture Intership Program:: Finalist ( Two idiots)
+   - Received a support fund of $10,000
+   - Korean Sentiment Analyzer :: `ReviewDuk`_
+
+Etc
+~~~
+- Lifetime Achievement Award (공로상) from the president of UNIST
 
 
 Experience
@@ -79,6 +86,7 @@ Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - `ReviewDuk`_: Korean sentiment analyzer based on Movie reviews :: `demo <http://pail.unist.ac.kr:8080/>`__
+- Food Image Classification: Boosting with Deep Convolutional Features
 - Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos
 
 Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
@@ -173,7 +181,7 @@ Skills
 ETC
 ---
 
-- Wrote a recommendation for the Korean version of `Twisted Network Programming Essentials <http://www.amazon.com/Twisted-Network-Programming-Essentials-McKellar/dp/1449326110>`__
+- Wrote a recommendation for the Korean version of `Twisted: Network Programming Essentials <http://www.amazon.com/Twisted-Network-Programming-Essentials-McKellar/dp/1449326110>`__
    - `트위스티드: 파이썬 네트워크 프로그래밍 <http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261154>`__ 추천사 작성
 
 
