@@ -63,16 +63,16 @@ Hacking
 
 Startup
 ~~~~~~~
+- 2014 UNIST Venture Intership Program :: Finalist ( Two idiots )
+   - Korean Sentiment Analyzer :: `ReviewDuk`_
+   - Received $10,000 a support fund
 - `정주영 Start-up Competition <http://www.asan-nanum.org/startup/>`__ :: Arial Final ( Two idiots )
    - Held by Asan Nanum Foundation
    - Sharing the study framework :: `Dada Study`_
-- 2014 UNIST Venture Intership Program:: Finalist ( Two idiots )
-   - Korean Sentiment Analyzer :: `ReviewDuk`_
-   - Received $10,000 a support fund
 
 ETC
 ~~~
-- Lifetime Achievement Award (공로상) from the President of UNIST (2013)
+- 2014 Lifetime Achievement Award (공로상) from the President of UNIST
 
 
 Experience
