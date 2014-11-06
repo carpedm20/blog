@@ -66,13 +66,13 @@ Startup
 - `정주영 Start-up Competition <http://www.asan-nanum.org/startup/>`__ :: Arial Final ( Two idiots )
    - Held by Asan Nanum Foundation
    - Sharing the study framework :: `Dada Study`_
-- 2014 UNIST Venture Intership Program:: Finalist ( Two idiots)
-   - Received a support fund of $10,000
+- 2014 UNIST Venture Intership Program:: Finalist ( Two idiots )
    - Korean Sentiment Analyzer :: `ReviewDuk`_
+   - Received $10,000 a support fund
 
-Etc
+ETC
 ~~~
-- Lifetime Achievement Award (공로상) from the president of UNIST
+- Lifetime Achievement Award (공로상) from the President of UNIST (2013)
 
 
 Experience
