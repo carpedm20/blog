@@ -54,6 +54,9 @@ Supercomputing
 
 Hacking
 ~~~~~~~
+- `2014 Korea Whitehat Contest`_ :: **ing** ( `HeXA`_ )
+   - Held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
+   - ??? 
 - `Holyshield 2013`_ :: **1st place** ( CodePink )
    - Held by Catholic University of Korea
    - Award from president of Catholic University of Korea (가톨릭대학교 총장상)
@@ -147,7 +150,7 @@ d3.js
 - `random-wall`_ :: Javascript library
 - `UNIST Robot`_ :: Windows program (C#)
 - `포탈봇`_ :: 1,179 users (**1 of 3** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/hexa.portal>`__
-- `컴공아 일하자`_ :: 773 users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.job>`__
+- `컴공아 일하자`_ :: 814 users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.job>`__
 - 교내 전자 출결 서비스 취약점 발견 및 보고 :: `report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
 - 카카오톡 및 라인 리버싱 및 보고서 작성 :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
 - 예스24 타인 계정 로그인 취약점 발견 및 보고 :: `news article <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
@@ -197,6 +200,7 @@ ETC
 .. _ASC 13: http://www.asc-events.org/13en/index13en.php
 .. _HolyShield 2013: https://www.facebook.com/CATHolyShield/photos/a.438453622859643.95021.270853396286334/634153726622964
 .. _2013 Korea Whitehat Contest: http://www.whitehatcontest.com/
+.. _2014 Korea Whitehat Contest: http://www.whitehatcontest.com/
 
 .. _NAVER Labs: https://www.facebook.com/naverlabs
 .. _MSNL: http://msn.unist.ac.kr/
