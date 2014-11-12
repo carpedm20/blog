@@ -54,9 +54,9 @@ Supercomputing
 
 Hacking
 ~~~~~~~
-- `2014 Korea Whitehat Contest`_ :: **ing** ( `HeXA`_ )
+- `2014 Korea Whitehat Contest`_ :: **Finalist** ( `HeXA`_ )
    - Held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
-   - ??? 
+   - 5th place at preliminary contest
 - `Holyshield 2013`_ :: **1st place** ( CodePink )
    - Held by Catholic University of Korea
    - Award from president of Catholic University of Korea (가톨릭대학교 총장상)
