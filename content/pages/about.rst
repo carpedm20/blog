@@ -66,14 +66,10 @@ Hacking
 
 Startup
 ~~~~~~~
-<<<<<<< HEAD
-- `2014 정주영 Start-up Competition <http://www.asan-nanum.org/startup/>`__ :: Arial Final ( Two idiots )
-=======
-- 2014 UNIST Venture Intership Program :: Finalist ( Two idiots )
+- 2014 UNIST Venture Intership Program :: **Finalist** ( Two idiots )
    - Korean Sentiment Analyzer :: `ReviewDuk`_
    - Received $10,000 a support fund
 - `정주영 Start-up Competition <http://www.asan-nanum.org/startup/>`__ :: Arial Final ( Two idiots )
->>>>>>> 5c752855cb2b7d1b497f14c2ac29508ef24f3b0c
    - Held by Asan Nanum Foundation
    - Sharing the study framework :: `Dada Study`_
 
