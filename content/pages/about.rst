@@ -63,7 +63,7 @@ Hacking
 
 Startup
 ~~~~~~~
-- `정주영 Start-up Competition <http://www.asan-nanum.org/startup/>`__ :: Arial Final ( Two idiots )
+- `2014 정주영 Start-up Competition <http://www.asan-nanum.org/startup/>`__ :: Arial Final ( Two idiots )
    - Held by Asan Nanum Foundation
    - Sharing the study framework :: `Dada Study`_
 
@@ -118,6 +118,7 @@ d3.js
 ~~~~
 - `pyLINE`_ :: Python `LINE`_ library :: `documentation <http://carpedm20.github.io/line/>`__ :: **Hacking**
 - `korail2`_ :: Python `Korail`_ library :: **Hacking**
+- `fraktur`_ :: Python library
 - `emoji`_ :: Python library
 - `FoxOffice`_ :: Django :: *in progress*
 - `Magician of Solo`_ (모솔의 마법사) :: Android :: `PPT <http://www.slideshare.net/carpedm20/slide-38290883>`__
@@ -204,6 +205,7 @@ ETC
 .. _korail2: https://github.com/carpedm20/korail2
 .. _korail.js: https://github.com/carpedm20/korail.js
 .. _emoji: https://github.com/carpedm20/emoji
+.. _fraktur: https://github.com/carpedm20/fraktur
 .. _FoxOffice: https://github.com/carpedm20/foxoffice
 .. _Magician of Solo: https://github.com/four-minus-one/magician-of-solo
 .. _UNIST Auction: https://github.com/carpedm20/UNIST-pam
