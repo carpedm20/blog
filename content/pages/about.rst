@@ -116,6 +116,7 @@ Machine Learning
 
 - `ReviewDuk`_ :: Korean sentiment analyzer :: `demo <http://pail.unist.ac.kr:8080/>`__
 - `FoodDuk`_ :: Big data Restaurant recommend engine :: *in progress*
+- `FoodClassifier`_ :: Food Image Recognition: Combination of Deep Convolutional Features and Shallow encoded Features :: *in progress*
 - ImageDuk :: Object recognition engine learned from `ImageNet <http://image-net.org/>`__ data :: *in progress*
 
 
@@ -213,6 +214,7 @@ ETC
 
 .. _ReviewDuk: https://github.com/carpedm20/reviewduk
 .. _FoodDuk: https://github.com/carpedm20/foodduk
+.. _FoodClassifier: https://github.com/carpedm20/FoodClassifier
 .. _pyLINE: https://github.com/carpedm20/LINE
 .. _korail2: https://github.com/carpedm20/korail2
 .. _korail.js: https://github.com/carpedm20/korail.js
