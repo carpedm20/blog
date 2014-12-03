@@ -94,7 +94,7 @@ Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 
 Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Sermo :: Cloud Comment Hosting Service :: Open source :: `Documentation <http://carpedm20.github.io/sermo.html>`__
+- Sermo :: Cloud Comment Hosting Service :: Open source
 
 Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -204,7 +204,7 @@ ETC
 .. _2013 Korea Whitehat Contest: http://www.whitehatcontest.com/
 .. _2014 Korea Whitehat Contest: http://www.whitehatcontest.com/
 
-.. _NAVER Labs: https://www.facebook.com/naverlabs
+.. _NAVER Labs: http://labs.naver.com/
 .. _MSNL: http://msn.unist.ac.kr/
 .. _PAIL: http://pail.unist.ac.kr/
 .. _Moloco: http://www.molocoads.com
