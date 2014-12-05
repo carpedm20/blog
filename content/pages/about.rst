@@ -75,8 +75,8 @@ Startup
 
 ETC
 ~~~
-- **2014 Lifetime Achievement Award** (공로상) from the President of UNIST
-- **2013 Lifetime Achievement Award** (공로상) from the President of UNIST
+- **2014 Student Outstanding Contribution Award** (공로상) from the President of UNIST
+- **2013 Student Outstanding Contribution Award** (공로상) from the President of UNIST
 
 
 Experience
