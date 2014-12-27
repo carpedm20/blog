@@ -90,7 +90,7 @@ Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - `ReviewDuk`_: Korean sentiment analyzer based on Movie reviews :: `demo <http://pail.unist.ac.kr:8080/>`__
-- Food Image Recognition: Combination of Deep Convolutional Features and Shallow encoded Features : `link <https://docs.google.com/document/d/1cPC6K6zdo2SRVRGJeWUFK8um6h1-w5fULIn3N0Tzjs8/edit?usp=sharing>`__
+- Food Image Recognition: Combination of Deep Convolutional Features and Shallow encoded Features : `link <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
 - Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos
 
 Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
@@ -116,7 +116,7 @@ Machine Learning
 ~~~~~~~~~~~~~~~~
 
 - `ReviewDuk`_ :: Korean sentiment analyzer :: `demo <http://pail.unist.ac.kr:8080/>`__
-- `FoodDuk`_ :: Big data Restaurant recommend engine :: *in progress*
+- `FoodDuk`_ :: Big data Restaurant recommend engine :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
 - `FoodClassifier`_ :: Combination of Deep Convolutional Features and Shallow encoded Features :: *in progress*
 - ImageDuk :: Object recognition engine learned from `ImageNet <http://image-net.org/>`__ data :: *in progress*
 
