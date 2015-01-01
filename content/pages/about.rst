@@ -120,7 +120,7 @@ Machine Learning
 
 - `ReviewDuk`_ :: Korean sentiment analyzer :: `demo <http://pail.unist.ac.kr:8080/>`__
 - `FoodDuk`_ :: Big data Restaurant recommend engine :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
-- `FoodClassifier`_ :: Combination of Deep Convolutional Features and Shallow encoded Features :: *in progress*
+- FoodClassifier :: Combination of Deep Convolutional Features and Shallow encoded Features :: `Python <https://github.com/carpedm20/FoodClassifier>`__ :: `Matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__
 - ImageDuk :: Object recognition engine learned from `ImageNet <http://image-net.org/>`__ data :: *in progress*
 
 
