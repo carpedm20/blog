@@ -91,7 +91,7 @@ Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - `ReviewDuk`_: Korean sentiment analyzer based on Movie reviews :: `demo <http://pail.unist.ac.kr:8080/>`__
-- Food Image Recognition: Combination of Deep Convolutional Features and Shallow encoded Features : `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
+- Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features : `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
 - Change Point Detection Based On Textual Analysis of Financial News Articles : `code <https://github.com/carpedm20/i-crawl-news>`__
 - Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos : `code <https://github.com/carpedm20/foxoffice>`__
 
@@ -119,8 +119,8 @@ Machine Learning
 ~~~~~~~~~~~~~~~~
 
 - `ReviewDuk`_ :: Korean sentiment analyzer :: `demo <http://pail.unist.ac.kr:8080/>`__
-- `FoodDuk`_ :: Big data Restaurant recommend engine :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
-- FoodClassifier :: Combination of Deep Convolutional Features and Shallow encoded Features :: `Python <https://github.com/carpedm20/FoodClassifier>`__ :: `Matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__
+- `FoodDuk`_ :: Big data Restaurant recommend engine
+- FoodClassifier :: Food image classifier :: `Python <https://github.com/carpedm20/FoodClassifier>`__ :: `Matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__ :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
 - ImageDuk :: Object recognition engine learned from `ImageNet <http://image-net.org/>`__ data :: *in progress*
 
 
