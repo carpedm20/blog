@@ -91,9 +91,9 @@ Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - `ReviewDuk`_: Korean sentiment analyzer based on Movie reviews :: `demo <http://pail.unist.ac.kr:8080/>`__
-- Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features : `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
-- Change Point Detection Based On Textual Analysis of Financial News Articles : `code <https://github.com/carpedm20/i-crawl-news>`__
-- Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos : `code <https://github.com/carpedm20/foxoffice>`__
+- Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
+- Change Point Detection Based On Textual Analysis of Financial News Articles :: `code <https://github.com/carpedm20/i-crawl-news>`__
+- Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos :: `code <https://github.com/carpedm20/foxoffice>`__
 
 Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
