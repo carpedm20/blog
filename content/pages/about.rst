@@ -91,11 +91,13 @@ Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 
 - `ReviewDuk`_: Korean sentiment analyzer based on Movie reviews :: `demo <http://pail.unist.ac.kr:8080/>`__
 - Food Image Recognition: Combination of Deep Convolutional Features and Shallow encoded Features : `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
-- Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos
+- Change Point Detection Based On Textual Analysis of Financial News Articles : `code <https://github.com/carpedm20/i-crawl-news>`__
+- Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos : `code <https://github.com/carpedm20/foxoffice>`__
 
 Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Sermo :: Cloud Comment Hosting Service :: Open source
+- Got a 2014 Excellence Award (창의연구과정인턴십) which were given to only 3 selected students
 
 Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
