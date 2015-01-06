@@ -97,8 +97,9 @@ Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 
 Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Creative Research Program Internship
 - Sermo :: Cloud Comment Hosting Service :: Open source
-- Got a 2014 Excellence Award (Creative Research Program Internship) which were given to only 3 selected students
+- Got a 2014 Excellence Award, which was given to 3 selected interns
 
 Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
