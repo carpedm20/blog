@@ -1,4 +1,9 @@
 /* carpedm20 */
+@import url(http://fonts.googleapis.com/css?family=Vollkorn:400italic,400);
+
+em {
+  font-family: 'Vollkorn', serif !important;
+}
 li {
   line-height: 1.8em;
 }
