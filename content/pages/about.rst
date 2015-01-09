@@ -83,9 +83,10 @@ ETC
 Experience
 ----------
 
-Intern, `Moloco`_ , Inc (2014.10 ~ )
+Intern, `Moloco`_ , Inc (2014.10 ~ 2015.02)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- in progress
+- Visualize Probability Distributions for Likelyhoodd of Downloading Mobile Application
+- Enhanced a Google Play Store Crawler for Multi-Country Analysis
 
 Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -122,7 +123,7 @@ Machine Learning
 - `ReviewDuk`_ :: Korean sentiment analyzer :: `demo <http://pail.unist.ac.kr:8080/>`__
 - `FoodDuk`_ :: Big data Restaurant recommend engine
 - FoodClassifier :: Food image classifier :: `Python <https://github.com/carpedm20/FoodClassifier>`__ :: `Matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__ :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
-- ImageDuk :: Object recognition engine learned from `ImageNet <http://image-net.org/>`__ data :: *in progress*
+- ImageDuk :: Object recognition engine learned from `ImageNet <http://image-net.org/>`__ data :: in progress
 
 
 d3.js
@@ -137,7 +138,7 @@ d3.js
 - `korail2`_ :: Python `Korail`_ library :: **Hacking**
 - `fraktur`_ :: Python library
 - `emoji`_ :: Python library
-- `FoxOffice`_ :: Django :: *in progress*
+- `FoxOffice`_ :: Django :: in progress
 - `Magician of Solo`_ (모솔의 마법사) :: Android :: `PPT <http://www.slideshare.net/carpedm20/slide-38290883>`__
 - `UNIST Auction`_ :: Django :: `demo <http://pam.herokuapp.com/>`__
 - `MovieTag`_ :: Django
