@@ -90,10 +90,10 @@ Intern, `Moloco`_ , Inc (2014.10 ~ )
 Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- `ReviewDuk`_: Korean sentiment analyzer based on Movie reviews :: `demo <http://pail.unist.ac.kr:8080/>`__
-- Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
-- Change Point Detection Based On Textual Analysis of Financial News Articles :: `code <https://github.com/carpedm20/i-crawl-news>`__
-- Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos :: `code <https://github.com/carpedm20/foxoffice>`__
+- `ReviewDuk`_: *Korean sentiment analyzer based on Movie reviews* :: `demo <http://pail.unist.ac.kr:8080/>`__
+- *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
+- *Change Point Detection Based On Textual Analysis of Financial News Articles* :: `code <https://github.com/carpedm20/i-crawl-news>`__
+- *Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos* :: `code <https://github.com/carpedm20/foxoffice>`__
 
 Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -103,8 +103,8 @@ Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
 
 Intern, UNIST `MSNL`_ (Mobile Social Network Lab) (2013.01 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Optimizing Mobile Video Streaming: From Context-aware Scheduling to Cloud-assisted Caching
-- Optimizing Mobile Web browsing: Through Page Caching in Local Access Point
+- *Optimizing Mobile Video Streaming: From Context-aware Scheduling to Cloud-assisted Caching*
+- *Optimizing Mobile Web browsing: Through Page Caching in Local Access Point*
 
 Leader, `HeXA`_ (a security research group at UNIST) (2012.08 ~ 2013.03)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
