@@ -136,15 +136,10 @@ d3.js
 ~~~~
 - `pyLINE`_ :: Python `LINE`_ library :: `documentation <http://carpedm20.github.io/line/>`__ :: **Hacking**
 - `korail2`_ :: Python `Korail`_ library :: **Hacking**
-- `fraktur`_ :: Python library
+- `MovieTag`_ :: Django :: Machine Learning
 - `emoji`_ :: Python library
-- `FoxOffice`_ :: Django :: in progress
-- `Magician of Solo`_ (모솔의 마법사) :: Android :: `PPT <http://www.slideshare.net/carpedm20/slide-38290883>`__
-- `UNIST Auction`_ :: Django :: `demo <http://pam.herokuapp.com/>`__
-- `MovieTag`_ :: Django
 - `pyNdrive`_ :: Python `Ndrive`_ library :: `documentation <http://carpedm20.github.io/ndrive/>`__ :: **Hacking**
 - `Colosseum`_ :: Django
-- `Dada Study`_ :: Django
 - `유니스트 내가 전해주까`_ :: 785 users (**1 of 4** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/unistfedex?>`__
 - `유니스트 밥먹기 십오분전`_ :: 494 users (**1 of 5** UNIST students used) :: Faecebook bot :: `Facebook link <https://www.facebook.com/unistbap?>`__
 - `유니스트 버스 언제와?`_ :: Chrome extension :: `Chrome web store <https://chrome.google.com/webstore/detail/unist-bus-when/bjlijmbdlcjimbaehpppflcgmdgjlgme>`__
@@ -155,10 +150,9 @@ d3.js
 - `kakao`_ :: Python `KakaoTalk`_ library :: **Hacking**
 - `헥사봇`_ :: more than **100,000** users :: `KakaoTalk`_ bot :: **Hacking**
 - `MovieDuk`_ :: Django
-- `random-wall`_ :: Javascript library
 - `UNIST Robot`_ :: Windows program (C#)
 - `포탈봇`_ :: 1,179 users (**1 of 3** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/hexa.portal>`__
-- `컴공아 일하자`_ :: 814 users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.job>`__
+- `컴공아 일하자`_ :: 879 users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.job>`__
 - 교내 전자 출결 서비스 취약점 발견 및 보고 :: `report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
 - 카카오톡 및 라인 리버싱 및 보고서 작성 :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
 - 예스24 타인 계정 로그인 취약점 발견 및 보고 :: `news article <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
