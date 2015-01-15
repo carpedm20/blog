@@ -126,10 +126,10 @@ Machine Learning
 - ImageDuk :: Object recognition engine learned from `ImageNet <http://image-net.org/>`__ data :: in progress
 
 
-d3.js
-~~~~~
+Visualization
+~~~~~~~~~~~~~
 
-- Uniform random sample example :: `demo <http://carpedm20.github.io/d3/random.js/>`__
+- A Streamgraph Data Visualization of Box Office Ranking :: `demo <http://pail.unist.ac.kr/carpedm20/fox/>`__
 
 
 2014
