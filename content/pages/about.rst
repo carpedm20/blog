@@ -129,7 +129,7 @@ Machine Learning
 Visualization
 ~~~~~~~~~~~~~
 
-- A Streamgraph Data Visualization of Box Office Ranking :: `demo <http://pail.unist.ac.kr/carpedm20/fox/>`__
+- A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/foxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/fox/>`__
 
 
 2014
