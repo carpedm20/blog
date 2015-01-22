@@ -145,6 +145,13 @@ Visualization
 
 2014
 ~~~~
+
+.. image:: https://raw.githubusercontent.com/carpedm20/blog/master/content/images/line.png
+    :alt: LINE
+    :width: 90%
+    :align: center
+    :target: http://carpedm20.github.io/line/
+
 - `pyLINE`_ :: Python `LINE`_ library :: `documentation <http://carpedm20.github.io/line/>`__ :: **Hacking**
 - `korail2`_ :: Python `Korail`_ library :: **Hacking**
 - `MovieTag`_ :: Django :: Machine Learning
@@ -247,7 +254,7 @@ ETC
 .. _KakaoTalk: http://www.kakao.com/talk/ko
 
 .. _random-wall: https://github.com/carpedm20/random-wall
-.. _MovieDuk: https://github.com/carpedm20/random-wall
+.. _MovieDuk: https://github.com/carpedm20/movieduk
 .. _UNIST Robot: https://github.com/carpedm20/UNIST-robot
 .. _헥사봇: https://github.com/carpedm20/HeXA-Bot
 .. _포탈봇: https://github.com/carpedm20/UNIST-portal-bot
