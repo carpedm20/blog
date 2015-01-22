@@ -165,6 +165,13 @@ Visualization
 
 2013
 ~~~~
+
+.. image:: https://raw.githubusercontent.com/carpedm20/blog/master/content/images/movieduk.png
+    :alt: MovieDuk
+    :width: 90%
+    :align: center
+    :target: http://movieduk.herokuapp.com/
+
 - `kakao`_ :: Python `KakaoTalk`_ library :: **Hacking**
 - `헥사봇`_ :: more than **100,000** users :: `KakaoTalk`_ bot :: **Hacking**
 - `MovieDuk`_ :: Django
