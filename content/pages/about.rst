@@ -128,7 +128,9 @@ Machine Learning
 Visualization
 ~~~~~~~~~~~~~
 
-- A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/foxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/fox/>`__
+.. image:: https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png
+
+- A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
 
 
 2014
