@@ -131,7 +131,8 @@ Visualization
 .. image:: https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png
     :alt: Voxoffice
     :width: 80%
-    :align: center
+    :align: right 
+    :target: http://pail.unist.ac.kr/carpedm20/vox/
 
 - A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
 
