@@ -146,7 +146,7 @@ Visualization
 2014
 ~~~~
 
-.. image:: https://github.com/carpedm20/blog/blob/6bb42ddba2afb55a7db9dc03de9cf7959e78b819/content/images/line.png
+.. image:: https://raw.githubusercontent.com/carpedm20/blog/master/content/images/line2.png
     :alt: LINE
     :width: 90%
     :align: center
