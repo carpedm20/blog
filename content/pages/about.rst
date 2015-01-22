@@ -126,9 +126,8 @@ Machine Learning
     :target: http://pail.unist.ac.kr:8080/
 
 - `ReviewDuk`_ :: Korean sentiment analyzer :: `demo <http://pail.unist.ac.kr:8080/>`__
-- `FoodDuk`_ :: Big data Restaurant recommend engine
 - FoodClassifier :: Food image classifier :: `Python <https://github.com/carpedm20/FoodClassifier>`__ :: `Matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__ :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
-- ImageDuk :: Object recognition engine learned from `ImageNet <http://image-net.org/>`__ data :: in progress
+- Change Point Detection Based On Textual Analysis of Financial News Articles :: `code <https://github.com/carpedm20/i-crawl-news>`__
 
 
 Visualization
@@ -158,6 +157,7 @@ Visualization
 - `emoji`_ :: Python library
 - `pyNdrive`_ :: Python `Ndrive`_ library :: `documentation <http://carpedm20.github.io/ndrive/>`__ :: **Hacking**
 - `Colosseum`_ :: Django
+- `FoodDuk`_ :: Big data Restaurant recommend engine
 - `유니스트 내가 전해주까`_ :: 785 users (**1 of 4** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/unistfedex?>`__
 - `유니스트 밥먹기 십오분전`_ :: 494 users (**1 of 5** UNIST students used) :: Faecebook bot :: `Facebook link <https://www.facebook.com/unistbap?>`__
 - `유니스트 버스 언제와?`_ :: Chrome extension :: `Chrome web store <https://chrome.google.com/webstore/detail/unist-bus-when/bjlijmbdlcjimbaehpppflcgmdgjlgme>`__
