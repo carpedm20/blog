@@ -119,7 +119,7 @@ Projects
 Machine Learning
 ~~~~~~~~~~~~~~~~
 
-.. image:: https://raw.githubusercontent.com/carpedm20/reviewduk/master/demo/5.png
+.. image:: https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png
     :alt: ReviewDuk
     :width: 90%
     :align: center
