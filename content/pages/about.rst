@@ -119,6 +119,12 @@ Projects
 Machine Learning
 ~~~~~~~~~~~~~~~~
 
+.. image:: https://raw.githubusercontent.com/carpedm20/reviewduk/master/demo/5.png
+    :alt: ReviewDuk
+    :width: 90%
+    :align: center
+    :target: http://pail.unist.ac.kr:8080/
+
 - `ReviewDuk`_ :: Korean sentiment analyzer :: `demo <http://pail.unist.ac.kr:8080/>`__
 - `FoodDuk`_ :: Big data Restaurant recommend engine
 - FoodClassifier :: Food image classifier :: `Python <https://github.com/carpedm20/FoodClassifier>`__ :: `Matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__ :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
@@ -130,7 +136,8 @@ Visualization
 
 .. image:: https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png
     :alt: Voxoffice
-    :width: 80%
+    :width: 90%
+    :align: center
     :target: http://pail.unist.ac.kr/carpedm20/vox/
 
 - A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
