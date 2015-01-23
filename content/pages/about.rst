@@ -82,7 +82,7 @@ ETC
 Experience
 ----------
 
-Intern, `Moloco`_ , Inc (2014.10 ~ 2015.02)
+Intern, `Moloco`_ , Inc (2014.10 ~ 2015.01)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Visualize Probability Distributions for Likelyhoodd of Downloading Mobile Application
 - Enhanced a Google Play Store Crawler for Multi-Country Analysis
