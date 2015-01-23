@@ -151,6 +151,12 @@ Visualization
     :align: center
     :target: http://carpedm20.github.io/line/
 
+.. image:: http://2.bp.blogspot.com/--R1S12wrrOY/U5LZwXSLM5I/AAAAAAAAEA8/z0LoecZDA8Q/s1600/screenshot4.png
+    :alt: MovieTag
+    :width: 90%
+    :align: center
+    :target: https://github.com/carpedm20/movietag
+
 - `pyLINE`_ :: Python `LINE`_ library :: `documentation <http://carpedm20.github.io/line/>`__ :: **Hacking**
 - `korail2`_ :: Python `Korail`_ library :: **Hacking**
 - `MovieTag`_ :: Django :: Machine Learning
