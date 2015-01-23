@@ -151,7 +151,7 @@ Visualization
     :align: center
     :target: http://carpedm20.github.io/line/
 
-.. image:: http://2.bp.blogspot.com/--R1S12wrrOY/U5LZwXSLM5I/AAAAAAAAEA8/z0LoecZDA8Q/s1600/screenshot4.png
+.. image:: https://raw.githubusercontent.com/carpedm20/movietag/master/content/screenshot1.png
     :alt: MovieTag
     :width: 90%
     :align: center
