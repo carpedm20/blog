@@ -192,12 +192,6 @@ Visualization
 Presentations
 -------------
 
-.. raw:: html
-
-   <iframe class="align-center" src="https://carpedm20.github.io/140min-python" width="599" height="487" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
-   <br/>
-   <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/32447808" width="599" height="487" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
-
 2014
 ~~~~
 - `140분의 파이썬 <https://carpedm20.github.io/140min-python>`__ (`NAVER D2 대학생 세미나 <http://helloworld.naver.com/helloworld/900758>`__, 14-08-26)
