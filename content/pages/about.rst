@@ -176,7 +176,7 @@ Visualization
     :alt: MovieDuk
     :width: 90%
     :align: center
-    :target: http://movieduk.herokuapp.com/
+    :target: https://github.com/carpedm20/movieduk
 
 - `kakao`_ :: Python `KakaoTalk`_ library :: **Hacking**
 - `헥사봇`_ :: more than **100,000** users :: `KakaoTalk`_ bot :: **Hacking**
