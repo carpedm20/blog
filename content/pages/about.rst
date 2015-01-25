@@ -192,6 +192,14 @@ Visualization
 Presentations
 -------------
 
+.. raw:: html
+
+   <iframe src="https://carpedm20.github.io/140min-python" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+
+.. raw:: html
+
+   <iframe src="//www.slideshare.net/slideshow/embed_code/32447808" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/carpedm20/ss-32447808" title="영화 서비스에 대한 생각" target="_blank">영화 서비스에 대한 생각</a> </strong> from <strong><a href="//www.slideshare.net/carpedm20" target="_blank">Tae Hoon Kim</a></strong> </div>
+
 2014
 ~~~~
 - `140분의 파이썬 <https://carpedm20.github.io/140min-python>`__ (`NAVER D2 대학생 세미나 <http://helloworld.naver.com/helloworld/900758>`__, 14-08-26)
