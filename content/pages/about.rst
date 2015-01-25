@@ -196,7 +196,7 @@ Presentations
 
    <iframe src="https://carpedm20.github.io/140min-python" width="599" height="487" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
    <br/>
-   <iframe src="//www.slideshare.net/slideshow/embed_code/32447808" width="599" height="487" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/carpedm20/ss-32447808" title="영화 서비스에 대한 생각" target="_blank">영화 서비스에 대한 생각</a> </strong> from <strong><a href="//www.slideshare.net/carpedm20" target="_blank">Tae Hoon Kim</a></strong> </div>
+   <iframe src="//www.slideshare.net/slideshow/embed_code/32447808" width="599" height="487" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 2014
 ~~~~
