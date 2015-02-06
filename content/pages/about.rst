@@ -84,7 +84,8 @@ Experience
 
 Intern, `Moloco`_ , Inc (2014.10 ~ 2015.01)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Visualize Probability Distributions for Likelyhoodd of Downloading Mobile Application
+- Maximum-likelihood estimation of Downloading Mobile Application
+- Visualize Probability Distributions for Likelihood of Downloading Mobile Application
 - Enhanced a Google Play Store Crawler for Multi-Country Analysis
 
 Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
