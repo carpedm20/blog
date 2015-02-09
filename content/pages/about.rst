@@ -141,6 +141,7 @@ Visualization
     :target: http://pail.unist.ac.kr/carpedm20/vox/
 
 - A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
+- A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__
 
 
 2014
@@ -182,9 +183,9 @@ Visualization
 - `kakao`_ :: Python `KakaoTalk`_ library :: **Hacking**
 - `헥사봇`_ :: more than **100,000** users :: `KakaoTalk`_ bot :: **Hacking**
 - `MovieDuk`_ :: Django
+- `포탈봇`_ :: 1,198 users (**1 of 3** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/hexa.portal>`__
+- `컴공아 일하자`_ :: 949 users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.job>`__
 - `UNIST Robot`_ :: Windows program (C#)
-- `포탈봇`_ :: 1,179 users (**1 of 3** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/hexa.portal>`__
-- `컴공아 일하자`_ :: 879 users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.job>`__
 - 교내 전자 출결 서비스 취약점 발견 및 보고 :: `report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
 - 카카오톡 및 라인 리버싱 및 보고서 작성 :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
 - 예스24 타인 계정 로그인 취약점 발견 및 보고 :: `news article <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
