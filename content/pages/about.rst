@@ -120,11 +120,10 @@ Projects
 Machine Learning
 ~~~~~~~~~~~~~~~~
 
-.. image:: https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png
-    :alt: ReviewDuk
-    :width: 90%
-    :align: center
-    :target: http://pail.unist.ac.kr:8080/
+.. raw:: html
+
+   <a class="reference external image-reference" href="http://pail.unist.ac.kr:8080/"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
+
 
 - `ReviewDuk`_ :: Korean sentiment analyzer :: `demo <http://pail.unist.ac.kr:8080/>`__
 - FoodClassifier :: Food image classifier :: `python <https://github.com/carpedm20/FoodClassifier>`__ :: `matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__ :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
@@ -134,17 +133,12 @@ Machine Learning
 Visualization
 ~~~~~~~~~~~~~
 
-.. image:: https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png
-    :alt: Voxoffice
-    :width: 90%
-    :align: center
-    :target: http://pail.unist.ac.kr/carpedm20/vox/
+.. raw:: html
 
-.. image:: https://raw.githubusercontent.com/carpedm20/all-about-critics/master/contents/demo2.PNG 
-    :alt: All about critic
-    :width: 90%
-    :align: center
-    :target: http://pail.unist.ac.kr/carpedm20/critic/
+   <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr/carpedm20/vox/"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png" style="width: 90%;"></a>
+   <br/>
+   <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr/carpedm20/critic/"><img alt="All about critic" class="align-center" src="https://raw.githubusercontent.com/carpedm20/all-about-critics/master/contents/demo2.PNG" style="width: 90%;"></a>
+
 
 - A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
 - A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/critic/>`__
@@ -153,17 +147,12 @@ Visualization
 2014
 ~~~~
 
-.. image:: https://raw.githubusercontent.com/carpedm20/blog/master/content/images/line2.png
-    :alt: LINE
-    :width: 90%
-    :align: center
-    :target: http://carpedm20.github.io/line/
+.. raw:: html
 
-.. image:: https://raw.githubusercontent.com/carpedm20/movietag/master/content/screenshot1.png
-    :alt: MovieTag
-    :width: 90%
-    :align: center
-    :target: https://github.com/carpedm20/movietag
+   <a class="reference external image-reference" target="_blank" href="http://carpedm20.github.io/line/"><img alt="LINE" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/line2.png" style="width: 90%;"></a>
+   <br/>
+   <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/movietag"><img alt="MovieTag" class="align-center" src="https://raw.githubusercontent.com/carpedm20/movietag/master/content/screenshot1.png" style="width: 90%;"></a>
+
 
 - `pyLINE`_ :: Python `LINE`_ library :: `documentation <http://carpedm20.github.io/line/>`__ :: **Hacking**
 - `korail2`_ :: Python `Korail`_ library :: **Hacking**
@@ -180,11 +169,10 @@ Visualization
 2013
 ~~~~
 
-.. image:: https://raw.githubusercontent.com/carpedm20/blog/master/content/images/movieduk.png
-    :alt: MovieDuk
-    :width: 90%
-    :align: center
-    :target: https://github.com/carpedm20/movieduk
+.. raw:: html
+
+   <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/movieduk"><img alt="MovieDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/movieduk.png" style="width: 90%;"></a>
+
 
 - `kakao`_ :: Python `KakaoTalk`_ library :: **Hacking**
 - `헥사봇`_ :: more than **100,000** users :: `KakaoTalk`_ bot :: **Hacking**
