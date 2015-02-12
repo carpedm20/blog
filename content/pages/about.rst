@@ -140,8 +140,14 @@ Visualization
     :align: center
     :target: http://pail.unist.ac.kr/carpedm20/vox/
 
+.. image:: https://raw.githubusercontent.com/carpedm20/all-about-critics/master/contents/demo2.PNG 
+    :alt: All about critic
+    :width: 90%
+    :align: center
+    :target: http://pail.unist.ac.kr/carpedm20/critic/
+
 - A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
-- A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__
+- A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/critic/>`__
 
 
 2014
