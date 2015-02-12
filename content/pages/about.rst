@@ -122,7 +122,7 @@ Machine Learning
 
 .. raw:: html
 
-   <a class="reference external image-reference" href="http://pail.unist.ac.kr:8080/"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
+   <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr:8080/"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
 
 
 - `ReviewDuk`_ :: Korean sentiment analyzer :: `demo <http://pail.unist.ac.kr:8080/>`__
