@@ -137,7 +137,7 @@ Visualization
 
    <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr/carpedm20/vox/"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png" style="width: 90%;"></a>
    <br/>
-   <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr/carpedm20/critic/"><img alt="All about critic" class="align-center" src="https://raw.githubusercontent.com/carpedm20/all-about-critics/master/contents/demo2.PNG" style="width: 90%;"></a>
+   <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/all-about-critics"><img alt="All about critic" class="align-center" src="https://raw.githubusercontent.com/carpedm20/all-about-critics/master/contents/demo2.PNG" style="width: 90%;"></a>
 
 
 - A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
