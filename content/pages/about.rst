@@ -90,7 +90,7 @@ Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 - *Change Point Detection Based On Textual Analysis of Financial News Articles* :: `code <https://github.com/carpedm20/i-crawl-news>`__
 - *Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos* :: `code <https://github.com/carpedm20/foxoffice>`__
 
-Intern, `Moloco`_ , Inc (2014.10 ~ 2015.01)
+Intern, `Moloco`_ (2014.10 ~ 2015.01)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Maximum-likelihood estimation of Downloading Mobile Application
 - Visualize Probability Distributions for Likelihood of Downloading Mobile Application
