@@ -86,7 +86,7 @@ Papers
 .. image:: https://raw.githubusercontent.com/carpedm20/blog/master/content/images/changepoint.png
     :alt: Improved Bayesian Online Change Point Detection by Reading Texts
     :align: left
-    :height: 130
+    :height: 150
 
 *Improved Bayesian Online Change Point Detection by Reading Texts*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
