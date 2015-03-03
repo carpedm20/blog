@@ -86,7 +86,7 @@ Intern, UNIST `PAIL`_ (Probabilistic Artificial Intelligence Lab) (2014.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - *Improved Bayesian Online Change Point Detectionby Reading Texts* :: `code <https://github.com/carpedm20/i-crawl-news>`__ :: submmited to `ACL 2015 <http://acl2015.org/index.html>`__
-- `ReviewDuk`_: *Korean sentiment analyzer based on Movie reviews* :: `demo <http://pail.unist.ac.kr:8080/>`__
+- *ReviewDuk: Korean sentiment analyzer based on Movie reviews* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <http://pail.unist.ac.kr:8080/>`__
 - *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
 - *Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos* :: `code <https://github.com/carpedm20/foxoffice>`__
 
