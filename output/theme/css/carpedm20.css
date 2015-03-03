@@ -9,10 +9,6 @@ li {
   line-height: 1.8em;
 }
 
-#papers li {
-  line-height: 1em;
-}
-
 dd {
  margin-left: 20px;
 }
@@ -45,7 +41,7 @@ small {
   margin-left: 1em;
   margin-bottom: 0.8em;
 }
-#interests li, #projects li, #links li, #awards li, #presentations li, #experience li, #translation li, #current li, #old li {
+#interests li, #projects li, #links li, #awards li, #presentations li, #experience li, #translation li, #current li, #old li, #papers li {
   line-height: 1em;
 }
 
