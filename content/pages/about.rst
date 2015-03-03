@@ -58,10 +58,10 @@ Hacking
    - 5th place at preliminary contest
 - `Holyshield 2013`_ :: **1st place** ( CodePink )
    - Held by Catholic University of Korea
-   - Award from president of Catholic University of Korea (가톨릭대학교 총장상)
+   - Awarded by the President of Catholic University of Korea (가톨릭대학교 총장상)
 - `2013 Korea Whitehat Contest`_ :: **3rd place** ( `HeXA`_ )
    - Held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
-   - Awarded from the Minister of National Defense (국방부장관)
+   - Awarded by the Minister of National Defense (국방부장관)
    - Received an award of $8,000
 
 Startup
@@ -75,9 +75,9 @@ Startup
 
 ETC
 ~~~
-- **2014 Student Outstanding Contribution Award** (공로상) from the President of UNIST
+- **2014 Student Outstanding Contribution Award** (공로상) from the President of `UNIST`_
 - 2014 Excellence Award (Creative Research Program Internship) from `NAVER Labs`_
-- **2013 Student Outstanding Contribution Award** (공로상) from the President of UNIST
+- **2013 Student Outstanding Contribution Award** (공로상) from the President of `UNIST`_
 
 
 Experience
