@@ -1,9 +1,10 @@
 /* carpedm20 */
 @import url(http://fonts.googleapis.com/css?family=Vollkorn:400italic,400);
 
-em {
+em, #papers * {
   font-family: 'Vollkorn', serif !important;
 }
+
 li {
   line-height: 1.8em;
 }
@@ -14,7 +15,7 @@ dd {
 .first.last.simple {
   padding: 0px;
 }
-#profile li, #about-me li, #introduction li, #links li, #interests li, #awards li, #experience li, #projects li, #presentations li, #skills li, #translation li {
+#papers li, #profile li, #about-me li, #introduction li, #links li, #interests li, #awards li, #experience li, #projects li, #presentations li, #skills li, #translation li {
   list-style: none;
   margin: 0.3em 0em;
   padding: 0em;
