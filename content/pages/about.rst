@@ -106,7 +106,7 @@ Experience
 ----------
 
 Intern, `Probabilistic Artificial Intelligence Lab <http://pail.unist.ac.kr/>`__ at UNIST (2014.09 ~ )
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - *Improved Bayesian Online Change Point Detection by Reading Texts* :: `code <https://github.com/carpedm20/i-crawl-news>`__ :: submmited to `ACL 2015 <http://acl2015.org/index.html>`__
 - *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
@@ -126,7 +126,7 @@ Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
 - Got a 2014 Excellence Award, which was given to 3 selected interns
 
 Intern, `Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ at UNIST (2013.01 ~ 2014.08)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Optimizing Mobile Video Streaming: From Context-aware Scheduling to Cloud-assisted Caching*
 - *Optimizing Mobile Web browsing: Through Page Caching in Local Access Point*
 
