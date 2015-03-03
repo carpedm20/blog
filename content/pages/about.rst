@@ -91,7 +91,7 @@ Papers
 *Improved Bayesian Online Change Point Detection by Reading Texts*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Taehoon Kim*, Jaesik Choi
-- Submmited to Association for Computational Linguistics (`ACL<http://acl2015.org/index.html>`__), February 2015
+- Submmited to Association for Computational Linguistics (`ACL <http://acl2015.org/index.html>`__), February 2015
 - [`code <https://github.com/carpedm20/i-crawl-news>`__]
 
 .. raw:: html

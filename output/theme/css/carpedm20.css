@@ -9,6 +9,10 @@ li {
   line-height: 1.8em;
 }
 
+#papers li {
+  line-height: 1em;
+}
+
 dd {
  margin-left: 20px;
 }
