@@ -73,24 +73,26 @@ Startup
    - Held by Asan Nanum Foundation
    - Sharing the study framework :: `Dada Study`_
 
-Papers
-~~~~~~
-
-.. image:: /images/carpedm20.png
-    :alt: Improved Bayesian Online Change Point Detection by Reading Texts
-    :align: right
-    :width: 250
-
-- *Improved Bayesian Online Change Point Detection by Reading Texts* :: `code <https://github.com/carpedm20/i-crawl-news>`__
-   - *Taehoon Kim*, Jaesik Choi
-   - Submmited to `ACL 2015 <http://acl2015.org/index.html>`__
-
 ETC
 ~~~
 - **2014 Student Outstanding Contribution Award** (공로상) from the President of `UNIST`_
 - 2014 Excellence Award (Creative Research Program Internship) from `NAVER Labs`_
 - **2013 Student Outstanding Contribution Award** (공로상) from the President of `UNIST`_
 
+
+Papers
+------
+
+.. image:: https://raw.githubusercontent.com/carpedm20/blog/master/content/images/changepoint.png
+    :alt: Improved Bayesian Online Change Point Detection by Reading Texts
+    :align: left
+    :height: 130
+
+*Improved Bayesian Online Change Point Detection by Reading Texts*
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+   - *Taehoon Kim*, Jaesik Choi
+   - Submmited to `ACL 2015 <http://acl2015.org/index.html>`__
+   - [`code <https://github.com/carpedm20/i-crawl-news>`__]
 
 Experience
 ----------
