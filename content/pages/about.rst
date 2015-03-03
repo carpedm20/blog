@@ -76,8 +76,8 @@ Startup
 Papers
 ~~~~~~
 - *Improved Bayesian Online Change Point Detection by Reading Texts* :: `code <https://github.com/carpedm20/i-crawl-news>`__
-  - *Taehoon Kim*, Jaesik Choi
-  - submmited to `ACL 2015 <http://acl2015.org/index.html>`__
+   - *Taehoon Kim*, Jaesik Choi
+   - Submmited to `ACL 2015 <http://acl2015.org/index.html>`__
 
 ETC
 ~~~
