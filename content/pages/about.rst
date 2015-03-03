@@ -61,6 +61,7 @@ Hacking
    - Award from president of Catholic University of Korea (가톨릭대학교 총장상)
 - `2013 Korea Whitehat Contest`_ :: **3rd place** ( `HeXA`_ )
    - Held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
+   - Awarded from the Minister of National Defense (국방부장관)
    - Received an award of $8,000
 
 Startup
