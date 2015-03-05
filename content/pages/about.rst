@@ -75,11 +75,11 @@ Startup
 
 ETC
 ~~~
-- Full funding scholarship except 1 semester during 4 years from `UNIST`_
-   - Half funding scholarship for 1 semester
 - **2014 Student Outstanding Contribution Award** (공로상) from the President of `UNIST`_
 - 2014 Excellence Award (Creative Research Program Internship) from `NAVER Labs`_
 - **2013 Student Outstanding Contribution Award** (공로상) from the President of `UNIST`_
+- Full funding scholarship for 10 among 11 semesters from `UNIST`_
+   - Half funding scholarship for 1 semester
 
 
 Papers
