@@ -99,9 +99,6 @@ Papers
 .. raw:: html
 
    <br/>
-   <br/>
-   <br/>
-   <br/>
 
 
 Experience
