@@ -92,7 +92,9 @@ Papers
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Taehoon Kim*, Jaesik Choi
 - Submmited to Association for Computational Linguistics (`ACL <http://acl2015.org/index.html>`__), February 2015
-- [pdf] [`code <https://github.com/carpedm20/i-crawl-news>`__]
+   - Half funding scholarship for 1 semester
+   - Half funding scholarship for 1 semester
+- [pdf] [code]
 
 .. raw:: html
 
