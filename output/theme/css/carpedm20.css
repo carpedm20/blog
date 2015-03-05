@@ -49,3 +49,7 @@ small {
   margin-top: 2em;
 }
 /* carpedm20 */
+
+#etc li p {
+  line-height: 0.3em;
+}
