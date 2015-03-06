@@ -88,7 +88,7 @@ Intern, `Probabilistic Artificial Intelligence Lab <http://pail.unist.ac.kr/>`__
 
 - *Improved Bayesian Online Change Point Detection by Reading Texts* :: `code <https://github.com/carpedm20/i-crawl-news>`__ :: submmited to `ACL 2015 <http://acl2015.org/index.html>`__
 - *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
-- *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages:: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <http://pail.unist.ac.kr:8080/>`__
+- *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <http://pail.unist.ac.kr:8080/>`__
 - *Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos* :: `code <https://github.com/carpedm20/foxoffice>`__
 
 Intern, `Moloco`_ (2014.10 ~ 2015.01)
