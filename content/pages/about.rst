@@ -6,6 +6,7 @@ Profile
 
 - B.S. in Computer Science from `UNIST`_ (will graduate on August 2015)
 - Ulsan, South Korea
+- `[C.V.] <>`__
 
 
 Links
@@ -23,7 +24,7 @@ Interests
 
 Current
 ~~~~~~~
-- Machine Learning
+- Machine Learning, Computer Vision, Information Retrieval
 - Data Visualization
 
 
