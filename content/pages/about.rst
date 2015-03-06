@@ -79,28 +79,6 @@ ETC
 - 2014 Excellence Award (Creative Research Program Internship) from `NAVER Labs`_
 - **2013 Student Outstanding Contribution Award** (공로상) from the President of `UNIST`_
 
-
-Papers
-------
-
-.. image:: https://raw.githubusercontent.com/carpedm20/blog/master/content/images/changepoint.png
-    :alt: Improved Bayesian Online Change Point Detection by Reading Texts
-    :align: left
-    :height: 180
-
-*Improved Bayesian Online Change Point Detection by Reading Texts*
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- *Taehoon Kim*, Jaesik Choi
-- Submmited to Association for Computational Linguistics (`ACL <http://acl2015.org/index.html>`__), February 2015
-- [pdf] [code]
-
-.. raw:: html
-
-   <br/>
-   <br/>
-   <br/>
-
-
 Experience
 ----------
 
