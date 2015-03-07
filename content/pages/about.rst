@@ -160,7 +160,7 @@ Visualization
 - `Colosseum`_ :: Django
 - `FoodDuk`_ :: Big Data Restaurant Recommendation Engine
 - `UNIST FedEx <https://github.com/carpedm20/UNIST-FedEx>`__ :: 785 users (**1 of 4** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/unistfedex?>`__
-- `15 minutes before lunch <https://github.com/carpedm20/bap-15min-before>`__ :: 603 users (**1 of 5** UNIST students used) :: Faecebook bot :: `Facebook link <https://www.facebook.com/unistbap?>`__
+- `15 minutes Before Lunch <https://github.com/carpedm20/bap-15min-before>`__ :: 603 users (**1 of 5** UNIST students used) :: Faecebook bot :: `Facebook link <https://www.facebook.com/unistbap?>`__
 - `UNIST Bus When? <https://github.com/carpedm20/chrome-unist-bus>`__ :: Chrome extension :: `Chrome web store <https://chrome.google.com/webstore/detail/unist-bus-when/bjlijmbdlcjimbaehpppflcgmdgjlgme>`__
 
 
