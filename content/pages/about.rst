@@ -179,7 +179,7 @@ Visualization
 - `Let's Work CS <https://github.com/carpedm20/comgong-job>`__ :: 988 users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.job>`__
 - `UNIST Robot`_ :: Windows program (C#)
 - Finad a critical vulnerability of electronic attendance systems in UNIST.:: `Report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
-- `KakaoTala`_ and `LINE`_ reverse engineering report :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
+- `KakaoTalk`_ and `LINE`_ reverse engineering report :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
 - Find a login vulnerability ofYES24(Korean online shoppingmall) :: `Media <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
 
 
