@@ -158,10 +158,10 @@ Visualization
 - `emoji`_ :: Python library
 - `pyNdrive`_ :: Python `Ndrive`_ library :: `documentation <http://carpedm20.github.io/ndrive/>`__ :: **Hacking**
 - `Colosseum`_ :: Django
-- `FoodDuk`_ :: Big data Restaurant recommend engine
-- `유니스트 내가 전해주까`_ :: 785 users (**1 of 4** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/unistfedex?>`__
-- `유니스트 밥먹기 십오분전`_ :: 494 users (**1 of 5** UNIST students used) :: Faecebook bot :: `Facebook link <https://www.facebook.com/unistbap?>`__
-- `유니스트 버스 언제와?`_ :: Chrome extension :: `Chrome web store <https://chrome.google.com/webstore/detail/unist-bus-when/bjlijmbdlcjimbaehpppflcgmdgjlgme>`__
+- `FoodDuk`_ :: Big Data Restaurant Recommendation Engine
+- `UNIST FedEx <https://github.com/carpedm20/UNIST-FedEx>`__ :: 785 users (**1 of 4** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/unistfedex?>`__
+- `15 minutes before lunch <https://github.com/carpedm20/bap-15min-before>`__ :: 603 users (**1 of 5** UNIST students used) :: Faecebook bot :: `Facebook link <https://www.facebook.com/unistbap?>`__
+- `UNIST Bus When? <https://github.com/carpedm20/chrome-unist-bus>`__ :: Chrome extension :: `Chrome web store <https://chrome.google.com/webstore/detail/unist-bus-when/bjlijmbdlcjimbaehpppflcgmdgjlgme>`__
 
 
 2013
@@ -173,14 +173,14 @@ Visualization
 
 
 - `kakao`_ :: Python `KakaoTalk`_ library :: **Hacking**
-- `헥사봇`_ :: more than **100,000** users :: `KakaoTalk`_ bot :: **Hacking**
+- `HeXA Bot <https://github.com/carpedm20/HeXA-Bot>`__ :: more than **100,000** users :: `KakaoTalk`_ bot :: **Hacking**
 - `MovieDuk`_ :: Django
-- `포탈봇`_ :: 1,198 users (**1 of 3** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/hexa.portal>`__
-- `컴공아 일하자`_ :: 949 users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.job>`__
+- `UNIST Portal Bot <https://github.com/carpedm20/UNIST-portal-bot>`__ :: 1,219 users (**1 of 3** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/hexa.portal>`__
+- `Let's Work CS <https://github.com/carpedm20/comgong-job>`__ :: 988 users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.job>`__
 - `UNIST Robot`_ :: Windows program (C#)
-- 교내 전자 출결 서비스 취약점 발견 및 보고 :: `report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
-- 카카오톡 및 라인 리버싱 및 보고서 작성 :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
-- 예스24 타인 계정 로그인 취약점 발견 및 보고 :: `news article <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
+- Finad a critical vulnerability of electronic attendance systems in UNIST.:: `Report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
+- `KakaoTala`_ and `LINE`_ reverse engineering report :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
+- Find a login vulnerability ofYES24(Korean online shoppingmall) :: `Media <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
 
 
 Presentations
