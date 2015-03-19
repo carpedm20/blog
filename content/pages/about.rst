@@ -98,7 +98,7 @@ Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
 Research Experience
 ---------------------
 
-Research Lab, California, USA (2015.06 ~ 2015.09 expected)
+Research Lab, California, USA (2015.06 ~ 2015.09, expected)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - in progress
