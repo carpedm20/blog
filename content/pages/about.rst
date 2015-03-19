@@ -77,20 +77,9 @@ ETC
 - 2014 Excellence Award (Creative Research Program Internship) from `NAVER Labs`_
 - **2013 Student Outstanding Contribution Award** (공로상) from the President of `UNIST`_
 
-Experience
-----------
 
-Summer Intern, Research Lab, California, USA (2015.06 ~ 2015.09)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- in progress
-
-Intern, `Probabilistic Artificial Intelligence Lab <http://pail.unist.ac.kr/>`__ at UNIST (2014.09 ~ )
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
-- *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <http://pail.unist.ac.kr:8080/>`__
-- *Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos* :: `code <https://github.com/carpedm20/foxoffice>`__
+Work Experience
+-----------------
 
 Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -104,10 +93,30 @@ Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
 - Sermo :: Cloud Comment Hosting Service :: Open source
 - Got a 2014 Excellence Award, which was given to 3 selected interns
 
-Intern, `Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ at UNIST (2013.01 ~ 2014.08)
+
+Research Experience
+---------------------
+
+Research Lab, California, USA (2015.06 ~ 2015.09)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- in progress
+
+`Probabilistic Artificial Intelligence Lab <http://pail.unist.ac.kr/>`__ at UNIST (2014.09 ~ )
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
+- *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <http://pail.unist.ac.kr:8080/>`__
+- *Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos* :: `code <https://github.com/carpedm20/foxoffice>`__
+
+
+`Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ at UNIST (2013.01 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Optimizing Mobile Video Streaming: From Context-aware Scheduling to Cloud-assisted Caching*
 - *Optimizing Mobile Web browsing: Through Page Caching in Local Access Point*
+
+Campus Activities
+---------------------
 
 Leader, `HeXA`_ (a computer security research group) at UNIST (2012.08 ~ 2013.03)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -116,8 +125,9 @@ Leader, `HeXA`_ (a computer security research group) at UNIST (2012.08 ~ 2013.03
 - Find a login vulnerability of `YES24 <http://www.yes24.com/>`__ (Korean online shopping mall) :: `article <http://dailysecu.com/news_view.php?article_id=5781>`__
 - Find a vulnerability of electronic attendance system of UNIST :: `report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__
 
-Projects
---------
+
+Development Experience
+----------------------
 
 Machine Learning
 ~~~~~~~~~~~~~~~~
