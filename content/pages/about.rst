@@ -5,12 +5,12 @@ Profile
 -------
 
 - B.S. in Computer Science from `UNIST`_ (will graduate on August 2015)
-- Ulsan, South Korea
+- 50, UNIST-gil, Eonyang-eup, Ulju-gun, Ulsan, South Korea
 
 
 Links
 -----
-:Email: carpedm20@gmail.com
+:Email: carpedm20 at gmail.com
 :Github: `github.com/carpedm20`_
 :Linkedin: `linkedin.com/in/carpedm20`_
 :Slideshare: `slideshare.net/carpedm20`_
@@ -23,14 +23,12 @@ Interests
 
 Current
 ~~~~~~~
-- Machine Learning, Computer Vision, Information Retrieval
-- Data Visualization
+- Machine Learning, Computer Vision, Information Retrieval, Data Visualization
 
 
 Old
 ~~~
-- Hacking
-- Supercomputing
+- Computer Security, Supercomputing
 
 
 Awards
