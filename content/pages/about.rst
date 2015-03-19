@@ -93,13 +93,13 @@ Intern, `Probabilistic Artificial Intelligence Lab <http://pail.unist.ac.kr/>`__
 - *Predicting Box Office Ranking: Highly focus on the reaction of Teaser Videos* :: `code <https://github.com/carpedm20/foxoffice>`__
 
 Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Maximum-likelihood estimation of Downloading Mobile Application
 - Visualize Probability Distributions for Likelihood of Downloading Mobile Application
 - Enhanced a Google Play Store Crawler for Multi-Country Analysis
 
 Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Creative Research Program Internship
 - Sermo :: Cloud Comment Hosting Service :: Open source
 - Got a 2014 Excellence Award, which was given to 3 selected interns
@@ -110,7 +110,7 @@ Intern, `Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ at UNIST (2013.0
 - *Optimizing Mobile Web browsing: Through Page Caching in Local Access Point*
 
 Leader, `HeXA`_ (a computer security research group) at UNIST (2012.08 ~ 2013.03)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Reverse engineering of `LINE`_ and `KakaoTalk`_ :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: `pyLINE`_ and `kakao`_
 - Reverse engineering of `Ndrive`_ and `Korail`_ mobile application ::`pyNdrive`_ and `korail2`_ 
 - Find a login vulnerability of `YES24 <http://www.yes24.com/>`__ (Korean online shopping mall) :: `article <http://dailysecu.com/news_view.php?article_id=5781>`__
