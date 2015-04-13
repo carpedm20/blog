@@ -199,12 +199,12 @@ Visualization
 
 .. raw:: html
 
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/comgong.job"><img alt="MovieDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/comgong.png" style="width: 30%;"></a>
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/comgong.abroad"><img alt="MovieDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/abroad.png" style="width: 30%;"></a>
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbap"><img alt="MovieDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/bap.png" style="width: 30%;"></a>
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/hexa.portal"><img alt="MovieDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/portalbot.jpg" style="width: 30%;"></a>
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistfedex"><img alt="MovieDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/fedex.png" style="width: 30%;"></a>
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbus"><img alt="MovieDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/bus.png" style="width: 30%;"></a>
+   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/comgong.job"><img alt="MovieDuk" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/comgong.png" style="width: 30%;"></a>
+   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/comgong.abroad"><img alt="MovieDuk" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/abroad.png" style="width: 30%;"></a>
+   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbap"><img alt="MovieDuk" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/bap.png" style="width: 30%;"></a>
+   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/hexa.portal"><img alt="MovieDuk" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/portalbot.jpg" style="width: 30%;"></a>
+   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistfedex"><img alt="MovieDuk" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/fedex.png" style="width: 30%;"></a>
+   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbus"><img alt="MovieDuk" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/bus.png" style="width: 30%;"></a>
 
 Presentations
 -------------

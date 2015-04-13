@@ -33,6 +33,10 @@ small {
   text-align: center;
 }
 
+.align-right {
+  float: right;
+}
+
 #links table {
   margin-left: 1em;
 }
