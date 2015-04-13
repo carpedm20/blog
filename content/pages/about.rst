@@ -201,12 +201,14 @@ Facebook bot
 
 .. raw:: html
 
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbap"><img alt="UNIST-bap" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/bap.png"></a>
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/comgong.abroad"><img alt="Comgong-Abroad" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/abroad.png"></a>
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/comgong.job"><img alt="Comgong-Job" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/comgong.png"></a>
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbus"><img alt="UNIST-Bus" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/unist-bus.png"></a>
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistfedex"><img alt="UNIST-Fedex" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/fedex.png"></a>
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/hexa.portal"><img alt="UNIST-Portal-bot" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/portalbot.jpg"></a>
+   <div style="width:100%">
+      <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbap"><img alt="UNIST-bap" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/bap.png"></a>
+      <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/comgong.abroad"><img alt="Comgong-Abroad" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/abroad.png"></a>
+      <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/comgong.job"><img alt="Comgong-Job" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/comgong.png"></a>
+      <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbus"><img alt="UNIST-Bus" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/unist-bus.png"></a>
+      <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistfedex"><img alt="UNIST-Fedex" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/fedex.png"></a>
+      <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/hexa.portal"><img alt="UNIST-Portal-bot" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/portalbot.jpg"></a>
+   </div>
    <br/>
 
 Presentations
