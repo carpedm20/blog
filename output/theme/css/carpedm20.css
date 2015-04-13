@@ -34,7 +34,7 @@ small {
 }
 
 .align-right {
-  float: right;
+  float: left;
   padding: 10px;
   width: 28%;
 }
