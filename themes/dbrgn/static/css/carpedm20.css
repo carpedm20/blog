@@ -33,10 +33,11 @@ small {
   text-align: center;
 }
 
-.align-right {
+.fb-bot {
   float: left;
   padding: 13px;
   width: 23%;
+  margin-left: 4%;
 }
 
 #links table {
