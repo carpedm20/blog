@@ -35,6 +35,7 @@ small {
 
 .align-right {
   float: right;
+  margin: 10px;
 }
 
 #links table {
