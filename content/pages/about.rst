@@ -196,15 +196,18 @@ Visualization
 - `KakaoTalk`_ and `LINE`_ reverse engineering report :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
 - Find a login vulnerability ofYES24(Korean online shoppingmall) :: `Media <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
 
+Facebook bot
+~~~~~~~~~~~~
 
 .. raw:: html
 
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbap"><img alt="MovieDuk" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/bap.png" style="width: 30%;"></a>
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/comgong.abroad"><img alt="MovieDuk" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/abroad.png" style="width: 30%;"></a>
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/comgong.job"><img alt="MovieDuk" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/comgong.png" style="width: 30%;"></a>
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbus"><img alt="MovieDuk" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/bus.png" style="width: 30%;"></a>
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistfedex"><img alt="MovieDuk" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/fedex.png" style="width: 30%;"></a>
-   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/hexa.portal"><img alt="MovieDuk" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/portalbot.jpg" style="width: 30%;"></a>
+   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbap"><img alt="UNIST-bap" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/bap.png" style="width: 30%;"></a>
+   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/comgong.abroad"><img alt="Comgong-Abroad" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/abroad.png" style="width: 30%;"></a>
+   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/comgong.job"><img alt="Comgong-Job" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/comgong.png" style="width: 30%;"></a>
+   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbus"><img alt="UNIST-Bus" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/bus.png" style="width: 30%;"></a>
+   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistfedex"><img alt="UNIST-Fedex" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/fedex.png" style="width: 30%;"></a>
+   <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/hexa.portal"><img alt="UNIST-Portal-bot" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/portalbot.jpg" style="width: 30%;"></a>
+   <br/>
 
 Presentations
 -------------
