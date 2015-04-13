@@ -173,6 +173,7 @@ Visualization
 - `pyNdrive`_ :: Python `Ndrive`_ library :: `documentation <http://carpedm20.github.io/ndrive/>`__ :: **Hacking**
 - `Colosseum`_ :: Django
 - `FoodDuk`_ :: Big Data Restaurant Recommendation Engine
+- `Let's Go Abroad CS <https://github.com/carpedm20/comgong-abroad>`__ :: 1,288 users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.abroad>`__
 - `UNIST FedEx <https://github.com/carpedm20/UNIST-FedEx>`__ :: 785 users (**1 of 4** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/unistfedex?>`__
 - `15 minutes Before Lunch <https://github.com/carpedm20/bap-15min-before>`__ :: 883 users (**1 of 4** UNIST students used) :: Faecebook bot :: `Facebook link <https://www.facebook.com/unistbap?>`__
 - `UNIST Bus When? <https://github.com/carpedm20/chrome-unist-bus>`__ :: Chrome extension :: `Chrome web store <https://chrome.google.com/webstore/detail/unist-bus-when/bjlijmbdlcjimbaehpppflcgmdgjlgme>`__
@@ -190,7 +191,7 @@ Visualization
 - `HeXA Bot <https://github.com/carpedm20/HeXA-Bot>`__ :: more than **100,000** users :: `KakaoTalk`_ bot :: **Hacking**
 - `MovieDuk`_ :: Django
 - `UNIST Portal Bot <https://github.com/carpedm20/UNIST-portal-bot>`__ :: 1,235 users (**1 of 3** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/hexa.portal>`__
-- `Let's Work CS <https://github.com/carpedm20/comgong-job>`__ :: 1012 users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.job>`__
+- `Let's Work CS <https://github.com/carpedm20/comgong-job>`__ :: 1,491 users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.job>`__
 - `UNIST Robot`_ :: Windows program (C#)
 - Finad a critical vulnerability of electronic attendance systems in UNIST.:: `Report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
 - `KakaoTalk`_ and `LINE`_ reverse engineering report :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
@@ -202,12 +203,12 @@ Facebook bot
 .. raw:: html
 
    <div style="width:100%">
-      <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbap"><img alt="UNIST-bap" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/bap.png"></a>
-      <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/comgong.abroad"><img alt="Comgong-Abroad" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/abroad.png"></a>
       <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/comgong.job"><img alt="Comgong-Job" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/comgong.png"></a>
-      <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbus"><img alt="UNIST-Bus" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/unist-bus.png"></a>
-      <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistfedex"><img alt="UNIST-Fedex" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/fedex.png"></a>
+      <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/comgong.abroad"><img alt="Comgong-Abroad" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/abroad.png"></a>
+      <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbap"><img alt="UNIST-bap" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/bap.png"></a>
       <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/hexa.portal"><img alt="UNIST-Portal-bot" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/portalbot.jpg"></a>
+      <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistfedex"><img alt="UNIST-Fedex" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/fedex.png"></a>
+      <a class="reference external image-reference" target="_blank" href="https://www.facebook.com/unistbus"><img alt="UNIST-Bus" class="align-right" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/unist-bus.png"></a>
    </div>
    <br/>
 
