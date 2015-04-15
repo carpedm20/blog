@@ -98,9 +98,10 @@ Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
 Research Experience
 ---------------------
 
-Research Lab, California, USA (2015.06 ~ 2015.09, expected)
+`Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__, California, USA (2015.06 ~ 2015.09, expected)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- Scientific Data Management group
 - in progress
 
 `Probabilistic Artificial Intelligence Lab <http://pail.unist.ac.kr/>`__ at UNIST (2014.09 ~ )
