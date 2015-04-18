@@ -163,7 +163,7 @@ Visualization
 
 - `Let's Go Abroad CS <https://github.com/carpedm20/comgong-abroad>`__ :: **2,399** users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.abroad>`__
 - `fbchat <https://github.com/carpedm20/fbchat>`__ :: Python Facebook Chat (`Messenger <https://www.messenger.com/>`__ ) library
-- `yaksok <https://github.com/carpedm20/yaksok`__ :: Programming language for Korean :: Minor contribution
+- `yaksok <https://github.com/carpedm20/yaksok>`__ :: Programming language for Korean :: Minor contribution
 - `pinpoint <https://github.com/carpedm20/pinpoint>`__ :: open source APM (Application Performance Management) tool :: Minor contribution
 
 2014
