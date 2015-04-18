@@ -158,13 +158,19 @@ Visualization
 - A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/critic/>`__
 
 
+open source contribution
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+- `yaksok <https://github.com/carpedm20/yaksok>`__ :: Programming language for Korean :: Minor contribution
+- `pinpoint <https://github.com/carpedm20/pinpoint>`__ :: open source APM (Application Performance Management) tool :: Minor contribution
+
+
 2015
 ~~~~
 
 - `Let's Go Abroad CS <https://github.com/carpedm20/comgong-abroad>`__ :: **2,399** users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.abroad>`__
-- `fbchat <https://github.com/carpedm20/fbchat>`__ :: Python Facebook Chat (`Messenger <https://www.messenger.com/>`__ ) library
-- `yaksok <https://github.com/carpedm20/yaksok>`__ :: Programming language for Korean :: Minor contribution
-- `pinpoint <https://github.com/carpedm20/pinpoint>`__ :: open source APM (Application Performance Management) tool :: Minor contribution
+- `fbchat <https://github.com/carpedm20/fbchat>`__ :: Python Facebook Chat (`Messenger <https://www.messenger.com/>`__) library
+
 
 2014
 ~~~~
