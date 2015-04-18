@@ -168,7 +168,7 @@ open source contribution
 2015
 ~~~~
 
-- `Let's Go Abroad CS <https://github.com/carpedm20/comgong-abroad>`__ :: **2,399** users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.abroad>`__
+- `Let's Go Abroad CS <https://github.com/carpedm20/comgong-abroad>`__ :: **2,698** users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.abroad>`__
 - `fbchat <https://github.com/carpedm20/fbchat>`__ :: Python Facebook Chat (`Messenger <https://www.messenger.com/>`__) library
 
 
