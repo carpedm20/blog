@@ -168,6 +168,10 @@ open source contribution
 2015
 ~~~~
 
+.. raw:: html
+
+   <a class="reference external image-reference" target="_blank" href="http://github.com/carpedm20/ggomggom-email/"><img alt="LINE" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/email.png" style="width: 90%;"></a>
+
 - `Let's Go Abroad CS <https://github.com/carpedm20/comgong-abroad>`__ :: **2,698** users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.abroad>`__
 - `꼼꼼한 이메일 <https://github.com/carpedm20/ggomggom-email>`__ :: Chrome extension:: `Chrome web store <https://chrome.google.com/webstore/detail/%EA%BC%BC%EA%BC%BC%ED%95%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC/enikkgcjnbdkcfjehoncjmogbilhdapf/reviews?hl=ko&gl=001>`__
 - `fbchat <https://github.com/carpedm20/fbchat>`__ :: Python Facebook Chat (`Messenger <https://www.messenger.com/>`__) library
