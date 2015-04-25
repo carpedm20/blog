@@ -161,8 +161,8 @@ Visualization
 open source contribution
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-- `yaksok <https://github.com/carpedm20/yaksok>`__ :: Programming language for Korean :: Minor contribution
-- `pinpoint <https://github.com/carpedm20/pinpoint>`__ :: open source APM (Application Performance Management) tool :: Minor contribution
+- `yaksok <https://github.com/carpedm20/yaksok>`__ :: Programming language for Korean :: Minor contribution `#3 <https://github.com/yaksok/yaksok/pull/3>`__
+- `pinpoint <https://github.com/carpedm20/pinpoint>`__ :: open source APM (Application Performance Management) tool :: Minor contribution `#318 <https://github.com/naver/pinpoint/pull/318>`__
 
 
 2015
