@@ -150,7 +150,7 @@ Visualization
 
 .. raw:: html
 
-   <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/ausung"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/ausung/master/contents/example2-2.png" style="width: 90%;"></a>
+   <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/ausung"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/ausung/master/contents/demo.PNG" style="width: 90%;"></a>
    <br/>
    <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr/carpedm20/vox/"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png" style="width: 90%;"></a>
    <br/>
