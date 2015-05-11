@@ -131,7 +131,7 @@ Leader, `HeXA`_ (a computer security research group) at UNIST (2012.08 ~ 2013.03
 Development Experience
 ----------------------
 
-**All demo links are dead because the virtual machine are corrupted**
+**All demo links are dead because the virtual machine are corrupted (2015-05-11)**
 
 Machine Learning
 ~~~~~~~~~~~~~~~~
