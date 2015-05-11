@@ -132,6 +132,8 @@ Leader, `HeXA`_ (a computer security research group) at UNIST (2012.08 ~ 2013.03
 Development Experience
 ----------------------
 
+**All demo links are dead because the virtual machine are corrupted**
+
 Machine Learning
 ~~~~~~~~~~~~~~~~
 
@@ -149,11 +151,13 @@ Visualization
 
 .. raw:: html
 
+   <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/ausung"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/ausung/master/contents/example2-2.png" style="width: 90%;"></a>
+   <br/>
    <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr/carpedm20/vox/"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png" style="width: 90%;"></a>
    <br/>
    <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/all-about-critics"><img alt="All about critic" class="align-center" src="https://raw.githubusercontent.com/carpedm20/all-about-critics/master/contents/demo2.PNG" style="width: 90%;"></a>
 
-
+- A Data Visualization of Media Sentiments :: `code <https://github.com/carpedm20/ausung>`__
 - A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
 - A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/critic/>`__
 
