@@ -6,7 +6,7 @@ Profile
 
 - B.S. in Computer Science from `UNIST`_ (will graduate on August 2015)
 - Ulsan, South Korea
-- CV : `[PDF] <https://github.com/carpedm20/blog/raw/5079f3408c8a209cc4064952775cb6cdc159af7d/content/Taehoon_Kim_CV.pdf>`_
+- CV : `[PDF] <https://github.com/carpedm20/blog/raw/master/content/Taehoon_Kim_CV.pdf>`__
 
 
 Links
