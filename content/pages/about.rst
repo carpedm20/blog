@@ -138,6 +138,13 @@ Development Experience
 
 **All demo links are dead because the virtual machine are corrupted (2015-05-11)**
 
+Open Source Contribution
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+- `yaksok <https://github.com/carpedm20/yaksok>`__ :: Programming language for Korean :: Minor contribution `#3 <https://github.com/yaksok/yaksok/pull/3>`__
+- `pinpoint <https://github.com/carpedm20/pinpoint>`__ :: open source APM (Application Performance Management) tool :: Minor contribution `#318 <https://github.com/naver/pinpoint/pull/318>`__
+
+
 Machine Learning
 ~~~~~~~~~~~~~~~~
 
@@ -164,13 +171,6 @@ Visualization
 - A Data Visualization of Media Sentiments :: `code <https://github.com/carpedm20/ausung>`__
 - A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
 - A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/critic/>`__
-
-
-open source contribution
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-- `yaksok <https://github.com/carpedm20/yaksok>`__ :: Programming language for Korean :: Minor contribution `#3 <https://github.com/yaksok/yaksok/pull/3>`__
-- `pinpoint <https://github.com/carpedm20/pinpoint>`__ :: open source APM (Application Performance Management) tool :: Minor contribution `#318 <https://github.com/naver/pinpoint/pull/318>`__
 
 
 2015
