@@ -75,6 +75,7 @@ Startup
 Scholarships
 ~~~~~~~~~~~~
 - **Global Scholarship** for Undergraduate Research Opportunities Program, UNIST :: 2015
+   - Received $3,000 as a financial support for Research Internship at `Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__
 - **Academic Performance Scholarship**, UNIST :: 2011-2015
 - **National Science and Engineering Scholarship**, Korean Student Aid Foundation :: 2013
 
@@ -180,7 +181,7 @@ Visualization
 
    <a class="reference external image-reference" target="_blank" href="http://github.com/carpedm20/ggomggom-email/"><img alt="LINE" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/email.png" style="width: 90%;"></a>
 
-- `Let's Go Abroad CS <https://github.com/carpedm20/comgong-abroad>`__ :: **2,698** users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.abroad>`__
+- `Let's Go Abroad CS <https://github.com/carpedm20/comgong-abroad>`__ :: **2,775** users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.abroad>`__
 - `between <https://github.com/carpedm20/between>`__ :: Python `Between <https://between.us/?lang=en>`__ library :: **Hacking**
 - `꼼꼼한 이메일 <https://github.com/carpedm20/ggomggom-email>`__ :: Chrome extension:: `Chrome web store <https://chrome.google.com/webstore/detail/%EA%BC%BC%EA%BC%BC%ED%95%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC/enikkgcjnbdkcfjehoncjmogbilhdapf/reviews?hl=ko&gl=001>`__
 - `fbchat <https://github.com/carpedm20/fbchat>`__ :: Python Facebook Chat (`Messenger <https://www.messenger.com/>`__) library
@@ -204,7 +205,7 @@ Visualization
 - `Colosseum`_ :: Django
 - `FoodDuk`_ :: Big Data Restaurant Recommendation Engine
 - `UNIST FedEx <https://github.com/carpedm20/UNIST-FedEx>`__ :: 785 users (**1 of 4** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/unistfedex?>`__
-- `15 minutes Before Lunch <https://github.com/carpedm20/bap-15min-before>`__ :: 973 users (**1 of 4** UNIST students used) :: Faecebook bot :: `Facebook link <https://www.facebook.com/unistbap?>`__
+- `15 minutes Before Lunch <https://github.com/carpedm20/bap-15min-before>`__ :: **1,114** users (**1 of 3** UNIST students used) :: Faecebook bot :: `Facebook link <https://www.facebook.com/unistbap?>`__
 - `UNIST Bus When? <https://github.com/carpedm20/chrome-unist-bus>`__ :: Chrome extension :: `Chrome web store <https://chrome.google.com/webstore/detail/unist-bus-when/bjlijmbdlcjimbaehpppflcgmdgjlgme>`__
 
 
@@ -219,8 +220,8 @@ Visualization
 - `kakao`_ :: Python `KakaoTalk`_ library :: **Hacking**
 - `HeXA Bot <https://github.com/carpedm20/HeXA-Bot>`__ :: more than **100,000** users :: `KakaoTalk`_ bot :: **Hacking**
 - `MovieDuk`_ :: Django
-- `UNIST Portal Bot <https://github.com/carpedm20/UNIST-portal-bot>`__ :: 1,302 users (**1 of 3** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/hexa.portal>`__
-- `Let's Work CS <https://github.com/carpedm20/comgong-job>`__ :: **2,573** users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.job>`__
+- `UNIST Portal Bot <https://github.com/carpedm20/UNIST-portal-bot>`__ :: **1,339** users (**1 of 3** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/hexa.portal>`__
+- `Let's Work CS <https://github.com/carpedm20/comgong-job>`__ :: **2,746** users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.job>`__
 - `UNIST Robot`_ :: Windows program (C#)
 - Finad a critical vulnerability of electronic attendance systems in UNIST.:: `Report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
 - `KakaoTalk`_ and `LINE`_ reverse engineering report :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
