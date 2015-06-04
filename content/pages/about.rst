@@ -24,12 +24,12 @@ Interests
 
 Current
 ~~~~~~~
-- Machine Learning, Computer Vision, Information Retrieval, Data Visualization
+- Machine Learning, Natural Language Processing, Computer Vision
 
 
 Old
 ~~~
-- Computer Security, Supercomputing
+- Computer Security, Supercomputing, Data visualization
 
 
 Awards
@@ -137,7 +137,9 @@ Leader, `HeXA`_ (a computer security research group) at UNIST (2012.08 ~ 2013.03
 Development Experience
 ----------------------
 
-**All demo links are dead because the virtual machine are corrupted (2015-05-11)**
+.. raw:: html
+
+   <p style="color: red; text-align: center;"><strong>All demo links are dead because the virtual machine are corrupted (2015-05-11)</strong></p>
 
 Open Source Contribution
 ~~~~~~~~~~~~~~~~~~~~~~~~
