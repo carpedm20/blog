@@ -139,7 +139,7 @@ Development Experience
 
 .. raw:: html
 
-   <p style="color: red; text-align: center;"><strong>All demo links are dead because the virtual machine are corrupted (2015-05-11)</strong></p>
+   <!--<p style="color: red; text-align: center;"><strong>All demo links are dead because the virtual machine are corrupted (2015-05-11)</strong></p>-->
 
 Open Source Contribution
 ~~~~~~~~~~~~~~~~~~~~~~~~
