@@ -154,6 +154,7 @@ Machine Learning
 .. raw:: html
 
    <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr/carpedm20/poet/"><img alt="Poet Neural" class="align-center" src="https://raw.githubusercontent.com/carpedm20/poet-neural/master/contents/screenshot1.png" style="width: 90%;"></a>
+   <br/>
    <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr:8080/"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
 
 - ReviewDuk :: Korean Sentiment Analyzer in Morphologically Rich Languages :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <http://pail.unist.ac.kr:8080/>`__
