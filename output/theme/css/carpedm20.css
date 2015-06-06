@@ -49,7 +49,7 @@ small {
   margin-bottom: 0.8em;
 }
 #interests li, #projects li, #links li, #awards li, #presentations li,  #development-experience li, #work-experience li, #research-experience li, #experience li, #translation li, #current li, #old li, #papers li, #campus-activities li {
-  line-height: 1em;
+  line-height: 1.3em;
 }
 
 #footer {
