@@ -10,7 +10,7 @@ li {
 }
 
 dd {
- margin-left: 20px !important;
+ margin-left: 20px;
 }
 .first.last.simple {
   padding: 0px;
