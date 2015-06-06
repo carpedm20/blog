@@ -36,7 +36,7 @@ small {
 .fb-bot {
   float: left;
   padding: 13px;
-  width: 25%;
+  width: 75%;
   margin-left: 4%;
 }
 
@@ -67,5 +67,5 @@ small {
 }
 
 #scholarships p {
-  line-height: 0.3em;
+  line-height: 1em;
 }
