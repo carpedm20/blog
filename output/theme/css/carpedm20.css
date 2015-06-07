@@ -36,7 +36,7 @@ small {
 .fb-bot {
   float: left;
   padding: 13px;
-  width: 25%;
+  width: 75%;
   margin-left: 4%;
 }
 
@@ -49,7 +49,7 @@ small {
   margin-bottom: 0.8em;
 }
 #interests li, #projects li, #links li, #awards li, #presentations li,  #development-experience li, #work-experience li, #research-experience li, #experience li, #translation li, #current li, #old li, #papers li, #campus-activities li {
-  line-height: 1em;
+  line-height: 1.3em;
 }
 
 #footer {
@@ -67,5 +67,26 @@ small {
 }
 
 #scholarships p {
-  line-height: 0.3em;
+  line-height: 1em;
+}
+
+.pure-g [class *="pure-u"] {
+  font-family: sans-serif;
+}
+.pure-u-1, .pure-u-1-1, .pure-u-1-2, .pure-u-1-3, .pure-u-2-3, .pure-u-1-4, .pure-u-3-4, .pure-u-1-5, .pure-u-2-5, .pure-u-3-5, .pure-u-4-5, .pure-u-5-5, .pure-u-1-6, .pure-u-5-6, .pure-u-1-8, .pure-u-3-8, .pure-u-5-8, .pure-u-7-8, .pure-u-1-12, .pure-u-5-12, .pure-u-7-12, .pure-u-11-12, .pure-u-1-24, .pure-u-2-24, .pure-u-3-24, .pure-u-4-24, .pure-u-5-24, .pure-u-6-24, .pure-u-7-24, .pure-u-8-24, .pure-u-9-24, .pure-u-10-24, .pure-u-11-24, .pure-u-12-24, .pure-u-13-24, .pure-u-14-24, .pure-u-15-24, .pure-u-16-24, .pure-u-17-24, .pure-u-18-24, .pure-u-19-24, .pure-u-20-24, .pure-u-21-24, .pure-u-22-24, .pure-u-23-24, .pure-u-24-24 {
+  display: inline-block;
+  zoom: 1;
+  letter-spacing: normal;
+  word-spacing: normal;
+  vertical-align: top;
+  text-rendering: auto;
+}
+.pure-g {
+  letter-spacing: -.31em;
+  text-rendering: optimizespeed;
+  font-family: FreeSans,Arimo,"Droid Sans",Helvetica,Arial,sans-serif;
+  display: -webkit-flex;
+  -webkit-flex-flow: row wrap;
+  display: -ms-flexbox;
+  -ms-flex-flow: row wrap;
 }
