@@ -43,7 +43,7 @@ Supercomputing
    - Application : `GADGET2 <http://www.mpa-garching.mpg.de/gadget/>`__ using `G2X <http://www.lab4241.com/cef/g2x/>`__ (GADGET2 for GPU), MPI, FFTW, GSL and HDF5
 - `Asia student Supercomputing Challenge 14 <http://www.asc-events.org/ASC14/index14en.php>`__ :: **Finalist**
    - In Guangzhou / China (participate as a team adviser)
-   - Cluster : 6 x (Xeon E5-2692 x 2 + `Nvidia Titan <http://www.nvidia.co.kr/gtx-700-graphics-cards/gtx-780/>`__ + 16G x 6)
+   - Cluster : 6 x (Xeon E5-2692 x 2 + `Nvidia Titan <http://www.nvidia.co.kr/gtx-700-graphics-cards/gtx-titan-black/>`__ + 16G x 6)
    - Application : `SU2 <http://su2.stanford.edu/>`__ using MPI, Metis, Tecio, CGNS
 - `Asia student Supercomputing Challenge 13 <http://www.asc-events.org/13en/index13en.php>`__ :: **Finalist**
    - In Shanghai / China
