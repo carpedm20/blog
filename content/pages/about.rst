@@ -139,7 +139,7 @@ Development Experience
 
 .. raw:: html
 
-   <p style="color: red; text-align: center;"><strong>All demo links are dead because the virtual machine are corrupted (2015-06-11)</strong></p>
+   <!--<p style="color: red; text-align: center;"><strong>All demo links are dead because the virtual machine are corrupted (2015-06-11)</strong></p>-->
 
 Open Source Contribution
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -179,6 +179,23 @@ Visualization
 - A Data Visualization of Media Sentiments :: `code <https://github.com/carpedm20/ausung>`__
 - A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
 - A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/critic/>`__
+
+
+Hacked services
+~~~~~~~~~~~~~~~
+
+.. raw:: html
+
+   <div class="pure-g" style="width:100%">
+      <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/LINE"><img alt="line" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/line_logo.png"></a>
+      <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/kakaotalk"><img alt="kakaotalk" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/kakaotalk.png"></a>
+      <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/between"><img alt="between" class="fb-bot" src="https://camo.githubusercontent.com/8b4af43911739fe048da261e187c84a6a66e58e0/68747470733a2f2f666263646e2d70726f66696c652d612e616b616d616968642e6e65742f6870726f66696c652d616b2d786170312f762f74312e302d312f70323030783230302f31303531373531385f3735303236353532313637353330305f3738383831373839343537383339363439365f6e2e706e673f6f683d3763613334316566313535643133386135613434333637653265613136333532266f653d3535434242343033265f5f6764615f5f3d313433383838303139345f3563623733343232303833333338653638353564623531303233343431373636"></a>
+      <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/ndrive"><img alt="ndrive" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/ndrive.png"></a>
+      <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/korail2"><img alt="korail" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/korail.png"></a>
+      <!--<a class="reference external image-reference pure-u-1-3" target="_blank" href="https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf"><img alt="UNIST" class="fb-bot" src="http://home.unist.ac.kr/professor/skkwak/images/index/university_identity.jpg"></a>-->
+      <a class="reference external image-reference pure-u-1-3" target="_blank" href="http://dailysecu.com/news_view.php?article_id=5781"><img alt="yes24" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/yes24.jpg"></a>
+   </div>
+   <br/>
 
 
 2015
@@ -233,22 +250,6 @@ Visualization
 - Finad a critical vulnerability of electronic attendance systems in UNIST.:: `Report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
 - `KakaoTalk`_ and `LINE`_ reverse engineering report :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
 - Find a login vulnerability ofYES24(Korean online shoppingmall) :: `Media <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
-
-Hacked services
-~~~~~~~~~~~~~~~
-
-.. raw:: html
-
-   <div class="pure-g" style="width:100%">
-      <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/LINE"><img alt="line" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/line_logo.png"></a>
-      <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/kakaotalk"><img alt="kakaotalk" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/kakaotalk.png"></a>
-      <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/between"><img alt="between" class="fb-bot" src="https://camo.githubusercontent.com/8b4af43911739fe048da261e187c84a6a66e58e0/68747470733a2f2f666263646e2d70726f66696c652d612e616b616d616968642e6e65742f6870726f66696c652d616b2d786170312f762f74312e302d312f70323030783230302f31303531373531385f3735303236353532313637353330305f3738383831373839343537383339363439365f6e2e706e673f6f683d3763613334316566313535643133386135613434333637653265613136333532266f653d3535434242343033265f5f6764615f5f3d313433383838303139345f3563623733343232303833333338653638353564623531303233343431373636"></a>
-      <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/ndrive"><img alt="ndrive" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/ndrive.png"></a>
-      <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/korail2"><img alt="korail" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/korail.png"></a>
-      <!--<a class="reference external image-reference pure-u-1-3" target="_blank" href="https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf"><img alt="UNIST" class="fb-bot" src="http://home.unist.ac.kr/professor/skkwak/images/index/university_identity.jpg"></a>-->
-      <a class="reference external image-reference pure-u-1-3" target="_blank" href="http://dailysecu.com/news_view.php?article_id=5781"><img alt="yes24" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/yes24.jpg"></a>
-   </div>
-   <br/>
 
 Facebook bot
 ~~~~~~~~~~~~
