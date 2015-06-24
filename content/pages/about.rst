@@ -156,9 +156,9 @@ Machine Learning
 
    <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr/carpedm20/poet/"><img alt="Poet Neural" class="align-center" src="https://raw.githubusercontent.com/carpedm20/poet-neural/master/contents/screenshot5.png" style="width: 90%;"></a>
    <br/>
-   <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr:8080/"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
+   <a class="reference external image-reference" target="_blank" href="https://www.youtube.com/watch?v=nKyt3jo2Hno"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
 
-- ReviewDuk :: Korean Sentiment Analyzer in Morphologically Rich Languages :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <http://pail.unist.ac.kr:8080/>`__
+- ReviewDuk :: Korean Sentiment Analyzer in Morphologically Rich Languages :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - Poet Neural :: Poet born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/poet/>`__
 - Fake Review Generator :: Fake review generator born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/alba>`__
 - FoodClassifier :: Food image classifier :: `python <https://github.com/carpedm20/FoodClassifier>`__ :: `matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__ :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
