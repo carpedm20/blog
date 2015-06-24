@@ -52,16 +52,16 @@ Supercomputing
 
 Hacking
 ~~~~~~~
-- `2014 Korea Whitehat Contest`_ :: **Finalist** ( `HeXA`_ )
-   - Held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
-   - 5th place at preliminary contest
-- `Holyshield 2013`_ :: **1st place** ( CodePink )
-   - Held by Catholic University of Korea
-   - Awarded by the President of Catholic University of Korea (가톨릭대학교 총장상)
 - `2013 Korea Whitehat Contest`_ :: **3rd place** ( `HeXA`_ )
    - Held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
    - Awarded by the Minister of National Defense (국방부장관)
    - Received an award of $8,000
+- `Holyshield 2013`_ :: **1st place** ( CodePink )
+   - Held by Catholic University of Korea
+   - Awarded by the President of Catholic University of Korea (가톨릭대학교 총장상)
+- `2014 Korea Whitehat Contest`_ :: **Finalist** ( `HeXA`_ )
+   - Held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
+   - 5th place at preliminary contest
 
 Startup
 ~~~~~~~
@@ -88,17 +88,17 @@ ETC
 Work Experience
 -----------------
 
-Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Maximum-likelihood estimation of Downloading Mobile Application
-- Visualize Probability Distributions for Likelihood of Downloading Mobile Application
-- Enhanced a Google Play Store Crawler for Multi-Country Analysis
-
 Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Creative Research Program Internship
 - Sermo :: Cloud Comment Hosting Service :: Open source
 - Got a 2014 Excellence Award, which was given to 3 selected interns
+
+Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Maximum-likelihood estimation of Downloading Mobile Application
+- Visualize Probability Distributions for Likelihood of Downloading Mobile Application
+- Enhanced a Google Play Store Crawler for Multi-Country Analysis
 
 
 Research Experience
