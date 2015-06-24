@@ -104,7 +104,7 @@ Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
 Research Experience
 ---------------------
 
-`Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__, California, USA (2015.06 ~ 2015.09, expected)
+`Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__, California, USA (2015.07 ~ 2015.09, expected)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Scientific Data Management group
