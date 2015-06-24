@@ -82,8 +82,8 @@ Scholarships
 ETC
 ~~~
 - **2014 Student Outstanding Contribution Award** (공로상) from the President of `UNIST`_
-- 2014 Excellence Award (Creative Research Program Internship) from `NAVER Labs`_
 - **2013 Student Outstanding Contribution Award** (공로상) from the President of `UNIST`_
+- 2014 Excellence Award (Creative Research Program Internship) from `NAVER Labs`_
 
 Work Experience
 -----------------
