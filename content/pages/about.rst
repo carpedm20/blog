@@ -269,6 +269,10 @@ Facebook bot
 Presentations
 -------------
 
+2015
+~~~~
+- `쉽게 쓰여진 머신러닝 <http://www.pycon.kr/2015/program/38>`__ (`Pycon Korea 2015 <http://www.pycon.kr/2015/programs/speaker/carpedm20>`__, 15-06-27 (expected))
+
 2014
 ~~~~
 - `140분의 파이썬 <https://carpedm20.github.io/140min-python>`__ (`NAVER D2 대학생 세미나 <http://helloworld.naver.com/helloworld/900758>`__, 14-08-26)
