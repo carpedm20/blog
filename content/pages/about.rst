@@ -86,6 +86,30 @@ ETC
 - **2013 Student Outstanding Contribution Award** (공로상) from the President of `UNIST`_
 - 2014 Excellence Award (Creative Research Program Internship) from `NAVER Labs`_
 
+
+Research Experience
+---------------------
+
+`Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__, California, USA (2015.07 ~ )
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Summer Computer Science Student at Scientific Data Manage (`SDM <http://crd.lbl.gov/departments/data-science-and-technology/SDM/>`__) Group 
+- *Behavior Analytics: Identify how characteristics and behaviors affected by energy saving in programs only from smart meter data*
+
+`Probabilistic Artificial Intelligence Lab <http://pail.unist.ac.kr/>`__ at UNIST (2014.09 ~ )
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
+- *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/poet/>`__
+- *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
+
+
+`Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ at UNIST (2013.01 ~ 2014.08)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- *Optimizing Mobile Video Streaming: From Context-aware Scheduling to Cloud-assisted Caching*
+- *Optimizing Mobile Web browsing: Through Page Caching in Local Access Point*
+
+
 Work Experience
 -----------------
 
@@ -101,28 +125,6 @@ Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
 - Visualize Probability Distributions for Likelihood of Downloading Mobile Application
 - Enhanced a Google Play Store Crawler for Multi-Country Analysis
 
-
-Research Experience
----------------------
-
-`Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__, California, USA (2015.07 ~ 2015.09, expected)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- Scientific Data Management group
-- in progress
-
-`Probabilistic Artificial Intelligence Lab <http://pail.unist.ac.kr/>`__ at UNIST (2014.09 ~ )
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
-- *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/poet/>`__
-- *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
-
-
-`Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ at UNIST (2013.01 ~ 2014.08)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- *Optimizing Mobile Video Streaming: From Context-aware Scheduling to Cloud-assisted Caching*
-- *Optimizing Mobile Web browsing: Through Page Caching in Local Access Point*
 
 Campus Activities
 ---------------------
