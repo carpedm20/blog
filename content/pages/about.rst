@@ -32,6 +32,12 @@ Old
 - Computer Security, Supercomputing, Data visualization
 
 
+Publications
+------------
+
+- [1] **T. Kim** and J. Choi, *Reading documents for bayesian Online Change Point Detection*, in Empirical Methods on Natural Language Processing (`EMNLP 2015 <http://www.emnlp2015.org/>`__) (23.5% a/r), Lisboa, Portugal, Sep. 2015. [PDF]
+
+
 Awards
 ------
 

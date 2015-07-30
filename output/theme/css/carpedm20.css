@@ -20,7 +20,7 @@ dd {
 .first.last.simple {
   padding: 0px;
 }
-#papers li, #profile li, #about-me li, #introduction li, #links li, #interests li, #awards li, #development-experience li, #work-experience li, #research-experience li, #experience li, #projects li, #presentations li, #skills li, #translation li, #campus-activities li {
+#papers li, #profile li, #about-me li, #introduction li, #links li, #interests li, #publications li, #awards li, #development-experience li, #work-experience li, #research-experience li, #experience li, #projects li, #presentations li, #skills li, #translation li, #campus-activities li {
   list-style: none;
   margin: 0.3em 0em;
   padding: 0em;
@@ -49,11 +49,11 @@ small {
   margin-left: 1em;
 }
 
-#interests h3, #projects h3, #links h3, #awards h3, #presentations h3,  #development-experience h3, #work-experience h3, #research-experience h3, #experience h3, #translation h3, #current h3, #old h3, #campus-activities h3 {
+#interests h3, #projects h3, #links h3, #publications h3, #awards h3, #presentations h3,  #development-experience h3, #work-experience h3, #research-experience h3, #experience h3, #translation h3, #current h3, #old h3, #campus-activities h3 {
   margin-left: 1em;
   margin-bottom: 0.8em;
 }
-#interests li, #projects li, #links li, #awards li, #presentations li,  #development-experience li, #work-experience li, #research-experience li, #experience li, #translation li, #current li, #old li, #papers li, #campus-activities li {
+#interests li, #projects li, #links li, #publications li, #awards li, #presentations li,  #development-experience li, #work-experience li, #research-experience li, #experience li, #translation li, #current li, #old li, #papers li, #campus-activities li {
   line-height: 1.3em;
 }
 
