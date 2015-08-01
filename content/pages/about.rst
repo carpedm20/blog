@@ -125,12 +125,6 @@ Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
 - Sermo :: Cloud Comment Hosting Service :: Open source
 - Got a 2014 Excellence Award, which was given to 3 selected interns
 
-Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Maximum-likelihood estimation of Downloading Mobile Application
-- Visualize Probability Distributions for Likelihood of Downloading Mobile Application
-- Enhanced a Google Play Store Crawler for Multi-Country Analysis
-
 
 Campus Activities
 ---------------------
