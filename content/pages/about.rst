@@ -105,9 +105,10 @@ Research Experience
 `Probabilistic Artificial Intelligence Lab <http://pail.unist.ac.kr/>`__ at UNIST (2014.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+- *Reading documents for bayesian Online Change Point Detection* :: `EMNLP 2015 <http://www.emnlp2015.org/>`__ (23.5% a/r) :: [`PDF <https://github.com/carpedm20/blog/raw/master/content/emnlp2015.pdf>`__]
 - *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/poet/>`__
-- *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
+- *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
 
 
 `Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ at UNIST (2013.01 ~ 2014.08)
@@ -164,8 +165,7 @@ Machine Learning
 - ReviewDuk :: Korean Sentiment Analyzer in Morphologically Rich Languages :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - Poet Neural :: Poet born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/poet/>`__
 - Fake Review Generator :: Fake review generator born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/alba>`__
-- FoodClassifier :: Food image classifier :: `python <https://github.com/carpedm20/FoodClassifier>`__ :: `matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__ :: `paper <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
-- Change Point Detection Based On Textual Analysis of Financial News Articles :: `Python <https://github.com/carpedm20/i-crawl-news>`__ :: `matlab <https://github.com/carpedm20/Run-Length-Prediction-of-Change-Point-by-Text-Features>`__
+- FoodClassifier :: Food image classifier :: `python <https://github.com/carpedm20/FoodClassifier>`__ :: `matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__ :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
 
 
 Visualization
@@ -271,10 +271,6 @@ Facebook bot
 
 Presentations
 -------------
-
-2015
-~~~~
-- `쉽게 쓰여진 머신러닝 <http://www.pycon.kr/2015/program/38>`__ (`Pycon Korea 2015 <http://www.pycon.kr/2015/programs/speaker/carpedm20>`__, 15-06-27 (expected))
 
 2014
 ~~~~
