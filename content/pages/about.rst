@@ -359,7 +359,7 @@ ETC
 .. _영화 서비스에 대한 생각: http://www.slideshare.net/carpedm20/ss-32447808
 
 .. _UNIST: http://www.unist.ac.kr/
-.. _HeXA: https://www.facebook.com/unist.hexa
+.. _HeXA: http://hexa-unist.github.io/about/
 .. _python: http://python.org/
 .. _django: https://www.djangoproject.org
 .. _github: https://github.com/
