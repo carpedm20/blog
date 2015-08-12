@@ -12,9 +12,9 @@ $(document).ready(function(){
     menu.classList.toggle('viewCode');
     if (show) {
       $(".hidden").hide();
-      $(".visible").show();
+      $(".visible").show("slow");
     } else {
-      $(".hidden").show();
+      $(".hidden").show("slow");
       $(".visible").hide();
     }
     show = !show;
