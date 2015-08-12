@@ -1,6 +1,9 @@
 $(document).ready(function(){
   show = false;
+
   $(".hidden").hide();
+  $('a').click(function(e) { window.open($(this).attr('href'),'_blank'); return false;});
+
   var menu = document.getElementById('menu'),
       showcode = document.getElementById('showcode');
 
