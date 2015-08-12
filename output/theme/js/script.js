@@ -11,11 +11,11 @@ $(document).ready(function(){
   function _toggleCode() {
     menu.classList.toggle('viewCode');
     if (show) {
-      $(".hidden").hide("slow");
-      $(".visible").show("slow");
+      $(".hidden").hide();
+      $(".visible").show();
     } else {
-      $(".hidden").show("slow");
-      $(".visible").hide("slow");
+      $(".hidden").show();
+      $(".visible").hide();
     }
     show = !show;
   }
