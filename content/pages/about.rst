@@ -1,6 +1,17 @@
 :slug: about
 :comments: no
 
+.. raw:: html
+
+    <ul id="menu" class="menu mfb-component--br mfb-zoomin" data-mfb-toggle="hover">
+      <li class="mfb-component__wrap">
+        <span id="showcode" class="showcode mfb-component__button--main">
+         <i class="ion-eye-disabled icon-yepcode"></i>
+         <i class="ion-eye icon-nocode"></i>
+        </span>
+      </li>
+    </ul>
+
 Profile
 -------
 
@@ -158,9 +169,11 @@ Machine Learning
 
 .. raw:: html
 
-   <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr/carpedm20/poet/"><img alt="Poet Neural" class="align-center" src="https://raw.githubusercontent.com/carpedm20/poet-neural/master/contents/screenshot5.png" style="width: 90%;"></a>
-   <br/>
-   <a class="reference external image-reference" target="_blank" href="https://www.youtube.com/watch?v=nKyt3jo2Hno"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
+   <div class="pure-g hidden">
+      <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr/carpedm20/poet/"><img alt="Poet Neural" class="align-center" src="https://raw.githubusercontent.com/carpedm20/poet-neural/master/contents/screenshot5.png" style="width: 90%;"></a>
+      <br/>
+      <a class="reference external image-reference" target="_blank" href="https://www.youtube.com/watch?v=nKyt3jo2Hno"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
+   </div>
 
 - ReviewDuk :: Korean Sentiment Analyzer in Morphologically Rich Languages :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - Poet Neural :: Poet born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/poet/>`__
@@ -173,11 +186,13 @@ Visualization
 
 .. raw:: html
 
-   <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/ausung"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/ausung/master/contents/demo.PNG" style="width: 90%;"></a>
-   <br/>
-   <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr/carpedm20/vox/"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png" style="width: 90%;"></a>
-   <br/>
-   <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/all-about-critics"><img alt="All about critic" class="align-center" src="https://raw.githubusercontent.com/carpedm20/all-about-critics/master/contents/demo2.PNG" style="width: 90%;"></a>
+   <div class="pure-g hidden">
+      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/ausung"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/ausung/master/contents/demo.PNG" style="width: 90%;"></a>
+      <br/>
+      <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr/carpedm20/vox/"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png" style="width: 90%;"></a>
+      <br/>
+      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/all-about-critics"><img alt="All about critic" class="align-center" src="https://raw.githubusercontent.com/carpedm20/all-about-critics/master/contents/demo2.PNG" style="width: 90%;"></a>
+   </div>
 
 - A Data Visualization of Media Sentiments :: `code <https://github.com/carpedm20/ausung>`__
 - A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
@@ -189,16 +204,27 @@ Hacked services
 
 .. raw:: html
 
-   <div class="pure-g" style="width:100%">
+   <div class="pure-g hidden" style="width:100%">
       <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/LINE"><img alt="line" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/line_logo.png"></a>
       <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/kakaotalk"><img alt="kakaotalk" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/kakaotalk.png"></a>
-      <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/between"><img alt="between" class="fb-bot" src="https://camo.githubusercontent.com/8b4af43911739fe048da261e187c84a6a66e58e0/68747470733a2f2f666263646e2d70726f66696c652d612e616b616d616968642e6e65742f6870726f66696c652d616b2d786170312f762f74312e302d312f70323030783230302f31303531373531385f3735303236353532313637353330305f3738383831373839343537383339363439365f6e2e706e673f6f683d3763613334316566313535643133386135613434333637653265613136333532266f653d3535434242343033265f5f6764615f5f3d313433383838303139345f3563623733343232303833333338653638353564623531303233343431373636"></a>
+      <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/between"><img alt="between" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/between.png"></a>
       <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/ndrive"><img alt="ndrive" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/ndrive.png"></a>
       <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://github.com/carpedm20/korail2"><img alt="korail" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/korail.png"></a>
       <!--<a class="reference external image-reference pure-u-1-3" target="_blank" href="https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf"><img alt="UNIST" class="fb-bot" src="http://home.unist.ac.kr/professor/skkwak/images/index/university_identity.jpg"></a>-->
       <a class="reference external image-reference pure-u-1-3" target="_blank" href="http://dailysecu.com/news_view.php?article_id=5781"><img alt="yes24" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/yes24.jpg"></a>
+      <br/>
    </div>
-   <br/>
+   <div class="visible">
+      <ul class="simple">
+      <li>LINE :: Mobile Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/LINE">PoC</a> :: <a class="reference external" href="https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf">PPT</a></li>
+      <li>KakaoTalk :: Mobile Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/kakaotalk">PoC</a> :: <a class="reference external" href="https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf">PPT</a></li>
+      <li>Between :: Windows Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/between">PoC</a></li>
+      <li>Ndrive :: Web Protocol Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/ndrive">PoC</a></li>
+      <li>Korail :: Mobile Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/korail2">PoC</a></li>
+      <li>UNIST :: Reverse Engineering & Network Exploit :: <a class="reference external" href="https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf">Report</a></li>
+      <li>ys24 :: Secret :: <a class="reference external" href="http://dailysecu.com/news_view.php?article_id=5781">Article</a></li>
+      </ul>
+   </div>
 
 
 2015
@@ -206,9 +232,10 @@ Hacked services
 
 .. raw:: html
 
-   <a class="reference external image-reference" target="_blank" href="http://github.com/carpedm20/ggomggom-email/"><img alt="LINE" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/email.png" style="width: 90%;"></a>
+   <div class="pure-g hidden">
+      <a class="reference external image-reference" target="_blank" href="http://github.com/carpedm20/ggomggom-email/"><img alt="LINE" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/email.png" style="width: 90%;"></a>
+   </div>
 
-- `Let's Go Abroad CS <https://github.com/carpedm20/comgong-abroad>`__ :: **2,825** users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.abroad>`__
 - `between <https://github.com/carpedm20/between>`__ :: Python `Between <https://between.us/?lang=en>`__ library :: **Hacking**
 - `꼼꼼한 이메일 <https://github.com/carpedm20/ggomggom-email>`__ :: Chrome extension:: `Chrome web store <https://chrome.google.com/webstore/detail/%EA%BC%BC%EA%BC%BC%ED%95%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC/enikkgcjnbdkcfjehoncjmogbilhdapf/reviews?hl=ko&gl=001>`__
 - `fbchat <https://github.com/carpedm20/fbchat>`__ :: Python Facebook Chat (`Messenger <https://www.messenger.com/>`__) library
@@ -219,10 +246,11 @@ Hacked services
 
 .. raw:: html
 
-   <a class="reference external image-reference" target="_blank" href="http://carpedm20.github.io/line/"><img alt="LINE" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/line2.png" style="width: 90%;"></a>
-   <br/>
-   <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/movietag"><img alt="MovieTag" class="align-center" src="https://raw.githubusercontent.com/carpedm20/movietag/master/content/screenshot1.png" style="width: 90%;"></a>
-
+   <div class="pure-g hidden">
+      <a class="reference external image-reference" target="_blank" href="http://carpedm20.github.io/line/"><img alt="LINE" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/line2.png" style="width: 90%;"></a>
+      <br/>
+      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/movietag"><img alt="MovieTag" class="align-center" src="https://raw.githubusercontent.com/carpedm20/movietag/master/content/screenshot1.png" style="width: 90%;"></a>
+   </div>
 
 - `pyLINE`_ :: Python `LINE`_ library :: `documentation <http://carpedm20.github.io/line/>`__ :: **Hacking**
 - `korail2`_ :: Python `Korail`_ library :: **Hacking**
@@ -231,8 +259,6 @@ Hacked services
 - `pyNdrive`_ :: Python `Ndrive`_ library :: `documentation <http://carpedm20.github.io/ndrive/>`__ :: **Hacking**
 - `Colosseum`_ :: Django
 - `FoodDuk`_ :: Big Data Restaurant Recommendation Engine
-- `UNIST FedEx <https://github.com/carpedm20/UNIST-FedEx>`__ :: 785 users (**1 of 4** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/unistfedex?>`__
-- `15 minutes Before Lunch <https://github.com/carpedm20/bap-15min-before>`__ :: **1,179** users (**1 of 3** UNIST students used) :: Faecebook bot :: `Facebook link <https://www.facebook.com/unistbap?>`__
 - `UNIST Bus When? <https://github.com/carpedm20/chrome-unist-bus>`__ :: Chrome extension :: `Chrome web store <https://chrome.google.com/webstore/detail/unist-bus-when/bjlijmbdlcjimbaehpppflcgmdgjlgme>`__
 
 
@@ -241,14 +267,13 @@ Hacked services
 
 .. raw:: html
 
-   <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/movieduk"><img alt="MovieDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/movieduk.png" style="width: 90%;"></a>
-
+   <div class="pure-g hidden">
+      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/movieduk"><img alt="MovieDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/movieduk.png" style="width: 90%;"></a>
+   </div>
 
 - `kakao`_ :: Python `KakaoTalk`_ library :: **Hacking**
 - `HeXA Bot <https://github.com/carpedm20/HeXA-Bot>`__ :: more than **100,000** users :: `KakaoTalk`_ bot :: **Hacking**
 - `MovieDuk`_ :: Django
-- `UNIST Portal Bot <https://github.com/carpedm20/UNIST-portal-bot>`__ :: **1,339** users (**1 of 3** UNIST students used) :: Facebook bot :: `Facebook link <https://www.facebook.com/hexa.portal>`__
-- `Let's Work CS <https://github.com/carpedm20/comgong-job>`__ :: **2,803** users :: Facebook bot :: `Facebook link <https://www.facebook.com/comgong.job>`__
 - `UNIST Robot`_ :: Windows program (C#)
 - Finad a critical vulnerability of electronic attendance systems in UNIST.:: `Report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
 - `KakaoTalk`_ and `LINE`_ reverse engineering report :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
@@ -259,15 +284,24 @@ Facebook bot
 
 .. raw:: html
 
-   <div class="pure-g" style="width:100%">
+   <div class="pure-g hidden" style="width:100%">
       <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://www.facebook.com/comgong.job"><img alt="Comgong-Job" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/comgong.png"></a>
       <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://www.facebook.com/comgong.abroad"><img alt="Comgong-Abroad" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/abroad.png"></a>
       <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://www.facebook.com/unistbap"><img alt="UNIST-bap" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/bap.png"></a>
       <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://www.facebook.com/hexa.portal"><img alt="UNIST-Portal-bot" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/portalbot.jpg"></a>
       <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://www.facebook.com/unistfedex"><img alt="UNIST-Fedex" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/fedex.png"></a>
       <a class="reference external image-reference pure-u-1-3" target="_blank" href="https://www.facebook.com/unistbus"><img alt="UNIST-Bus" class="fb-bot" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/unist-bus.png"></a>
+      <br/>
    </div>
-   <br/>
+   <div class="visible">
+      <ul class="simple">
+      <li><a class="reference external" href="https://github.com/carpedm20/comgong-job">Let's Work CS</a> :: <strong>2,803</strong> users :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/comgong.job">Facebook link</a></li>
+      <li><a class="reference external" href="https://github.com/carpedm20/comgong-abroad">Let's Go Abroad CS</a> :: <strong>2,825</strong> users :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/comgong.abroad">Facebook link</a></li>
+      <li><a class="reference external" href="https://github.com/carpedm20/bap-15min-before">15 minutes Before Lunch</a> :: <strong>1,179</strong> users (<strong>1 of 3</strong> UNIST students used) :: Faecebook bot :: <a class="reference external" href="https://www.facebook.com/unistbap?">Facebook link</a></li>
+      <li><a class="reference external" href="https://github.com/carpedm20/UNIST-portal-bot">UNIST Portal Bot</a> :: <strong>1,339</strong> users (<strong>1 of 3</strong> UNIST students used) :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/hexa.portal">Facebook link</a></li>
+      <li><a class="reference external" href="https://github.com/carpedm20/UNIST-FedEx">UNIST FedEx</a> :: 785 users (<strong>1 of 4</strong> UNIST students used) :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/unistfedex?">Facebook link</a></li>
+      </ul>
+   </div>
 
 Presentations
 -------------
@@ -291,7 +325,7 @@ Translation
 Skills
 ------
 
-- Programming: Python(& Django, Flask), Go, Javascript(& React.js, Angular.js), node.js, Ruby(& Rails), HTML/CSS, Java, C++, C#
+- Programming: Python (& Django, Flask), Go, Javascript (& React.js, Angular.js), node.js, Ruby (& Rails), Java, C++, C#
 - Human Languages: English - TOEIC 880 (2012), Korean - Native
 
 ETC
