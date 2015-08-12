@@ -236,6 +236,8 @@ Hacked services
       <a class="reference external image-reference" target="_blank" href="http://github.com/carpedm20/ggomggom-email/"><img alt="LINE" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/email.png" style="width: 90%;"></a>
    </div>
 
+- `PaperTrend <https://github.com/aikorea/PaperTrend>`__ :: Analyzing Trends in Research Papers :: Flask & React.js
+- `awesome-hacking <https://github.com/carpedm20/awesome-hacking>`__ :: A curated list of awesome Hacking tutorials, tools and resources :: **Hacking**
 - `between <https://github.com/carpedm20/between>`__ :: Python `Between <https://between.us/?lang=en>`__ library :: **Hacking**
 - `꼼꼼한 이메일 <https://github.com/carpedm20/ggomggom-email>`__ :: Chrome extension:: `Chrome web store <https://chrome.google.com/webstore/detail/%EA%BC%BC%EA%BC%BC%ED%95%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC/enikkgcjnbdkcfjehoncjmogbilhdapf/reviews?hl=ko&gl=001>`__
 - `fbchat <https://github.com/carpedm20/fbchat>`__ :: Python Facebook Chat (`Messenger <https://www.messenger.com/>`__) library
