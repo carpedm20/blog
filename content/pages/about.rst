@@ -56,23 +56,23 @@ Supercomputing
 ~~~~~~~~~~~~~~
 - `International Supercomputing Conference 14 Student Cluster Challenge <http://www.isc-events.com/isc14/student-cluster-competition.html>`__ :: **Finalist**
    - In Leipzig / Germany
-   - One of 11 undergraduate teams (including MIT, Tsinghua Univ) selected through the preliminary contest
+   - **One of 11 undergraduate teams (including MIT, Tsinghua Univ)** selected through the preliminary contest
    - Cluster : 8 x (Xeon E5-2692 x 2 + `Nvidia K40 <http://www.nvidia.com/object/tesla-servers.html>`__ + 16G x 8)
 - `Asia student Supercomputing Challenge 14 <http://www.asc-events.org/ASC14/index14en.php>`__ :: **Finalist**
    - In Guangzhou / China (participate as a team adviser)
-   - One of 16 teams among 82 international teams selected through the preliminary contest
+   - **One of 16 teams among 82 international teams** selected through the preliminary contest
    - Cluster : 6 x (Xeon E5-2692 x 2 + `Nvidia Titan <http://www.nvidia.co.kr/gtx-700-graphics-cards/gtx-titan-black/>`__ + 16G x 6)
 - `Asia student Supercomputing Challenge 13 <http://www.asc-events.org/13en/index13en.php>`__ :: **Finalist**
    - In Shanghai / China
-   - One of 10 teams among 43 teams selected through the preliminary contest
+   - One of 10 teams among 43 international teams selected through the preliminary contest
    - Cluster : 6 x (Xeon E5-2650 x 2 + `Xeon Phi-5110P <http://ark.intel.com/ko/products/71992/Intel-Xeon-Phi-Coprocessor-5110P-8GB-1_053-GHz-60-core>`__ + 16G x 6)
 
 Hacking
 ~~~~~~~
 - `2013 Korea Whitehat Contest`_ :: **3rd place** ( `HeXA`_ )
    - Held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
-   - Awarded by the Minister of National Defense (국방부장관)
-   - Received an award of $8,000
+   - Awarded by the Minister of National Defense (국방부장관상)
+   - Received an award of **$8,000**
 - `Holyshield 2013`_ :: **1st place** ( CodePink )
    - Held by Catholic University of Korea
    - Awarded by the President of Catholic University of Korea (가톨릭대학교 총장상)
@@ -101,7 +101,6 @@ ETC
 ~~~
 - **2014 Student Outstanding Contribution Award** (공로상) from the President of `UNIST`_
 - **2013 Student Outstanding Contribution Award** (공로상) from the President of `UNIST`_
-- 2014 Excellence Award (Creative Research Program Internship) from `NAVER Labs`_
 
 
 Research Experience
@@ -194,9 +193,9 @@ Visualization
       <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/all-about-critics"><img alt="All about critic" class="align-center" src="https://raw.githubusercontent.com/carpedm20/all-about-critics/master/contents/demo2.PNG" style="width: 90%;"></a>
    </div>
 
-- A Data Visualization of Media Sentiments :: `code <https://github.com/carpedm20/ausung>`__
-- A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
-- A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/critic/>`__
+- Ausung :: A Data Visualization of Media Sentiments :: `code <https://github.com/carpedm20/ausung>`__
+- Vox Office :: A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
+- All about critics :: A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/critic/>`__
 
 
 Hacked services
@@ -222,7 +221,7 @@ Hacked services
       <li>Ndrive :: Web Protocol Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/ndrive">PoC</a></li>
       <li>Korail :: Mobile Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/korail2">PoC</a></li>
       <li>UNIST :: Reverse Engineering & Network Exploit :: <a class="reference external" href="https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf">Report</a></li>
-      <li>ys24 :: Secret :: <a class="reference external" href="http://dailysecu.com/news_view.php?article_id=5781">Article</a></li>
+      <li>yes24 :: Secret :: <a class="reference external" href="http://dailysecu.com/news_view.php?article_id=5781">Article</a></li>
       </ul>
    </div>
 
@@ -238,9 +237,7 @@ Hacked services
 
 - `PaperTrend <https://github.com/aikorea/PaperTrend>`__ :: Analyzing Trends in Research Papers :: Flask & React.js
 - `awesome-hacking <https://github.com/carpedm20/awesome-hacking>`__ :: A curated list of awesome Hacking tutorials, tools and resources :: **Hacking**
-- `between <https://github.com/carpedm20/between>`__ :: Python `Between <https://between.us/?lang=en>`__ library :: **Hacking**
 - `꼼꼼한 이메일 <https://github.com/carpedm20/ggomggom-email>`__ :: Chrome extension:: `Chrome web store <https://chrome.google.com/webstore/detail/%EA%BC%BC%EA%BC%BC%ED%95%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC/enikkgcjnbdkcfjehoncjmogbilhdapf/reviews?hl=ko&gl=001>`__
-- `fbchat <https://github.com/carpedm20/fbchat>`__ :: Python Facebook Chat (`Messenger <https://www.messenger.com/>`__) library
 
 
 2014
@@ -254,11 +251,8 @@ Hacked services
       <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/movietag"><img alt="MovieTag" class="align-center" src="https://raw.githubusercontent.com/carpedm20/movietag/master/content/screenshot1.png" style="width: 90%;"></a>
    </div>
 
-- `pyLINE`_ :: Python `LINE`_ library :: `documentation <http://carpedm20.github.io/line/>`__ :: **Hacking**
-- `korail2`_ :: Python `Korail`_ library :: **Hacking**
 - `MovieTag`_ :: Django :: Machine Learning
 - `emoji`_ :: Python library
-- `pyNdrive`_ :: Python `Ndrive`_ library :: `documentation <http://carpedm20.github.io/ndrive/>`__ :: **Hacking**
 - `Colosseum`_ :: Django
 - `FoodDuk`_ :: Big Data Restaurant Recommendation Engine
 - `UNIST Bus When? <https://github.com/carpedm20/chrome-unist-bus>`__ :: Chrome extension :: `Chrome web store <https://chrome.google.com/webstore/detail/unist-bus-when/bjlijmbdlcjimbaehpppflcgmdgjlgme>`__
@@ -273,13 +267,9 @@ Hacked services
       <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/movieduk"><img alt="MovieDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/movieduk.png" style="width: 90%;"></a>
    </div>
 
-- `kakao`_ :: Python `KakaoTalk`_ library :: **Hacking**
 - `HeXA Bot <https://github.com/carpedm20/HeXA-Bot>`__ :: more than **100,000** users :: `KakaoTalk`_ bot :: **Hacking**
 - `MovieDuk`_ :: Django
 - `UNIST Robot`_ :: Windows program (C#)
-- Finad a critical vulnerability of electronic attendance systems in UNIST.:: `Report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__ :: **Hacking**
-- `KakaoTalk`_ and `LINE`_ reverse engineering report :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: **Hacking**
-- Find a login vulnerability ofYES24(Korean online shoppingmall) :: `Media <http://dailysecu.com/news_view.php?article_id=5781>`__ :: **Hacking**
 
 Facebook bot
 ~~~~~~~~~~~~
@@ -311,24 +301,15 @@ Presentations
 2014
 ~~~~
 - `140분의 파이썬 <https://carpedm20.github.io/140min-python>`__ (`NAVER D2 대학생 세미나 <http://helloworld.naver.com/helloworld/900758>`__, 14-08-26)
-- `모솔의 마법사 <http://www.slideshare.net/carpedm20/slide-38290883>`__ (`GDG Student Hackathon <http://gdghackathon.github.io/>`__, 14-08-24)
 - `쉽게 쓰여진 Django`_ (14-03-19)
 - `영화 서비스에 대한 생각`_ (14-03-05)
-
-
-Translation
------------
-
-2014
-~~~~
-- Neural network and deep learning, Chapter 1 :: `original <http://neuralnetworksanddeeplearning.com/chap1.html>`_ :: `translation <http://carpedm20.github.io/2014/7/3/neural-net-translation/>`_ (14-07-03 ~ )
 
 
 Skills
 ------
 
-- Programming: Python (& Django, Flask), Go, Javascript (& React.js, Angular.js), node.js, Ruby (& Rails), Java, C++, C#
-- Human Languages: English - TOEIC 880 (2012), Korean - Native
+- Programming: Python, Go, node.js, Ruby, Java, C++, C#
+- Human Languages: English - Professional working proficiency, Korean - Native
 
 ETC
 ---
