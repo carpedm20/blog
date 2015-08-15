@@ -116,8 +116,8 @@ Research Experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - *Reading documents for bayesian Online Change Point Detection* :: `EMNLP 2015 <http://www.emnlp2015.org/>`__ (23.5% a/r) :: [`PDF <https://github.com/carpedm20/blog/raw/master/content/emnlp2015.pdf>`__]
-- *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/poet/>`__
+- *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
 
 
@@ -132,8 +132,7 @@ Work Experience
 
 Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Creative Research Program Internship
-- Sermo :: Cloud Comment Hosting Service :: Open source
+- Build a Cloud Comment Hosting Service which is similar to Disqus
 - Got a 2014 Excellence Award, which was given to 3 selected interns
 
 
@@ -142,10 +141,8 @@ Campus Activities
 
 Leader, `HeXA`_ (a computer security research group) at UNIST (2012.08 ~ 2013.03)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Reverse engineering of `LINE`_ and `KakaoTalk`_ :: `PPT <https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf>`__ :: `pyLINE`_ and `kakao`_
-- Reverse engineering of `Ndrive`_ and `Korail`_ mobile application ::`pyNdrive`_ and `korail2`_ 
-- Find a login vulnerability of `YES24 <http://www.yes24.com/>`__ (Korean online shopping mall) :: `article <http://dailysecu.com/news_view.php?article_id=5781>`__
-- Find a vulnerability of electronic attendance system of UNIST :: `report <https://www.dropbox.com/s/i9gjoaukh9mkj9z/21_SCCS%20%EC%B7%A8%EC%95%BD%EC%A0%90%20%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf>`__
+- Lead and improve the club as a national competitive computer security club
+- Lead more than 10 different hacking competitions and international supercomputing competiton
 
 
 Development Experience
@@ -174,28 +171,10 @@ Machine Learning
       <a class="reference external image-reference" target="_blank" href="https://www.youtube.com/watch?v=nKyt3jo2Hno"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
    </div>
 
-- ReviewDuk :: Korean Sentiment Analyzer in Morphologically Rich Languages :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - Poet Neural :: Poet born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/poet/>`__
 - Fake Review Generator :: Fake review generator born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/alba>`__
+- ReviewDuk :: Korean Sentiment Analyzer in Morphologically Rich Languages :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - FoodClassifier :: Food image classifier :: `python <https://github.com/carpedm20/FoodClassifier>`__ :: `matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__ :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
-
-
-Visualization
-~~~~~~~~~~~~~
-
-.. raw:: html
-
-   <div class="pure-g hidden">
-      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/ausung"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/ausung/master/contents/demo.PNG" style="width: 90%;"></a>
-      <br/>
-      <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr/carpedm20/vox/"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png" style="width: 90%;"></a>
-      <br/>
-      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/all-about-critics"><img alt="All about critic" class="align-center" src="https://raw.githubusercontent.com/carpedm20/all-about-critics/master/contents/demo2.PNG" style="width: 90%;"></a>
-   </div>
-
-- Ausung :: A Data Visualization of Media Sentiments :: `code <https://github.com/carpedm20/ausung>`__
-- Vox Office :: A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
-- All about critics :: A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/critic/>`__
 
 
 Hacked services
@@ -226,6 +205,24 @@ Hacked services
    </div>
 
 
+Visualization
+~~~~~~~~~~~~~
+
+.. raw:: html
+
+   <div class="pure-g hidden">
+      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/ausung"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/ausung/master/contents/demo.PNG" style="width: 90%;"></a>
+      <br/>
+      <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr/carpedm20/vox/"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png" style="width: 90%;"></a>
+      <br/>
+      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/all-about-critics"><img alt="All about critic" class="align-center" src="https://raw.githubusercontent.com/carpedm20/all-about-critics/master/contents/demo2.PNG" style="width: 90%;"></a>
+   </div>
+
+- Ausung :: A Data Visualization of Media Sentiments :: `code <https://github.com/carpedm20/ausung>`__
+- Vox Office :: A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
+- All about critics :: A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/critic/>`__
+
+
 2015
 ~~~~
 
@@ -236,7 +233,7 @@ Hacked services
    </div>
 
 - `PaperTrend <https://github.com/aikorea/PaperTrend>`__ :: Analyzing Trends in Research Papers :: Flask & React.js
-- `awesome-hacking <https://github.com/carpedm20/awesome-hacking>`__ :: A curated list of awesome Hacking tutorials, tools and resources :: **Hacking**
+- `awesome-hacking <https://github.com/carpedm20/awesome-hacking>`__ :: A curated list of awesome Hacking tutorials, tools and resources :: Hacking
 - `꼼꼼한 이메일 <https://github.com/carpedm20/ggomggom-email>`__ :: Chrome extension:: `Chrome web store <https://chrome.google.com/webstore/detail/%EA%BC%BC%EA%BC%BC%ED%95%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC/enikkgcjnbdkcfjehoncjmogbilhdapf/reviews?hl=ko&gl=001>`__
 
 
@@ -253,9 +250,8 @@ Hacked services
 
 - `MovieTag`_ :: Django :: Machine Learning
 - `emoji`_ :: Python library
-- `Colosseum`_ :: Django
-- `FoodDuk`_ :: Big Data Restaurant Recommendation Engine
 - `UNIST Bus When? <https://github.com/carpedm20/chrome-unist-bus>`__ :: Chrome extension :: `Chrome web store <https://chrome.google.com/webstore/detail/unist-bus-when/bjlijmbdlcjimbaehpppflcgmdgjlgme>`__
+- `Colosseum`_ :: Django
 
 
 2013
@@ -267,7 +263,6 @@ Hacked services
       <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/movieduk"><img alt="MovieDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/movieduk.png" style="width: 90%;"></a>
    </div>
 
-- `HeXA Bot <https://github.com/carpedm20/HeXA-Bot>`__ :: more than **100,000** users :: `KakaoTalk`_ bot :: **Hacking**
 - `MovieDuk`_ :: Django
 - `UNIST Robot`_ :: Windows program (C#)
 
@@ -287,10 +282,10 @@ Facebook bot
    </div>
    <div class="visible">
       <ul class="simple">
-      <li><a class="reference external" href="https://github.com/carpedm20/comgong-job">Let's Work CS</a> :: <strong>2,803</strong> users :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/comgong.job">Facebook link</a></li>
-      <li><a class="reference external" href="https://github.com/carpedm20/comgong-abroad">Let's Go Abroad CS</a> :: <strong>2,825</strong> users :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/comgong.abroad">Facebook link</a></li>
-      <li><a class="reference external" href="https://github.com/carpedm20/bap-15min-before">15 minutes Before Lunch</a> :: <strong>1,179</strong> users (<strong>1 of 3</strong> UNIST students used) :: Faecebook bot :: <a class="reference external" href="https://www.facebook.com/unistbap?">Facebook link</a></li>
-      <li><a class="reference external" href="https://github.com/carpedm20/UNIST-portal-bot">UNIST Portal Bot</a> :: <strong>1,339</strong> users (<strong>1 of 3</strong> UNIST students used) :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/hexa.portal">Facebook link</a></li>
+      <li><a class="reference external" href="https://github.com/carpedm20/comgong-job">Let's Work CS</a> :: <strong>2,875</strong> users :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/comgong.job">Facebook link</a></li>
+      <li><a class="reference external" href="https://github.com/carpedm20/comgong-abroad">Let's Go Abroad CS</a> :: <strong>2,847</strong> users :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/comgong.abroad">Facebook link</a></li>
+      <li><a class="reference external" href="https://github.com/carpedm20/bap-15min-before">15 minutes Before Lunch</a> :: <strong>1,281</strong> users (<strong>1 of 3</strong> UNIST students used) :: Faecebook bot :: <a class="reference external" href="https://www.facebook.com/unistbap?">Facebook link</a></li>
+      <li><a class="reference external" href="https://github.com/carpedm20/UNIST-portal-bot">UNIST Portal Bot</a> :: <strong>1,358</strong> users (<strong>1 of 3</strong> UNIST students used) :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/hexa.portal">Facebook link</a></li>
       <li><a class="reference external" href="https://github.com/carpedm20/UNIST-FedEx">UNIST FedEx</a> :: 785 users (<strong>1 of 4</strong> UNIST students used) :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/unistfedex?">Facebook link</a></li>
       </ul>
    </div>
