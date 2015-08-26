@@ -15,12 +15,13 @@
 Profile
 -------
 
-- B.S. in Computer Science from `UNIST`_
-- Ulsan, South Korea
-
 .. raw:: html
 
-   <li>CV : <a class="reference external" target="_blank" href="https://github.com/carpedm20/blog/raw/master/content/Taehoon_Kim_short_CV.pdf">[PDF]</a></li>
+   <ul class="simple">
+      <li>B.S. in Computer Science from <a class="reference external" href="http://www.unist.ac.kr/">UNIST</a></li>
+      <li>Ulsan, South Korea</li>
+      <li>CV : <a class="reference external" target="_blank" href="https://github.com/carpedm20/blog/raw/master/content/Taehoon_Kim_short_CV.pdf">[PDF]</a></li>
+   </ul>
 
 
 Links
