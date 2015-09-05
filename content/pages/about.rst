@@ -50,7 +50,7 @@ Old
 Publications
 ------------
 
-- [1] **T. Kim** and J. Choi, *Reading documents for bayesian Online Change Point Detection*, in Empirical Methods on Natural Language Processing (`EMNLP 2015 <http://www.emnlp2015.org/>`__) (23.5% a/r), Lisboa, Portugal, Sep. 2015. [`PDF <https://github.com/carpedm20/blog/raw/master/content/emnlp2015.pdf>`__]
+- [1] **T. Kim** and J. Choi, *Reading documents for bayesian Online Change Point Detection*, in Empirical Methods on Natural Language Processing (`EMNLP 2015 <http://www.emnlp2015.org/>`__) (312/1315 ~ 23.5% a/r), Lisboa, Portugal, Sep. 2015. [`PDF <https://github.com/carpedm20/blog/raw/master/content/emnlp2015.pdf>`__]
 
 
 Awards
