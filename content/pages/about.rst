@@ -27,7 +27,7 @@ Profile
 Links
 -----
 :Email: carpedm20 at gmail.com
-:Google Scholar: `https://scholar.google.com/citations?user=0BefWnYAAAAJ`_
+:Google Scholar: `link <https://scholar.google.com/citations?user=0BefWnYAAAAJ>`__
 :Github: `github.com/carpedm20`_
 :Linkedin: `linkedin.com/in/carpedm20`_
 :Slideshare: `slideshare.net/carpedm20`_
