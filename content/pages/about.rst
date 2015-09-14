@@ -120,7 +120,7 @@ Research Experience
 `Probabilistic Artificial Intelligence Lab <http://pail.unist.ac.kr/>`__ at UNIST (2014.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- *Reading documents for bayesian Online Change Point Detection* :: `EMNLP 2015 <http://www.emnlp2015.org/>`__ (23.5% a/r) :: [`PDF <https://github.com/carpedm20/blog/raw/master/content/emnlp2015.pdf>`__]
+- *Reading documents for bayesian Online Change Point Detection* :: `EMNLP 2015 <http://www.emnlp2015.org/>`__ (23.5% a/r) :: [`PDF <http://pail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
 - *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/poet/>`__
 - *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
