@@ -32,7 +32,7 @@ Links
 :Slideshare: `slideshare.net/carpedm20`_
 :Facebook: `facebook.com/carpedm20`_
 :Twitter: `twitter.com/carpedm20`_
-:Google Scholar: `Author Page <https://scholar.google.com/citations?user=0BefWnYAAAAJ>`__
+:Google Scholar: `author page <https://scholar.google.com/citations?user=0BefWnYAAAAJ>`__
 
 
 Interests
