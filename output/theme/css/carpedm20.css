@@ -133,4 +133,6 @@ small {
   opacity: 0;
 }
 
-
+div#publications ul {
+  padding: 0 0 0 20px !important;
+}
