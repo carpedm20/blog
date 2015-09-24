@@ -51,7 +51,6 @@ Old
 Publications
 ------------
 
-- [2] **T. Kim**, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, *Extracting Baseline Electricity Usage Using Gradient Tree Boosting*, in 2015 International Conference on Big Data Intelligence and Computing (`DataCom 2015 <http://umc.uestc.edu.cn/conference/DataCom2015/>`__). (under review)
 - [1] **T. Kim**, and J. Choi, *Reading documents for bayesian Online Change Point Detection*, in Empirical Methods on Natural Language Processing (`EMNLP 2015 <http://www.emnlp2015.org/>`__) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [`PDF <http://pail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
 
 
