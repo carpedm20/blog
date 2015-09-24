@@ -51,7 +51,8 @@ Old
 Publications
 ------------
 
-- [1] **T. Kim** and J. Choi, *Reading documents for bayesian Online Change Point Detection*, in Empirical Methods on Natural Language Processing (`EMNLP 2015 <http://www.emnlp2015.org/>`__) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [`PDF <http://pail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
+- [2] **T. Kim**, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, *Extracting Baseline Electricity Usage Using Gradient Tree Boosting*, in 2015 International Conference on Big Data Intelligence and Computing (`DataCom 2015 <http://umc.uestc.edu.cn/conference/DataCom2015/>`__). (under review)
+- [1] **T. Kim**, and J. Choi, *Reading documents for bayesian Online Change Point Detection*, in Empirical Methods on Natural Language Processing (`EMNLP 2015 <http://www.emnlp2015.org/>`__) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [`PDF <http://pail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
 
 
 Awards
@@ -111,12 +112,6 @@ ETC
 Research Experience
 ---------------------
 
-`Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__, California, USA (2015.07 ~ )
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-- Summer Computer Science Student at Scientific Data Manage (`SDM <http://crd.lbl.gov/departments/data-science-and-technology/SDM/>`__) Group 
-- *Behavior Analytics: Identify how characteristics and behaviors affected by energy saving in programs only from smart meter data*
-
 `Probabilistic Artificial Intelligence Lab <http://pail.unist.ac.kr/>`__ at UNIST (2014.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -124,6 +119,14 @@ Research Experience
 - *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/poet/>`__
 - *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
+
+
+`Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__, California, USA (2015.07 ~ 2015.09)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Summer Computer Science Student at Scientific Data Manage (`SDM <http://crd.lbl.gov/departments/data-science-and-technology/SDM/>`__) Group 
+- *Behavior Analytics: Identify how characteristics and behaviors affected by energy saving in programs only from smart meter data*
+- *Extracting Baseline Electricity Usage Using Gradient Tree Boosting* (under review)
 
 
 `Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ at UNIST (2013.01 ~ 2014.08)
