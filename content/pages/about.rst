@@ -258,7 +258,6 @@ Visualization
 - `MovieTag`_ :: Django :: Machine Learning
 - `emoji`_ :: Python library
 - `UNIST Bus When? <https://github.com/carpedm20/chrome-unist-bus>`__ :: Chrome extension :: `Chrome web store <https://chrome.google.com/webstore/detail/unist-bus-when/bjlijmbdlcjimbaehpppflcgmdgjlgme>`__
-- `Colosseum`_ :: Django
 
 
 2013
