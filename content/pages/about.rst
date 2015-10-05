@@ -75,15 +75,15 @@ Supercomputing
 Hacking
 ~~~~~~~
 - `2013 Korea Whitehat Contest`_ :: **3rd place** ( `HeXA`_ )
-   - Held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
-   - Awarded by the Minister of National Defense (국방부장관상)
+   - Held by Ministry of National Defense and National Intelligence Service
+   - Awarded by the Minister of National Defense
    - Received an award of **$8,000**
 - `Holyshield 2013`_ :: **1st place** ( CodePink )
    - Held by Catholic University of Korea
-   - Awarded by the President of Catholic University of Korea (가톨릭대학교 총장상)
+   - Awarded by the President of Catholic University of Korea
    - Received an award of $1,000
 - `2014 Korea Whitehat Contest`_ :: **Finalist** ( `HeXA`_ )
-   - Held by Ministry of National Defense (국방부) and National Intelligence Service (국정원)
+   - Held by Ministry of National Defense and National Intelligence Service
    - 5th place at preliminary contest
 
 Startup
@@ -91,7 +91,7 @@ Startup
 - UNIST 2014 Venturing Project Program :: **Finalist** ( Two idiots )
    - Korean Sentiment Analyzer :: `ReviewDuk`_
    - Received $10,000 a support fund
-- `정주영 Start-up Competition <http://www.asan-nanum.org/startup/>`__ :: Arial Final ( Two idiots )
+- `Chung Ju-yung Start-up Competition <http://www.asan-nanum.org/startup/>`__ :: Arial Final ( Two idiots )
    - Held by Asan Nanum Foundation
    - Sharing the study framework :: `Dada Study`_
 
@@ -104,8 +104,8 @@ Scholarships
 
 ETC
 ~~~
-- **2014 Student Outstanding Contribution Award** (공로상) from the President of `UNIST`_
-- **2013 Student Outstanding Contribution Award** (공로상) from the President of `UNIST`_
+- **2014 Student Outstanding Contribution Award** from the President of `UNIST`_
+- **2013 Student Outstanding Contribution Award** from the President of `UNIST`_
 
 
 Research Experience
@@ -137,6 +137,12 @@ Research Experience
 Work Experience
 -----------------
 
+Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Maximum-likelihood estimation of Downloading Mobile Application
+- Visualize Probability Distributions for Likelihood of Downloading Mobile Application
+- Enhanced a Google Play Store Crawler for Multi-Country Analysis
+
 Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Build a Cloud Comment Hosting Service which is similar to Disqus
@@ -162,7 +168,7 @@ Development Experience
 Open Source Contribution
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Main contributor of `line <https://github.com/carpedm20/LINE>`__, `emoji <https://github.com/carpedm20/emoji>`__, `awesome-hacking <https://github.com/carpedm20/awesome-hacking>`__, `korail2 <https://github.com/carpedm20/korail2>`__, `between <https://github.com/carpedm20/between>`__, `ndrive <https://github.com/carpedm20/ndrive>`__ etc.
+- Main contributor of `line <https://github.com/carpedm20/LINE>`__, `emoji <https://github.com/carpedm20/emoji>`__, `awesome-hacking <https://github.com/carpedm20/awesome-hacking>`__, `awesome-torch <https://github.com/carpedm20/awesome-torch>`__, `korail2 <https://github.com/carpedm20/korail2>`__, `between <https://github.com/carpedm20/between>`__, `ndrive <https://github.com/carpedm20/ndrive>`__ etc.
 - `yaksok <https://github.com/carpedm20/yaksok>`__ :: Programming language for Korean :: Minor contribution `#3 <https://github.com/yaksok/yaksok/pull/3>`__
 - `pinpoint <https://github.com/carpedm20/pinpoint>`__ :: open source APM (Application Performance Management) tool :: Minor contribution `#318 <https://github.com/naver/pinpoint/pull/318>`__
 
@@ -241,7 +247,7 @@ Visualization
 
 - `PaperTrend <https://github.com/aikorea/PaperTrend>`__ :: Analyzing Trends in Research Papers :: Flask & React.js
 - `awesome-hacking <https://github.com/carpedm20/awesome-hacking>`__ :: A curated list of awesome Hacking tutorials, tools and resources :: Hacking
-- `꼼꼼한 이메일 <https://github.com/carpedm20/ggomggom-email>`__ :: Chrome extension:: `Chrome web store <https://chrome.google.com/webstore/detail/%EA%BC%BC%EA%BC%BC%ED%95%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC/enikkgcjnbdkcfjehoncjmogbilhdapf/reviews?hl=ko&gl=001>`__
+- `Chrome Email Checker <https://github.com/carpedm20/ggomggom-email>`__ :: Chrome extension:: `Chrome web store <https://chrome.google.com/webstore/detail/%EA%BC%BC%EA%BC%BC%ED%95%9C-%EC%9D%B4%EB%A9%94%EC%9D%BC/enikkgcjnbdkcfjehoncjmogbilhdapf/reviews?hl=ko&gl=001>`__
 
 
 2014
