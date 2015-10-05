@@ -168,7 +168,7 @@ Development Experience
 Open Source Contribution
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Main contributor of `line <https://github.com/carpedm20/LINE>`__, `emoji <https://github.com/carpedm20/emoji>`__, `awesome-hacking <https://github.com/carpedm20/awesome-hacking>`__, `awesome-torch <https://github.com/carpedm20/awesome-torch>`__, `korail2 <https://github.com/carpedm20/korail2>`__, `between <https://github.com/carpedm20/between>`__, `ndrive <https://github.com/carpedm20/ndrive>`__ etc.
+- Main committer of `line <https://github.com/carpedm20/LINE>`__, `emoji <https://github.com/carpedm20/emoji>`__, `awesome-hacking <https://github.com/carpedm20/awesome-hacking>`__, `awesome-torch <https://github.com/carpedm20/awesome-torch>`__, `korail2 <https://github.com/carpedm20/korail2>`__, `between <https://github.com/carpedm20/between>`__, `ndrive <https://github.com/carpedm20/ndrive>`__ etc.
 - `yaksok <https://github.com/carpedm20/yaksok>`__ :: Programming language for Korean :: Minor contribution `#3 <https://github.com/yaksok/yaksok/pull/3>`__
 - `pinpoint <https://github.com/carpedm20/pinpoint>`__ :: open source APM (Application Performance Management) tool :: Minor contribution `#318 <https://github.com/naver/pinpoint/pull/318>`__
 
