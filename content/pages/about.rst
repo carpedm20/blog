@@ -316,7 +316,7 @@ Presentations
 Skills
 ------
 
-- Programming: Python, Go, node.js, Ruby, Java, C++, C#
+- Programming: Python, Lua, Go, node.js, Ruby, Java, C++, C#
 - Human Languages: English - Professional working proficiency, Korean - Native
 
 ETC
