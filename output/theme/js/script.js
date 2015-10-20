@@ -1,7 +1,8 @@
 $(document).ready(function(){
-  show = false;
+  // show = false;
+  show = true;
 
-  $(".hidden").hide();
+  // $(".hidden").hide();
   $('.external').click(function(e) { window.open($(this).attr('href'),'_blank'); return false;});
 
   var menu = document.getElementById('menu'),
