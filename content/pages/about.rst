@@ -116,7 +116,7 @@ Research Experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - *Reading documents for bayesian Online Change Point Detection* :: `EMNLP 2015 <http://www.emnlp2015.org/>`__ (23.5% a/r) :: [`PDF <http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
-- *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://sail.unist.ac.kr/carpedm20/poet/>`__
+- *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
 - *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
 
@@ -342,7 +342,6 @@ ETC
 
 .. _NAVER Labs: http://labs.naver.com/
 .. _MSNL: http://msn.unist.ac.kr/
-.. _PAIL: http://sail.unist.ac.kr/
 .. _Moloco: http://www.molocoads.com
 .. _LINE: http://line.me/en/
 .. _Korail: http://info.korail.com/mbs/english/index.jsp
