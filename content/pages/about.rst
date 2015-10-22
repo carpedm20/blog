@@ -185,8 +185,8 @@ Machine Learning
       <a class="reference external image-reference" target="_blank" href="https://www.youtube.com/watch?v=nKyt3jo2Hno"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
    </div>
 
-- Poet Neural :: Poet born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://sail.unist.ac.kr/carpedm20/poet/>`__
-- Fake Review Generator :: Fake review generator born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://sail.unist.ac.kr/carpedm20/alba>`__
+- Poet Neural :: Poet born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
+- Fake Review Generator :: Fake review generator born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
 - ReviewDuk :: Korean Sentiment Analyzer in Morphologically Rich Languages :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - FoodClassifier :: Food image classifier :: `python <https://github.com/carpedm20/FoodClassifier>`__ :: `matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__ :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
 
@@ -227,14 +227,14 @@ Visualization
    <div class="pure-g hidden">
       <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/ausung"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/ausung/master/contents/demo.PNG" style="width: 90%;"></a>
       <br/>
-      <a class="reference external image-reference" target="_blank" href="http://sail.unist.ac.kr/carpedm20/vox/"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png" style="width: 90%;"></a>
+      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/voxoffice"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png" style="width: 90%;"></a>
       <br/>
       <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/all-about-critics"><img alt="All about critic" class="align-center" src="https://raw.githubusercontent.com/carpedm20/all-about-critics/master/contents/demo2.PNG" style="width: 90%;"></a>
    </div>
 
 - Ausung :: A Data Visualization of Media Sentiments :: `code <https://github.com/carpedm20/ausung>`__
-- Vox Office :: A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://sail.unist.ac.kr/carpedm20/vox/>`__
-- All about critics :: A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__ :: `demo <http://sail.unist.ac.kr/carpedm20/critic/>`__
+- Vox Office :: A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: demo
+- All about critics :: A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__ :: demo
 
 
 2015
