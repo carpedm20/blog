@@ -52,7 +52,7 @@ Publications
 ------------
 
 - [2] **T. Kim**, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, *Extracting Baseline Electricity Usage Using Gradient Tree Boosting*, in 2015 International Conference on Big Data Intelligence and Computing (`DataCom 2015 <http://umc.uestc.edu.cn/conference/DataCom2015/>`__). Chengdu, China, Dec. 2015. [PDF]
-- [1] **T. Kim**, and J. Choi, *Reading documents for bayesian Online Change Point Detection*, in Empirical Methods on Natural Language Processing (`EMNLP 2015 <http://www.emnlp2015.org/>`__) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [`PDF <http://pail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
+- [1] **T. Kim**, and J. Choi, *Reading documents for bayesian Online Change Point Detection*, in Empirical Methods on Natural Language Processing (`EMNLP 2015 <http://www.emnlp2015.org/>`__) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [`PDF <http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
 
 
 Awards
@@ -112,11 +112,11 @@ ETC
 Research Experience
 ---------------------
 
-`Probabilistic Artificial Intelligence Lab <http://pail.unist.ac.kr/>`__ at UNIST (2014.09 ~ )
+`Statistical Artificial Intelligence Lab <http://sail.unist.ac.kr/>`__ at UNIST (2014.09 ~ 2015.10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- *Reading documents for bayesian Online Change Point Detection* :: `EMNLP 2015 <http://www.emnlp2015.org/>`__ (23.5% a/r) :: [`PDF <http://pail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
-- *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/poet/>`__
+- *Reading documents for bayesian Online Change Point Detection* :: `EMNLP 2015 <http://www.emnlp2015.org/>`__ (23.5% a/r) :: [`PDF <http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
+- *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://sail.unist.ac.kr/carpedm20/poet/>`__
 - *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
 
@@ -185,8 +185,8 @@ Machine Learning
       <a class="reference external image-reference" target="_blank" href="https://www.youtube.com/watch?v=nKyt3jo2Hno"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
    </div>
 
-- Poet Neural :: Poet born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/poet/>`__
-- Fake Review Generator :: Fake review generator born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/alba>`__
+- Poet Neural :: Poet born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://sail.unist.ac.kr/carpedm20/poet/>`__
+- Fake Review Generator :: Fake review generator born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: `demo <http://sail.unist.ac.kr/carpedm20/alba>`__
 - ReviewDuk :: Korean Sentiment Analyzer in Morphologically Rich Languages :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - FoodClassifier :: Food image classifier :: `python <https://github.com/carpedm20/FoodClassifier>`__ :: `matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__ :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
 
@@ -227,14 +227,14 @@ Visualization
    <div class="pure-g hidden">
       <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/ausung"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/ausung/master/contents/demo.PNG" style="width: 90%;"></a>
       <br/>
-      <a class="reference external image-reference" target="_blank" href="http://pail.unist.ac.kr/carpedm20/vox/"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png" style="width: 90%;"></a>
+      <a class="reference external image-reference" target="_blank" href="http://sail.unist.ac.kr/carpedm20/vox/"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png" style="width: 90%;"></a>
       <br/>
       <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/all-about-critics"><img alt="All about critic" class="align-center" src="https://raw.githubusercontent.com/carpedm20/all-about-critics/master/contents/demo2.PNG" style="width: 90%;"></a>
    </div>
 
 - Ausung :: A Data Visualization of Media Sentiments :: `code <https://github.com/carpedm20/ausung>`__
-- Vox Office :: A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/vox/>`__
-- All about critics :: A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__ :: `demo <http://pail.unist.ac.kr/carpedm20/critic/>`__
+- Vox Office :: A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: `demo <http://sail.unist.ac.kr/carpedm20/vox/>`__
+- All about critics :: A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__ :: `demo <http://sail.unist.ac.kr/carpedm20/critic/>`__
 
 
 2015
@@ -342,7 +342,7 @@ ETC
 
 .. _NAVER Labs: http://labs.naver.com/
 .. _MSNL: http://msn.unist.ac.kr/
-.. _PAIL: http://pail.unist.ac.kr/
+.. _PAIL: http://sail.unist.ac.kr/
 .. _Moloco: http://www.molocoads.com
 .. _LINE: http://line.me/en/
 .. _Korail: http://info.korail.com/mbs/english/index.jsp
