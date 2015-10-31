@@ -138,7 +138,7 @@ Research Experience
 Work Experience
 -----------------
 
-Software Engineer, `Vingle`_, Seoul, South Korea(2015.10 ~ )
+Software Engineer, `Vingle <https://www.vingle.net/>`__, Seoul, South Korea(2015.10 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Worked as a substitute of mandatory military service
 
