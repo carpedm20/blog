@@ -178,16 +178,8 @@ Open Source Contribution
 - `yaksok <https://github.com/carpedm20/yaksok>`__ :: Programming language for Korean :: Minor contribution `#3 <https://github.com/yaksok/yaksok/pull/3>`__
 
 
-Machine Learning (Model)
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-- NTM-tensorflow :: Neural Turing Machine implementation in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
-- MemN2N-tensorflow :: End-To-End Memory Network implementation in Tensorflow:: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
-- word2vec-tensorflow :: Word2Vec implementation in Tensorflow :: `code <https://github.com/carpedm20/word2vec-tensorflow>`__
-
-
-Machine Learning (Application)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Machine Learning
+~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
@@ -197,10 +189,12 @@ Machine Learning (Application)
       <a class="reference external image-reference" target="_blank" href="https://www.youtube.com/watch?v=nKyt3jo2Hno"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
    </div>
 
+- MemN2N-tensorflow :: End-To-End Memory Network implementation in Tensorflow:: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
 - Poet Neural :: Poet born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
 - Fake Review Generator :: Fake review generator born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
 - ReviewDuk :: Korean Sentiment Analyzer in Morphologically Rich Languages :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - FoodClassifier :: Food image classifier :: `python <https://github.com/carpedm20/FoodClassifier>`__ :: `matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__ :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
+- word2vec-tensorflow :: Word2Vec implementation in Tensorflow :: `code <https://github.com/carpedm20/word2vec-tensorflow>`__
 
 
 Hacked services
