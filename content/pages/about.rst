@@ -189,7 +189,7 @@ Machine Learning
       <a class="reference external image-reference" target="_blank" href="https://www.youtube.com/watch?v=nKyt3jo2Hno"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
    </div>
 
-- MemN2N-tensorflow :: End-To-End Memory Network implementation in Tensorflow:: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
+- MemN2N-tensorflow :: End-To-End Memory Network implementation in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
 - Poet Neural :: Poet born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
 - Fake Review Generator :: Fake review generator born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
 - ReviewDuk :: Korean Sentiment Analyzer in Morphologically Rich Languages :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
