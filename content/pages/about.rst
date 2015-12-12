@@ -178,8 +178,16 @@ Open Source Contribution
 - `yaksok <https://github.com/carpedm20/yaksok>`__ :: Programming language for Korean :: Minor contribution `#3 <https://github.com/yaksok/yaksok/pull/3>`__
 
 
-Machine Learning
-~~~~~~~~~~~~~~~~
+Machine Learning (Model)
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+- NTM-tensorflow :: Neural Turing Machine implementation in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
+- MemN2N-tensorflow :: End-To-End Memory Network implementation in Tensorflow:: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
+- word2vec-tensorflow :: Word2Vec implementation in Tensorflow :: `code <https://github.com/carpedm20/word2vec-tensorflow>`__
+
+
+Machine Learning (Application)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. raw:: html
 
