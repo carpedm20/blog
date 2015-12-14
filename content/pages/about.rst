@@ -125,7 +125,7 @@ Research Experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Summer Computer Science Student at Scientific Data Manage (`SDM <http://crd.lbl.gov/departments/data-science-and-technology/SDM/>`__) Group 
-- *Extracting Baseline Electricity Usage Using Gradient Tree Boosting* :: `DataCom 2015 <http://umc.uestc.edu.cn/conference/DataCom2015/>`__ :: [PDF]
+- *Extracting Baseline Electricity Usage Using Gradient Tree Boosting* :: `DataCom 2015 <http://umc.uestc.edu.cn/conference/DataCom2015/>`__ :: [`PDF <https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf>`__]
 - *Behavior Analytics: Identify how characteristics and behaviors affected by energy saving in programs only from smart meter data*
 
 
@@ -189,10 +189,12 @@ Machine Learning
       <a class="reference external image-reference" target="_blank" href="https://www.youtube.com/watch?v=nKyt3jo2Hno"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
    </div>
 
+- MemN2N-tensorflow :: End-To-End Memory Network implementation in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
 - Poet Neural :: Poet born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
 - Fake Review Generator :: Fake review generator born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
 - ReviewDuk :: Korean Sentiment Analyzer in Morphologically Rich Languages :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - FoodClassifier :: Food image classifier :: `python <https://github.com/carpedm20/FoodClassifier>`__ :: `matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__ :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
+- word2vec-tensorflow :: Word2Vec implementation in Tensorflow :: `code <https://github.com/carpedm20/word2vec-tensorflow>`__
 
 
 Hacked services
@@ -299,10 +301,10 @@ Facebook bot
    </div>
    <div class="visible">
       <ul class="simple">
-      <li><a class="reference external" href="https://github.com/carpedm20/comgong-job">Let's Work CS</a> :: <strong>2,875</strong> users :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/comgong.job">Facebook link</a></li>
-      <li><a class="reference external" href="https://github.com/carpedm20/comgong-abroad">Let's Go Abroad CS</a> :: <strong>2,847</strong> users :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/comgong.abroad">Facebook link</a></li>
-      <li><a class="reference external" href="https://github.com/carpedm20/bap-15min-before">15 minutes Before Lunch</a> :: <strong>1,281</strong> users (<strong>1 of 3</strong> UNIST students used) :: Faecebook bot :: <a class="reference external" href="https://www.facebook.com/unistbap?">Facebook link</a></li>
-      <li><a class="reference external" href="https://github.com/carpedm20/UNIST-portal-bot">UNIST Portal Bot</a> :: <strong>1,358</strong> users (<strong>1 of 3</strong> UNIST students used) :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/hexa.portal">Facebook link</a></li>
+      <li><a class="reference external" href="https://github.com/carpedm20/comgong-job">Let's Work CS</a> :: <strong>2,954</strong> users :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/comgong.job">Facebook link</a></li>
+      <li><a class="reference external" href="https://github.com/carpedm20/comgong-abroad">Let's Go Abroad CS</a> :: <strong>2,886</strong> users :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/comgong.abroad">Facebook link</a></li>
+      <li><a class="reference external" href="https://github.com/carpedm20/bap-15min-before">15 minutes Before Lunch</a> :: <strong>1,541</strong> users (<strong>1 of 3</strong> UNIST students used) :: Faecebook bot :: <a class="reference external" href="https://www.facebook.com/unistbap?">Facebook link</a></li>
+      <li><a class="reference external" href="https://github.com/carpedm20/UNIST-portal-bot">UNIST Portal Bot</a> :: <strong>1,381</strong> users (<strong>1 of 3</strong> UNIST students used) :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/hexa.portal">Facebook link</a></li>
       <li><a class="reference external" href="https://github.com/carpedm20/UNIST-FedEx">UNIST FedEx</a> :: 785 users (<strong>1 of 4</strong> UNIST students used) :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/unistfedex?">Facebook link</a></li>
       </ul>
    </div>
