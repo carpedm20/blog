@@ -189,8 +189,8 @@ Machine Learning
       <a class="reference external image-reference" target="_blank" href="https://www.youtube.com/watch?v=nKyt3jo2Hno"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
    </div>
 
-- MemN2N-tensorflow :: End-To-End Memory Network implementation in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
-- NTM-tensorflow :: Neural Turing Machine implementation in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
+- MemN2N-tensorflow :: `End-To-End Memory Network <http://arxiv.org/abs/1503.08895v4>` implementation in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
+- NTM-tensorflow :: `Neural Turing Machine <https://github.com/carpedm20/NTM-tensorflow>` implementation in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
 - Poet Neural :: Poet born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
 - Fake Review Generator :: Fake review generator born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
 - ReviewDuk :: Korean Sentiment Analyzer in Morphologically Rich Languages :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
