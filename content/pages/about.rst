@@ -184,9 +184,9 @@ Machine Learning
 - MemN2N-tensorflow :: `End-To-End Memory Network <http://arxiv.org/abs/1503.08895v4>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
 - NTM-tensorflow :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
 - DCGAN-tensorflow :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434v1>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__
-- lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__ (in progress)
-- attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/pdf/1506.03340v3.pdf>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__ (in progress)
-- NPI-tensorflow :: `Neural Programmer-Interpreters <http://arxiv.org/abs/1511.06279>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/NPI-tensorflow>`__ (in progress)
+- attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/pdf/1506.03340v3.pdf>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__
+- lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
+- NPI-tensorflow :: `Neural Programmer-Interpreters <http://arxiv.org/abs/1511.06279>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/NPI-tensorflow>`__
 
 .. raw:: html
 
