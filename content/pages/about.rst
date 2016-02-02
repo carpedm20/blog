@@ -51,8 +51,12 @@ Old
 Publications
 ------------
 
-- [2] **T. Kim**, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, *Extracting Baseline Electricity Usage Using Gradient Tree Boosting*, in 2015 International Conference on Big Data Intelligence and Computing (`DataCom 2015 <http://umc.uestc.edu.cn/conference/DataCom2015/>`__). Chengdu, China, Dec. 2015. **<Best Paper Award>** [`PDF <https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf>`__]
-- [1] **T. Kim**, and J. Choi, *Reading documents for bayesian Online Change Point Detection*, in Empirical Methods on Natural Language Processing (`EMNLP 2015 <http://www.emnlp2015.org/>`__) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [`PDF <http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
+.. raw:: html
+
+   <ul class="simple">
+   <li>[2] <strong>T. Kim</strong>, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Extracting Baseline Electricity Usage Using Gradient Tree Boosting</em>, in 2015 International Conference on Big Data Intelligence and Computing (<a class="reference external" href="http://umc.uestc.edu.cn/conference/DataCom2015/">DataCom 2015</a>). Chengdu, China, Dec. 2015. <strong>&lt;Best Paper Award&gt;</strong> [<a class="reference external" href="https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf">PDF</a>]</li>
+   <li>[1] <strong>T. Kim</strong>, and J. Choi, <em>Reading documents for bayesian Online Change Point Detection</em>, in Empirical Methods on Natural Language Processing (<a class="reference external" href="http://www.emnlp2015.org/"><b class="black">EMNLP 2015</b></a>) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [<a class="reference external" href="http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf">PDF</a>]</li>
+   </ul>
 
 
 Awards
