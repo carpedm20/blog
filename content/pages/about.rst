@@ -181,9 +181,10 @@ Open Source Contribution
 Machine Learning
 ~~~~~~~~~~~~~~~~
 
+- DCGAN-tensorflow :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434v1>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__
 - MemN2N-tensorflow :: `End-To-End Memory Network <http://arxiv.org/abs/1503.08895v4>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
 - NTM-tensorflow :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
-- DCGAN-tensorflow :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434v1>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__
+- lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
 
 .. raw:: html
 
