@@ -193,6 +193,8 @@ Machine Learning
 .. raw:: html
 
    <div class="pure-g hidden">
+      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/DCGAN-tensorflow"><img alt="Neural Faces" class="align-center" src="https://raw.githubusercontent.com/carpedm20/poet-neural/master/contents/face.png" style="width: 90%;"></a>
+      <br/>
       <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/poet-neural"><img alt="Poet Neural" class="align-center" src="https://raw.githubusercontent.com/carpedm20/poet-neural/master/contents/screenshot5.png" style="width: 90%;"></a>
       <br/>
       <a class="reference external image-reference" target="_blank" href="https://www.youtube.com/watch?v=nKyt3jo2Hno"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
