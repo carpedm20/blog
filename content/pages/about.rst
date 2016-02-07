@@ -193,13 +193,14 @@ Machine Learning
 .. raw:: html
 
    <div class="pure-g hidden">
-      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/DCGAN-tensorflow"><img alt="Neural Faces" class="align-center" src="https://raw.githubusercontent.com/carpedm20/poet-neural/master/contents/face.png" style="width: 90%;"></a>
+      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/DCGAN-tensorflow"><img alt="Neural Faces" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/face.png" style="width: 90%;"></a>
       <br/>
       <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/poet-neural"><img alt="Poet Neural" class="align-center" src="https://raw.githubusercontent.com/carpedm20/poet-neural/master/contents/screenshot5.png" style="width: 90%;"></a>
       <br/>
       <a class="reference external image-reference" target="_blank" href="https://www.youtube.com/watch?v=nKyt3jo2Hno"><img alt="ReviewDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/reviewduk.png" style="width: 90%;"></a>
    </div>
 
+- Neural Faces :: Human faces from Neural Network :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__ :: `demo <http://carpedm20.github.io/faces/>`__
 - Poet Neural :: Poet born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
 - Fake Review Generator :: Fake review generator born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
 - ReviewDuk :: Korean Sentiment Analyzer in Morphologically Rich Languages :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
