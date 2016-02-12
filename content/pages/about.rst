@@ -189,6 +189,7 @@ Machine Learning
 - MemN2N-tensorflow :: `End-To-End Memory Network <http://arxiv.org/abs/1503.08895v4>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
 - NTM-tensorflow :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
 - lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
+- visual-analogy-tensorflow :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
 
 .. raw:: html
 
