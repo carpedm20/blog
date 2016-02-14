@@ -119,7 +119,7 @@ Research Experience
 `Statistical Artificial Intelligence Lab <http://sail.unist.ac.kr/>`__ at UNIST (2014.09 ~ 2015.10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- *Reading documents for bayesian Online Change Point Detection* :: `EMNLP 2015 <http://www.emnlp2015.org/>`__ (23.5% a/r) :: [`PDF <http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
+- *Reading documents for bayesian Online Change Point Detection* :: `EMNLP 2015 <https://www.cs.cmu.edu/~ark/EMNLP-2015/>`__ (23.5% a/r) :: [`PDF <http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
 - *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
 - *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
