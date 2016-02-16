@@ -174,13 +174,6 @@ Development Experience
 
    <!--<p style="color: red; text-align: center;"><strong>All demo links are dead because the virtual machine are corrupted (2015-06-11)</strong></p>-->
 
-Open Source Contribution
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-- Main committer of `line <https://github.com/carpedm20/LINE>`__, `emoji <https://github.com/carpedm20/emoji>`__, `awesome-hacking <https://github.com/carpedm20/awesome-hacking>`__, `awesome-torch <https://github.com/carpedm20/awesome-torch>`__, `korail2 <https://github.com/carpedm20/korail2>`__, `between <https://github.com/carpedm20/between>`__, `ndrive <https://github.com/carpedm20/ndrive>`__ etc.
-- `pinpoint <https://github.com/carpedm20/pinpoint>`__ :: open source APM (Application Performance Management) tool :: Minor contribution `#318 <https://github.com/naver/pinpoint/pull/318>`__
-- `yaksok <https://github.com/carpedm20/yaksok>`__ :: Programming language for Korean :: Minor contribution `#3 <https://github.com/yaksok/yaksok/pull/3>`__
-
 
 Machine Learning
 ~~~~~~~~~~~~~~~~
@@ -253,6 +246,14 @@ Visualization
 - Ausung :: A Data Visualization of Media Sentiments :: `code <https://github.com/carpedm20/ausung>`__
 - Vox Office :: A Streamgraph Data Visualization of Box Office Ranking :: `code <https://github.com/carpedm20/voxoffice>`__ :: demo
 - All about critics :: A Novel Aproach to Compare The Pattern of Critics and Users :: `code <https://github.com/carpedm20/all-about-critics>`__ :: demo
+
+
+Open Source Contribution
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Main committer of `line <https://github.com/carpedm20/LINE>`__, `emoji <https://github.com/carpedm20/emoji>`__, `awesome-hacking <https://github.com/carpedm20/awesome-hacking>`__, `awesome-torch <https://github.com/carpedm20/awesome-torch>`__, `korail2 <https://github.com/carpedm20/korail2>`__, `between <https://github.com/carpedm20/between>`__, `ndrive <https://github.com/carpedm20/ndrive>`__ etc.
+- `pinpoint <https://github.com/carpedm20/pinpoint>`__ :: open source APM (Application Performance Management) tool :: Minor contribution `#318 <https://github.com/naver/pinpoint/pull/318>`__
+- `yaksok <https://github.com/carpedm20/yaksok>`__ :: Programming language for Korean :: Minor contribution `#3 <https://github.com/yaksok/yaksok/pull/3>`__
 
 
 2015
