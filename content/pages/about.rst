@@ -110,7 +110,7 @@ Scholarships
 ETC
 ~~~
 - **2016 Outstanding Graduate Award** 
-   - Only one selected graduate, awarded by **the Minister of Science, ICT and Future Planning** (**미래창조과학부장관상**)
+   - One selected graduate, awarded by **the Minister of Science, ICT and Future Planning** (**미래창조과학부장관상**)
 - **2014 Student Outstanding Contribution Award** from the President of `UNIST`_
 - **2013 Student Outstanding Contribution Award** from the President of `UNIST`_
 
