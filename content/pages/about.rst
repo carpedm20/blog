@@ -91,15 +91,6 @@ Hacking
    - Held by Ministry of National Defense and National Intelligence Service
    - 5th place at preliminary contest
 
-Startup
-~~~~~~~
-- UNIST 2014 Venturing Project Program :: **Finalist** ( Two idiots )
-   - Korean Sentiment Analyzer :: `ReviewDuk`_
-   - Received $10,000 a support fund
-- `Chung Ju-yung Start-up Competition <http://www.asan-nanum.org/startup/>`__ :: Arial Final ( Two idiots )
-   - Held by Asan Nanum Foundation
-   - Sharing the study framework :: `Dada Study`_
-
 Scholarships
 ~~~~~~~~~~~~
 - **Global Scholarship** for Undergraduate Research Opportunities Program, UNIST :: 2015
