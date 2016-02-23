@@ -18,7 +18,7 @@ Profile
 .. raw:: html
 
    <ul class="simple">
-      <li>B.S. in Computer Science from <a class="reference external" href="http://www.unist.ac.kr/">UNIST</a></li>
+      <li>B.S. in Computer Science from <a class="reference external" href="http://www.unist.ac.kr/">UNIST</a> (Received Outstanding Graduate Award)</li>
       <li>Ulsan, South Korea</li>
       <li>CV : <a class="reference external" target="_blank" href="https://github.com/carpedm20/blog/raw/master/content/Taehoon_Kim_short_CV.pdf">[PDF]</a></li>
    </ul>
@@ -81,7 +81,7 @@ Hacking
 ~~~~~~~
 - `2013 Korea Whitehat Contest`_ :: **3rd place** ( `HeXA`_ )
    - Held by Ministry of National Defense and National Intelligence Service
-   - Awarded by the Minister of National Defense
+   - **Awarded by the Minister of National Defense** (**국방부장관상**)
    - Received an award of **$8,000**
 - `Holyshield 2013`_ :: **1st place** ( CodePink )
    - Held by Catholic University of Korea
@@ -109,6 +109,7 @@ Scholarships
 
 ETC
 ~~~
+- **Outstanding Graduate Award** from Ministry of Science, ICT and Future Planning (**미래창조과학부장관상**)
 - **2014 Student Outstanding Contribution Award** from the President of `UNIST`_
 - **2013 Student Outstanding Contribution Award** from the President of `UNIST`_
 
