@@ -95,8 +95,8 @@ Scholarships
 ~~~~~~~~~~~~
 - **Global Scholarship** for Undergraduate Research Opportunities Program, UNIST :: 2015
    - Received $3,000 as a financial support for research internship at `Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__
-- **Academic Performance Scholarship**, UNIST :: 2011-2015
-- **National Science and Engineering Scholarship**, Korean Student Aid Foundation :: 2013
+- Academic Performance ScholarshipUNIST :: 2011-2015
+- National Science and Engineering Scholarship, Korean Student Aid Foundation :: 2013
 
 ETC
 ~~~
