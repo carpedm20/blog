@@ -84,7 +84,7 @@ small {
   /*line-height: 0.5em;*/
 }
 
-#scholarships p {
+#scholarships p, #etc p {
   line-height: 1em;
 }
 

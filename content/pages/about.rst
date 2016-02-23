@@ -19,7 +19,7 @@ Profile
 
    <ul class="simple">
       <li>B.S. in Computer Science from <a class="reference external" href="http://www.unist.ac.kr/">UNIST</a></li>
-      <li style="font-size: 0.8em;">(with Outstanding Graduate Award from Minister of Science, ICT and Future Planning)</li>
+      <li style="font-size: 0.8em;">(with Outstanding Graduate Award from the Minister of Science, ICT and Future Planning)</li>
       <li>CV : <a class="reference external" target="_blank" href="https://github.com/carpedm20/blog/raw/master/content/Taehoon_Kim_short_CV.pdf">[PDF]</a></li>
    </ul>
 
@@ -110,7 +110,7 @@ Scholarships
 ETC
 ~~~
 - **Outstanding Graduate Award** 
-   - One selected graduate, awarded by **Minister of Science, ICT and Future Planning** (**미래창조과학부장관상**)
+   - Only one selected graduate, awarded by **the Minister of Science, ICT and Future Planning** (**미래창조과학부장관상**)
 - **2014 Student Outstanding Contribution Award** from the President of `UNIST`_
 - **2013 Student Outstanding Contribution Award** from the President of `UNIST`_
 
