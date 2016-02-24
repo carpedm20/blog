@@ -47,6 +47,10 @@ Old
 ~~~
 - Computer Security, Supercomputing, Data visualization
 
+.. raw:: html
+
+   <br>
+   <hr>
 
 Publications
 ------------
@@ -57,6 +61,11 @@ Publications
    <li>[2] <strong>T. Kim</strong>, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Extracting Baseline Electricity Usage Using Gradient Tree Boosting</em>, in 2015 International Conference on Big Data Intelligence and Computing (<a class="reference external" href="http://umc.uestc.edu.cn/conference/DataCom2015/">DataCom 2015</a>). Chengdu, China, Dec. 2015. <strong>&lt;Best Paper Award&gt;</strong> [<a class="reference external" href="https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf">PDF</a>]</li>
    <li>[1] <strong>T. Kim</strong>, and J. Choi, <em>Reading documents for bayesian Online Change Point Detection</em>, in Empirical Methods on Natural Language Processing (<a class="reference external" href="http://www.emnlp2015.org/"><b class="black">EMNLP 2015</b></a>) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [<a class="reference external" href="http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf">PDF</a>]</li>
    </ul>
+
+.. raw:: html
+
+   <br>
+   <hr>
 
 
 Awards
@@ -106,6 +115,11 @@ ETC
 - **2013 Student Outstanding Contribution Award** from the President of `UNIST`_
 
 
+.. raw:: html
+
+   <br>
+   <hr>
+
 Research Experience
 ---------------------
 
@@ -132,6 +146,11 @@ Research Experience
 - *Optimizing Mobile Web browsing: Through Page Caching in Local Access Point*
 
 
+.. raw:: html
+
+   <br>
+   <hr>
+
 Work Experience
 -----------------
 
@@ -151,14 +170,24 @@ Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
 - Got a 2014 Excellence Award, which was given to 3 selected interns
 
 
+.. raw:: html
+
+   <br>
+   <hr>
+
 Campus Activities
 ---------------------
 
-Leader, `HeXA`_ (a computer security research group) at UNIST (2012.08 ~ 2013.03)
+President, `HeXA`_ (a computer security research group) at UNIST (2012.08 ~ 2013.03)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Lead and improve the club as a national competitive computer security club
-- Lead more than 10 different hacking competitions and international supercomputing competiton
+- Lead more than 10 different hacking competitions and international supercomputing competitons
 
+
+.. raw:: html
+
+   <br>
+   <hr>
 
 Development Experience
 ----------------------
@@ -233,7 +262,6 @@ Visualization
       <br/>
       <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/voxoffice"><img alt="Voxoffice" class="align-center" src="https://raw.githubusercontent.com/carpedm20/voxoffice/master/static/main2.png" style="width: 90%;"></a>
       <br/>
-      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/all-about-critics"><img alt="All about critic" class="align-center" src="https://raw.githubusercontent.com/carpedm20/all-about-critics/master/contents/demo2.PNG" style="width: 90%;"></a>
    </div>
 
 - Ausung :: A Data Visualization of Media Sentiments :: `code <https://github.com/carpedm20/ausung>`__
@@ -314,6 +342,12 @@ Facebook bot
       <li><a class="reference external" href="https://github.com/carpedm20/UNIST-FedEx">UNIST FedEx</a> :: 785 users (<strong>1 of 4</strong> UNIST students used) :: Facebook bot :: <a class="reference external" href="https://www.facebook.com/unistfedex?">Facebook link</a></li>
       </ul>
    </div>
+
+
+.. raw:: html
+
+   <br>
+   <hr>
 
 Presentations
 -------------
