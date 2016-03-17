@@ -110,9 +110,11 @@ Scholarships
 ETC
 ~~~
 - **2016 Outstanding Graduate Award** 
-   - One selected graduate, awarded by **the Minister of Science, ICT and Future Planning** (**미래창조과학부장관상**)
+   - Only one selected graduate, awarded by **the Minister of Science and Future Planning** (**미래창조과학부장관상**)
 - **2014 Student Outstanding Contribution Award** from the President of `UNIST`_
+   - Only one selected team among students of School of Electrical and Computer Engineering
 - **2013 Student Outstanding Contribution Award** from the President of `UNIST`_
+   - Only one selected team among students of School of Electrical and Computer Engineering
 
 
 .. raw:: html
