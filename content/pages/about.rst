@@ -154,6 +154,10 @@ Research Experience
 Work Experience
 -----------------
 
+Software Engineer, `Vingle <https://www.vingle.net/>`__, Seoul, South Korea(2015.10 ~ )     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     
+- Worked as a substitute of mandatory military service      
+
 Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Maximum-likelihood estimation of Downloading Mobile Application
