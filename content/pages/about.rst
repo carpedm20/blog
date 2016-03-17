@@ -201,10 +201,10 @@ Machine Learning
 - NTM-tensorflow :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
 - lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
 - visual-analogy-tensorflow :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
-- attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/pdf/1506.03340v3.pdf>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__
+- attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/pdf/1506.03340v3.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__
 - text-based-game-rl-tensorflow :: `Language Understanding for Text-based Games using Deep Reinforcement Learning <http://arxiv.org/abs/1506.08941>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/text-based-game-rl-tensorflow>`__
 - awesome-torch :: A curated list of awesome Torch tutorials, projects and communities :: `link <https://github.com/carpedm20/awesome-torch>`__
-- presentations :: `Deep Reasoning <http://www.slideshare.net/carpedm20/deep-reasoning>`__
+- slides :: `Deep Reasoning <http://www.slideshare.net/carpedm20/deep-reasoning>`__
 
 
 .. raw:: html
