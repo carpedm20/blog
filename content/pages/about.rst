@@ -18,6 +18,7 @@ Profile
 .. raw:: html
 
    <ul class="simple">
+      <li><h2 style="margin: 0; padding: 0;">Taehoon Kim</h2></li>
       <li>B.S. in Computer Science from <a class="reference external" href="http://www.unist.ac.kr/">UNIST</a></li>
       <li style="font-size: 0.8em;">(with <b>Outstanding Graduate Award</b> from the Minister of Science, ICT and Future Planning)</li>
       <li>CV : <a class="reference external" target="_blank" href="https://github.com/carpedm20/blog/raw/master/content/Taehoon_Kim_short_CV.pdf">[PDF]</a></li>
