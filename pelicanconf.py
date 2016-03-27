@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'carpedm20'
-SITENAME = u'carpedm20'
+AUTHOR = u'Taehoon Kim'
+SITENAME = u'Taehoon Kim | carpedm20'
 SITEURL = ''
 
 TIMEZONE = 'Europe/Paris'
-DEFAULT_LANG = u'ko'
+DEFAULT_LANG = u'en'
 
 # Metadata
 USE_FOLDER_AS_CATEGORY = False
