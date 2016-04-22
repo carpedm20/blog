@@ -154,9 +154,14 @@ Research Experience
 Work Experience
 -----------------
 
-Software Engineer, `Vingle <https://www.vingle.net/>`__, Seoul, South Korea(2015.10 ~ )     
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~     
+Software Engineer, `Devsisters <http://www.devsisters.com/>`__, Seoul, South Korea(2016.04 ~ )     
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Worked as a substitute of mandatory military service      
+
+Software Engineer, `Vingle <https://www.vingle.net/>`__, Seoul, South Korea(2015.10 ~ 2016.04)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Improve a personal newsfeed and a push notification engine
+- Build a prediction model for age and gender only with the user's action pattern in the services
 
 Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
