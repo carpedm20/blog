@@ -156,6 +156,8 @@ Work Experience
 
 Software Engineer, `Devsisters <http://www.devsisters.com/>`__, Seoul, South Korea (2016.04 ~ )     
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Implement deep reinforcement learning models for efficient QA for game balancing (`DQN-Tensorflow <https://github.com/devsisters/DQN-tensorflow>`__)
+- Build a automated anomaly detection system in huge time series datasets 
 - Worked as a substitute of mandatory military service      
 
 Software Engineer, `Vingle <https://www.vingle.net/>`__, Seoul, South Korea (2015.10 ~ 2016.04)
@@ -163,6 +165,7 @@ Software Engineer, `Vingle <https://www.vingle.net/>`__, Seoul, South Korea (201
 - Improve a personal newsfeed and a push notification engine
 - Build a prediction model for age and gender only with the user's action pattern in the services
 - Build admin dashboard and statistical visualization for push notification
+- Worked as a substitute of mandatory military service      
 
 Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -207,6 +210,7 @@ Machine Learning
 ~~~~~~~~~~~~~~~~
 
 - **DCGAN-tensorflow** :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434v1>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__ :: `demo <http://carpedm20.github.io/faces/>`__
+- **DQN-tensorflow** :: `Human-Level Control through Deep Reinforcement Learning <http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf>`__ implementation in Tensorflow :: `code <https://github.com/devsisters/DQN-tensorflow/>`__
 - **MemN2N-tensorflow** :: `End-To-End Memory Network <http://arxiv.org/abs/1503.08895v4>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
 - **NTM-tensorflow** :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
 - **visual-analogy-tensorflow** :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
