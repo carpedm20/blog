@@ -40,7 +40,7 @@ Interests
 
 Current
 ~~~~~~~
-- Machine Learning, Natural Language Processing, Computer Vision
+- Natural Language Processing, Reinforcement Learning, Computer Vision
 
 
 Old
@@ -156,15 +156,14 @@ Work Experience
 
 Software Engineer, `Devsisters <http://www.devsisters.com/>`__, Seoul, South Korea (2016.04 ~ )     
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Implement deep reinforcement learning models for efficient QA for game balancing (`DQN-Tensorflow <https://github.com/devsisters/DQN-tensorflow>`__)
-- Build a automated anomaly detection system in huge time series datasets 
+- Implement deep reinforcement learning models for a fast balance testing (`DQN-Tensorflow <https://github.com/devsisters/DQN-tensorflow>`__)
+- Build a system for automated anomaly detection with time series datasets
 - Worked as a substitute of mandatory military service      
 
 Software Engineer, `Vingle <https://www.vingle.net/>`__, Seoul, South Korea (2015.10 ~ 2016.04)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Improve a personal newsfeed and a push notification engine
 - Build a prediction model for age and gender only with the user's action pattern in the services
-- Build admin dashboard and statistical visualization for push notification
+- Build a personal push notification system and a statistical data visualization for push notification
 - Worked as a substitute of mandatory military service      
 
 Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
