@@ -208,15 +208,15 @@ Development Experience
 Machine Learning
 ~~~~~~~~~~~~~~~~
 
-- **DCGAN-tensorflow** :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434v1>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__ :: `demo <http://carpedm20.github.io/faces/>`__
-- **DQN-tensorflow** :: `Human-Level Control through Deep Reinforcement Learning <http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf>`__ implementation in Tensorflow :: `code <https://github.com/devsisters/DQN-tensorflow/>`__
-- **MemN2N-tensorflow** :: `End-To-End Memory Network <http://arxiv.org/abs/1503.08895v4>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
-- **NTM-tensorflow** :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
-- **visual-analogy-tensorflow** :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
+- **DCGAN-tensorflow** :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434v1>`__ in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__ :: `demo <http://carpedm20.github.io/faces/>`__
+- **DQN-tensorflow** :: `Human-Level Control through Deep Reinforcement Learning <http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf>`__ in Tensorflow :: `code <https://github.com/devsisters/DQN-tensorflow/>`__
+- **MemN2N-tensorflow** :: `End-To-End Memory Network <http://arxiv.org/abs/1503.08895v4>`__ in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
+- **NTM-tensorflow** :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
+- **visual-analogy-tensorflow** :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
 - variational-text-tensorflow :: `Neural Variational Inference for Text Processing <http://arxiv.org/abs/1511.06038>`__ in Tensorflow :: `code <https://github.com/carpedm20/variational-text-tensorflow>`__
-- lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
+- lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
 - attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/pdf/1506.03340v3.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__
-- text-based-game-rl-tensorflow :: `Language Understanding for Text-based Games using Deep Reinforcement Learning <http://arxiv.org/abs/1506.08941>`__ implementation in Tensorflow :: `code <https://github.com/carpedm20/text-based-game-rl-tensorflow>`__
+- text-based-game-rl-tensorflow :: `Language Understanding for Text-based Games using Deep Reinforcement Learning <http://arxiv.org/abs/1506.08941>`__ in Tensorflow :: `code <https://github.com/carpedm20/text-based-game-rl-tensorflow>`__
 - awesome-torch :: A curated list of awesome Torch tutorials, projects and communities :: `link <https://github.com/carpedm20/awesome-torch>`__
 - Slides :: `Deep Reasoning <http://www.slideshare.net/carpedm20/deep-reasoning>`__
 
