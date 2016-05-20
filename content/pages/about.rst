@@ -197,8 +197,8 @@ President, `HeXA`_ (a computer security research group) at UNIST (2012.08 ~ 2013
    <br>
    <hr>
 
-Development Experience
-----------------------
+Projects
+--------
 
 .. raw:: html
 
