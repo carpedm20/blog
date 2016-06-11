@@ -40,7 +40,7 @@ Interests
 
 Current
 ~~~~~~~
-- Natural Language Processing, Reinforcement Learning, Computer Vision
+- Reinforcement Learning, Natural Language Processing, Computer Vision
 
 
 Old
