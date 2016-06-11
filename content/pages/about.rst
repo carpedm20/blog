@@ -126,10 +126,10 @@ Scholarships
 
 ETC
 ~~~
-- **2016 Outstanding Graduate Award** 
-   - Only one selected graduate, awarded by **the Minister of Science and Future Planning** (**미래창조과학부장관상**)
-- **2014 Student Outstanding Contribution Award** from the President of `UNIST`_
-- **2013 Student Outstanding Contribution Award** from the President of `UNIST`_
+- **2016 Outstanding Graduate Award** (**미래창조과학부장관상**)
+   - **Chosen as one of all graduates**, awarded by **the Minister of Science and Future Planning**
+- 2014 Student Outstanding Contribution Award, awarded by the President of `UNIST`_
+- 2013 Student Outstanding Contribution Award, awarded by the President of `UNIST`_
 
 
 .. raw:: html
@@ -173,7 +173,7 @@ Work Experience
 
 Software Engineer, `Devsisters <http://www.devsisters.com/>`__, Seoul, South Korea (2016.04 ~ )     
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Implement deep reinforcement learning models for a fast balance testing (`DQN-Tensorflow <https://github.com/devsisters/DQN-tensorflow>`__)
+- Implement deep reinforcement learning models for fast balance tests (`DQN-tensorflow <https://github.com/devsisters/DQN-tensorflow>`__, `async-rl-tensorflow <https://github.com/devsisters/async-rl-tensorflow>`__)
 - Build a system for automated anomaly detection with time series datasets
 - Worked as a substitute of mandatory military service      
 
@@ -226,10 +226,13 @@ Machine Learning
 ~~~~~~~~~~~~~~~~
 
 - **DCGAN-tensorflow** :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434v1>`__ in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__ :: `demo <http://carpedm20.github.io/faces/>`__
+- **deep-rl-tensorflow** :: 1) `Prioritized <http://arxiv.org/abs/1511.05952>`__ 2) `Deuling <http://arxiv.org/abs/1511.06581>`__ 3) `Double <http://arxiv.org/abs/1509.06461>`__ 4) `DQN <https://arxiv.org/abs/1312.5602>`__ in Tensorflow :: `code <https://github.com/carpedm20/deep-rl-tensorflow/>`__
 - **DQN-tensorflow** :: `Human-Level Control through Deep Reinforcement Learning <http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf>`__ in Tensorflow :: `code <https://github.com/devsisters/DQN-tensorflow/>`__
 - **MemN2N-tensorflow** :: `End-To-End Memory Network <http://arxiv.org/abs/1503.08895v4>`__ in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
 - **NTM-tensorflow** :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
 - **visual-analogy-tensorflow** :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
+- **async-rl-tensorflow** :: `Asynchronous Methods for Deep Reinforcement Learning <http://arxiv.org/abs/1602.01783>`__ in Tensorflow :: `code <https://github.com/devsisters/async-rl-tensorflow/>`__
+- **naf-tensorflow** :: `Continuous Deep q-Learning with Model-based Acceleration <http://arxiv.org/abs/1603.00748>`__ in Tensorflow :: `code <https://github.com/carpedm20/naf-tensorflow/>`__
 - variational-text-tensorflow :: `Neural Variational Inference for Text Processing <http://arxiv.org/abs/1511.06038>`__ in Tensorflow :: `code <https://github.com/carpedm20/variational-text-tensorflow>`__
 - lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
 - attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/pdf/1506.03340v3.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__
