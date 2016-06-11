@@ -74,7 +74,7 @@ Refereed Conferences
    <ul class="simple">
    <dd>
    <li>[2] <strong>T. Kim</strong>, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Extracting Baseline Electricity Usage Using Gradient Tree Boosting</em>, in 1st Intl. Conf. Big Data Intelligence and Computing (<a class="reference external" href="http://umc.uestc.edu.cn/conference/DataCom2015/">DataCom 2015</a>). Chengdu, China, Dec. 2015. [<a class="reference external" href="https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf">PDF</a>]</li>
-   <li>[1] <strong>T. Kim</strong>, and J. Choi, <em>Reading documents for bayesian Online Change Point Detection</em>, in Empirical Methods on Natural Language Processing (<a class="reference external" href="http://www.emnlp2015.org/"><b class="black">EMNLP 2015</b></a>) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [<a class="reference external" href="http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf">PDF</a>]</li>
+   <li>[3] <strong>T. Kim</strong>, and J. Choi, <em>Reading documents for bayesian Online Change Point Detection</em>, in Empirical Methods on Natural Language Processing (<a class="reference external" href="http://www.emnlp2015.org/"><b class="black">EMNLP 2015</b></a>) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [<a class="reference external" href="http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf">PDF</a>]</li>
    </dd>
    </ul>
 
