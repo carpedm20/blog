@@ -91,7 +91,7 @@ Machine Learning
 ~~~~~~~~~~~~~~~~
 
 - `DataCom 2015 Best Paper Award <http://sail.unist.ac.kr/paper-best-paper-award-from-datacom-2015-for-predicting-real-world-electricity-usages/>`__
-   - **T. Kim**, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, *Extracting Baseline Electricity Usage Using Gradient Tree Boosting*, in 1st Intl. Conf. Big Data Intelligence and Computing (`DataCom 2015 <http://umc.uestc.edu.cn/conference/DataCom2015/>`__). Chengdu, China, Dec. 2015. [`PDF <https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf>`__]
+   - **T. Kim**, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, *Extracting Baseline Electricity Usage Using Gradient Tree Boosting*, in 1st Intl. Conf. Big Data Intelligence and Computing (`DataCom 2015 <http://umc.uestc.edu.cn/conference/DataCom2015/>`__). [`PDF <https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf>`__]
 
 Supercomputing
 ~~~~~~~~~~~~~~
@@ -109,10 +109,10 @@ Hacking
 ~~~~~~~
 - `2013 Korea Whitehat Contest`_ :: **3rd place** ( `HeXA`_ )
    - Held by Ministry of National Defense and National Intelligence Service
-   - Awarded by **the Minister of National Defense** (**국방부장관상**) and received an award of **$8,000**
+   - Awarded by **the Minister of National Defense** (**국방부장관상**). Received an award of **$8,000**
 - `Holyshield 2013`_ :: **1st place** ( CodePink )
    - Held by Catholic University of Korea
-   - Awarded by the President of Catholic University of Korea and received an award of $1,000
+   - Awarded by the President of Catholic University of Korea. Received an award of $1,000
 
 Scholarships
 ~~~~~~~~~~~~
