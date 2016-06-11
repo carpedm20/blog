@@ -234,8 +234,6 @@ Machine Learning
 - lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
 - attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/pdf/1506.03340v3.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__
 - text-based-game-rl-tensorflow :: `Language Understanding for Text-based Games using Deep Reinforcement Learning <http://arxiv.org/abs/1506.08941>`__ in Tensorflow :: `code <https://github.com/carpedm20/text-based-game-rl-tensorflow>`__
-- awesome-torch :: A curated list of awesome Torch tutorials, projects and communities :: `link <https://github.com/carpedm20/awesome-torch>`__
-- Slides :: `Deep Reasoning <http://www.slideshare.net/carpedm20/deep-reasoning>`__
 
 
 .. raw:: html
