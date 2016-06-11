@@ -66,8 +66,8 @@ Journals
    </dd>
    </ul>
 
-Refereed Conferences
-~~~~~~~~~~~~~~~~~~~~
+Conferences
+~~~~~~~~~~~
 
 .. raw:: html
 
