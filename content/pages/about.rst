@@ -61,7 +61,10 @@ Journals
 .. raw:: html
 
    <ul class="simple">
-   <li>[1] <strong>T. Kim</strong>, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Predicting Baseline for Analysis of Electricity Pricing</em>, in International Journal of Big Data Intelligence. [<a class="reference external" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2773991">PDF</a>]</li>
+   <dd>
+   <li>[1] <strong>T. Kim</strong>, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Predicting Baseline for Analysis of Electricity Pricing</em>, in International Journal of Big Data Intelligence, accepted for publication. [<a class="reference external" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2773991">PDF</a>]</li>
+   </dd>
+   </ul>
 
 Refereed Conferences
 ~~~~~~~~~~~~~~~~~~~~
@@ -69,8 +72,10 @@ Refereed Conferences
 .. raw:: html
 
    <ul class="simple">
-   <li>[2] <strong>T. Kim</strong>, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Extracting Baseline Electricity Usage Using Gradient Tree Boosting</em>, in 1st Intl. Conf. Big Data Intelligence and Computing (<a class="reference external" href="http://umc.uestc.edu.cn/conference/DataCom2015/">DataCom 2015</a>). Chengdu, China, Dec. 2015. <strong>&lt;Best Paper Award&gt;</strong> [<a class="reference external" href="https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf">PDF</a>]</li>
+   <dd>
+   <li>[2] <strong>T. Kim</strong>, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Extracting Baseline Electricity Usage Using Gradient Tree Boosting</em>, in 1st Intl. Conf. Big Data Intelligence and Computing (<a class="reference external" href="http://umc.uestc.edu.cn/conference/DataCom2015/">DataCom 2015</a>). Chengdu, China, Dec. 2015. [<a class="reference external" href="https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf">PDF</a>]</li>
    <li>[1] <strong>T. Kim</strong>, and J. Choi, <em>Reading documents for bayesian Online Change Point Detection</em>, in Empirical Methods on Natural Language Processing (<a class="reference external" href="http://www.emnlp2015.org/"><b class="black">EMNLP 2015</b></a>) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [<a class="reference external" href="http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf">PDF</a>]</li>
+   </dd>
    </ul>
 
 .. raw:: html
@@ -85,36 +90,29 @@ Awards
 Machine Learning
 ~~~~~~~~~~~~~~~~
 
-- DataCom 2015 Best Paper Award
+- `DataCom 2015 Best Paper Award <http://sail.unist.ac.kr/paper-best-paper-award-from-datacom-2015-for-predicting-real-world-electricity-usages/>`__
+   - **T. Kim**, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, *Extracting Baseline Electricity Usage Using Gradient Tree Boosting*, in 1st Intl. Conf. Big Data Intelligence and Computing (`DataCom 2015 <http://umc.uestc.edu.cn/conference/DataCom2015/>`__). Chengdu, China, Dec. 2015. [`PDF <https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf>`__]
 
 Supercomputing
 ~~~~~~~~~~~~~~
 - `International Supercomputing Conference 14 Student Cluster Challenge <http://www.isc-events.com/isc14/student-cluster-competition.html>`__ :: **Finalist**
    - In Leipzig / Germany
    - **One of 11 undergraduate teams (including MIT, Tsinghua Univ)** selected through the preliminary contest
-   - Cluster : 8 x (Xeon E5-2692 x 2 + `Nvidia K40 <http://www.nvidia.com/object/tesla-servers.html>`__ + 16G x 8)
 - `Asia student Supercomputing Challenge 14 <http://www.asc-events.org/ASC14/index14en.php>`__ :: **Finalist**
    - In Guangzhou / China (participate as a team adviser)
    - **One of 16 teams among 82 international teams** selected through the preliminary contest
-   - Cluster : 6 x (Xeon E5-2692 x 2 + `Nvidia Titan <http://www.nvidia.co.kr/gtx-700-graphics-cards/gtx-titan-black/>`__ + 16G x 6)
 - `Asia student Supercomputing Challenge 13 <http://www.asc-events.org/13en/index13en.php>`__ :: **Finalist**
    - In Shanghai / China
-   - One of 10 teams among 43 international teams selected through the preliminary contest
-   - Cluster : 6 x (Xeon E5-2650 x 2 + `Xeon Phi-5110P <http://ark.intel.com/ko/products/71992/Intel-Xeon-Phi-Coprocessor-5110P-8GB-1_053-GHz-60-core>`__ + 16G x 6)
+   - **One of 10 teams among 43 international teams** selected through the preliminary contest
 
 Hacking
 ~~~~~~~
 - `2013 Korea Whitehat Contest`_ :: **3rd place** ( `HeXA`_ )
    - Held by Ministry of National Defense and National Intelligence Service
-   - Awarded by **the Minister of National Defense** (**국방부장관상**)
-   - Received an award of **$8,000**
+   - Awarded by **the Minister of National Defense** (**국방부장관상**) and received an award of **$8,000**
 - `Holyshield 2013`_ :: **1st place** ( CodePink )
    - Held by Catholic University of Korea
-   - Awarded by the President of Catholic University of Korea
-   - Received an award of $1,000
-- `2014 Korea Whitehat Contest`_ :: **Finalist** ( `HeXA`_ )
-   - Held by Ministry of National Defense and National Intelligence Service
-   - 5th place at preliminary contest
+   - Awarded by the President of Catholic University of Korea and received an award of $1,000
 
 Scholarships
 ~~~~~~~~~~~~
