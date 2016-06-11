@@ -113,13 +113,16 @@ Hacking
 - `Holyshield 2013`_ :: **1st place** ( CodePink )
    - Held by Catholic University of Korea
    - Awarded by the President of Catholic University of Korea. Received an award of $1,000
+- `2014 Korea Whitehat Contest`_ :: **Finalist** ( `HeXA`_ )
+   - Held by Ministry of National Defense and National Intelligence Service
+   - 5th place at preliminary contest
 
 Scholarships
 ~~~~~~~~~~~~
 - **Global Scholarship** for Undergraduate Research Opportunities Program, UNIST :: 2015
    - Received $3,000 as a financial support for research internship at `Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__
-- Academic Performance ScholarshipUNIST :: 2011-2015
 - National Science and Engineering Scholarship, Korean Student Aid Foundation :: 2013
+- Academic Performance Scholarship, UNIST :: 2011-2015
 
 ETC
 ~~~
