@@ -20,6 +20,7 @@ Profile
    <ul class="simple">
       <li>B.S. in Computer Science from <a class="reference external" href="http://www.unist.ac.kr/">UNIST</a></li>
       <li style="font-size: 0.8em;">(with <b>Outstanding Graduate Award</b> from the Minister of Science, ICT and Future Planning)</li>
+      <li>Serving a mandatory military service and it ends at 2018</li>
       <li>CV : <a class="reference external" target="_blank" href="https://github.com/carpedm20/blog/raw/master/content/Taehoon_Kim_short_CV_dev.pdf">[PDF]</a></li>
    </ul>
 
@@ -40,7 +41,7 @@ Interests
 
 Current
 ~~~~~~~
-- Reinforcement Learning, Natural Language Processing, Computer Vision
+- Reinforcement Learning, Generative Model, Algorithm Learning
 
 
 Old
@@ -226,13 +227,14 @@ Machine Learning
 ~~~~~~~~~~~~~~~~
 
 - **DCGAN-tensorflow** :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434v1>`__ in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__ :: `demo <http://carpedm20.github.io/faces/>`__
-- **deep-rl-tensorflow** :: 1) `Prioritized <http://arxiv.org/abs/1511.05952>`__ 2) `Deuling <http://arxiv.org/abs/1511.06581>`__ 3) `Double <http://arxiv.org/abs/1509.06461>`__ 4) `DQN <https://arxiv.org/abs/1312.5602>`__ in Tensorflow :: `code <https://github.com/carpedm20/deep-rl-tensorflow/>`__
-- **DQN-tensorflow** :: `Human-Level Control through Deep Reinforcement Learning <http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf>`__ in Tensorflow :: `code <https://github.com/devsisters/DQN-tensorflow/>`__
+- **visual-analogy-tensorflow** :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
+- **pixel-rnn-tensorflow** :: `Pixel Recurrent Neural Networks <https://arxiv.org/abs/1601.06759>`__ in Tensorflow :: `code <https://github.com/carpedm20/pixel-rnn-tensorflow/>`__
 - **MemN2N-tensorflow** :: `End-To-End Memory Network <http://arxiv.org/abs/1503.08895v4>`__ in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
 - **NTM-tensorflow** :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
-- **visual-analogy-tensorflow** :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
+- **DQN-tensorflow** :: `Human-Level Control through Deep Reinforcement Learning <http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf>`__ in Tensorflow :: `code <https://github.com/devsisters/DQN-tensorflow/>`__
+- **deep-rl-tensorflow** :: 1) `Prioritized <http://arxiv.org/abs/1511.05952>`__ 2) `Deuling <http://arxiv.org/abs/1511.06581>`__ 3) `Double <http://arxiv.org/abs/1509.06461>`__ 4) `DQN <https://arxiv.org/abs/1312.5602>`__ in Tensorflow :: `code <https://github.com/carpedm20/deep-rl-tensorflow/>`__
+- **NAF-tensorflow** :: `Continuous Deep q-Learning with Model-based Acceleration <http://arxiv.org/abs/1603.00748>`__ in Tensorflow :: `code <https://github.com/carpedm20/NAF-tensorflow/>`__
 - **async-rl-tensorflow** :: `Asynchronous Methods for Deep Reinforcement Learning <http://arxiv.org/abs/1602.01783>`__ in Tensorflow :: `code <https://github.com/devsisters/async-rl-tensorflow/>`__
-- **naf-tensorflow** :: `Continuous Deep q-Learning with Model-based Acceleration <http://arxiv.org/abs/1603.00748>`__ in Tensorflow :: `code <https://github.com/carpedm20/naf-tensorflow/>`__
 - variational-text-tensorflow :: `Neural Variational Inference for Text Processing <http://arxiv.org/abs/1511.06038>`__ in Tensorflow :: `code <https://github.com/carpedm20/variational-text-tensorflow>`__
 - lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
 - attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/pdf/1506.03340v3.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__
@@ -346,10 +348,13 @@ Open Source Contribution
 .. raw:: html
 
    <div class="pure-g hidden">
+      <a class="reference external image-reference" target="_blank" href="http://carpedm20.blogspot.kr/2013/08/blog-post.html" style="width: 100%;"><img alt="HeXA Bot" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/hexabot.png" style="width: 60%;"></a>
+      <br/>
       <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/movieduk"><img alt="MovieDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/movieduk.png" style="width: 90%;"></a>
    </div>
 
 - `MovieDuk`_ :: Django
+- `HeXA Bot <http://carpedm20.blogspot.kr/2013/08/blog-post.html>`__ :: KakaoTalk Messenger bot
 - `UNIST Robot`_ :: Windows program (C#)
 
 Facebook bot
@@ -384,6 +389,13 @@ Facebook bot
 
 Presentations
 -------------
+
+2016
+~~~~
+- `텐서플로우 설치도 했고 튜토리얼도 봤고 기초 예제도 짜봤다면 <http://www.slideshare.net/carpedm20/ss-63116251>`__ (TensorFlow Korea meetup, 16-06-15)
+- `Reinforcement Learning an introduction  <http://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079>`__ (16-06-08)
+- `Continuous control with deep reinforcement learning (DDPG) <http://www.slideshare.net/carpedm20/continuous-control-with-deep-reinforcement-learning-ddpg>`__ (16-06-28)
+- `Dueling network architectures for deep reinforcement learning  <http://www.slideshare.net/carpedm20/dueling-network-architectures-for-deep-reinforcement-learning>`__ (16-06-28)
 
 2014
 ~~~~
