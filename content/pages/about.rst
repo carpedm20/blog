@@ -18,8 +18,8 @@ Profile
 .. raw:: html
 
    <ul class="simple">
-      <li>B.S. in Computer Science from <a class="reference external" href="http://www.unist.ac.kr/">UNIST</a></li>
-      <li style="font-size: 0.8em;">(with <b>Outstanding Graduate Award</b> from the Minister of Science, ICT and Future Planning)</li>
+      <li>B.S. in Electrical and Computer Engineering from <a class="reference external" href="http://www.unist.ac.kr/">UNIST</a></li>
+      <li style="font-size: 0.8em;">(with <b>The Best Undergraduate Award</b> from the Minister of Science, ICT and Future Planning (미래창조과학부 장관상))</li>
       <li>Serving a mandatory military service and it ends at 2018</li>
       <li>CV : <a class="reference external" target="_blank" href="https://github.com/carpedm20/blog/raw/master/content/Taehoon_Kim_short_CV_dev.pdf">[PDF]</a></li>
    </ul>
@@ -63,7 +63,8 @@ Journals
 
    <ul class="simple">
    <dd>
-   <li>[1] <strong>T. Kim</strong>, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Predicting Baseline for Analysis of Electricity Pricing</em>, in International Journal of Big Data Intelligence, accepted for publication. [<a class="reference external" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2773991">PDF</a>]</li>
+   <li>[1] <strong>T. Kim</strong>, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Predicting Baseline for Analysis of Electricity Pricing</em>, in International Journal of Big Data Intelligence, accepted for publication, 2016. [<a class="reference external" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2773991">PDF</a>]</li>
+   <li>[2] J. Lee, K. Lee, C. Han, <strong>T. Kim</strong>, and S. Chong, <em>Resource-efficient Mobile Multimedia Streaming with Adaptive Network Selection</em>, in IEEE Transactions on Multimedia (IF: 2.536), accepted for publication, 2016.</li>
    </dd>
    </ul>
 
@@ -74,8 +75,8 @@ Conferences
 
    <ul class="simple">
    <dd>
-   <li>[2] <strong>T. Kim</strong>, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Extracting Baseline Electricity Usage Using Gradient Tree Boosting</em>, in 1st Intl. Conf. Big Data Intelligence and Computing (<a class="reference external" href="http://umc.uestc.edu.cn/conference/DataCom2015/">DataCom 2015</a>). Chengdu, China, Dec. 2015. [<a class="reference external" href="https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf">PDF</a>]</li>
-   <li>[3] <strong>T. Kim</strong>, and J. Choi, <em>Reading documents for bayesian Online Change Point Detection</em>, in Empirical Methods on Natural Language Processing (<a class="reference external" href="http://www.emnlp2015.org/"><b class="black">EMNLP 2015</b></a>) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [<a class="reference external" href="http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf">PDF</a>]</li>
+   <li>[3] <strong>T. Kim</strong>, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Extracting Baseline Electricity Usage Using Gradient Tree Boosting</em>, in 1st Intl. Conf. Big Data Intelligence and Computing (<a class="reference external" href="http://umc.uestc.edu.cn/conference/DataCom2015/">DataCom 2015</a>). Chengdu, China, Dec. 2015. [<a class="reference external" href="https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf">PDF</a>]</li>
+   <li>[4] <strong>T. Kim</strong>, and J. Choi, <em>Reading documents for bayesian Online Change Point Detection</em>, in Empirical Methods on Natural Language Processing (<a class="reference external" href="http://www.emnlp2015.org/"><b class="black">EMNLP 2015</b></a>) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [<a class="reference external" href="http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf">PDF</a>]</li>
    </dd>
    </ul>
 
@@ -92,42 +93,30 @@ Machine Learning
 ~~~~~~~~~~~~~~~~
 
 - `DataCom 2015 Best Paper Award <http://sail.unist.ac.kr/paper-best-paper-award-from-datacom-2015-for-predicting-real-world-electricity-usages/>`__
-   - **T. Kim**, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, *Extracting Baseline Electricity Usage Using Gradient Tree Boosting*, in 1st Intl. Conf. Big Data Intelligence and Computing (`DataCom 2015 <http://umc.uestc.edu.cn/conference/DataCom2015/>`__). [`PDF <https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf>`__]
 
 Supercomputing
 ~~~~~~~~~~~~~~
 - `International Supercomputing Conference 14 Student Cluster Challenge <http://www.isc-events.com/isc14/student-cluster-competition.html>`__ :: **Finalist**
-   - In Leipzig / Germany
-   - **One of 11 undergraduate teams (including MIT, Tsinghua Univ)** selected through the preliminary contest
 - `Asia student Supercomputing Challenge 14 <http://www.asc-events.org/ASC14/index14en.php>`__ :: **Finalist**
-   - In Guangzhou / China (participate as a team adviser)
-   - **One of 16 teams among 82 international teams** selected through the preliminary contest
 - `Asia student Supercomputing Challenge 13 <http://www.asc-events.org/13en/index13en.php>`__ :: **Finalist**
-   - In Shanghai / China
-   - **One of 10 teams among 43 international teams** selected through the preliminary contest
 
 Hacking
 ~~~~~~~
 - `2013 Korea Whitehat Contest`_ :: **3rd place** ( `HeXA`_ )
-   - Held by Ministry of National Defense and National Intelligence Service
-   - Awarded by **the Minister of National Defense** (**국방부장관상**). Received an award of **$8,000**
+   - Awarded by **the Minister of National Defense** (**국방부 장관상**). Received an award of **$8,000**
 - `Holyshield 2013`_ :: **1st place** ( CodePink )
-   - Held by Catholic University of Korea
-   - Awarded by the President of Catholic University of Korea. Received an award of $1,000
+   - Received an award of $1,000
 - `2014 Korea Whitehat Contest`_ :: **Finalist** ( `HeXA`_ )
-   - Held by Ministry of National Defense and National Intelligence Service
-   - 5th place at preliminary contest
 
 Scholarships
 ~~~~~~~~~~~~
 - **Global Scholarship** for Undergraduate Research Opportunities Program, UNIST :: 2015
-   - Received $3,000 as a financial support for research internship at `Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__
 - National Science and Engineering Scholarship, Korean Student Aid Foundation :: 2013
 - Academic Performance Scholarship, UNIST :: 2011-2015
 
 ETC
 ~~~
-- **2016 Outstanding Graduate Award** (**미래창조과학부장관상**)
+- **2016 The Best Undergraduate Award** (**미래창조과학부장관상**)
    - **Chosen as one of all graduates**, awarded by **the Minister of Science and Future Planning**
 - 2014 Student Outstanding Contribution Award, awarded by the President of `UNIST`_
 - 2013 Student Outstanding Contribution Award, awarded by the President of `UNIST`_
@@ -145,17 +134,15 @@ Research Experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - *Reading documents for bayesian Online Change Point Detection* :: `EMNLP 2015 <https://www.cs.cmu.edu/~ark/EMNLP-2015/>`__ (23.5% a/r) :: [`PDF <http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
-- *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
-- *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
-- *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
+- *Korean poet generation with Deep Learning* :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
+- *Korean Sentiment Analyzer* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
+- *Food Image Recognition* :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
 
 
 `Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__, California, USA (2015.07 ~ 2015.09)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Summer Computer Science Student at Scientific Data Manage (`SDM <http://crd.lbl.gov/departments/data-science-and-technology/SDM/>`__) Group 
-- *Extracting Baseline Electricity Usage Using Gradient Tree Boosting* :: `DataCom 2015 <http://umc.uestc.edu.cn/conference/DataCom2015/>`__ :: [`PDF <https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf>`__]
-- *Behavior Analytics: Identify how characteristics and behaviors affected by energy saving in programs only from smart meter data*
+- *Predict electricity usage using gradient tree boosting* :: `DataCom 2015 <http://umc.uestc.edu.cn/conference/DataCom2015/>`__ :: [`PDF <https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf>`__]
 
 
 `Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ at UNIST (2013.01 ~ 2014.08)
@@ -174,26 +161,21 @@ Work Experience
 
 Software Engineer, `Devsisters <http://www.devsisters.com/>`__, Seoul, South Korea (2016.04 ~ )     
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Implement deep reinforcement learning models for fast balance tests (`DQN-tensorflow <https://github.com/devsisters/DQN-tensorflow>`__, `async-rl-tensorflow <https://github.com/devsisters/async-rl-tensorflow>`__)
-- Build a system for automated anomaly detection with time series datasets
-- Worked as a substitute of mandatory military service      
+- Deep reinforcement learning for automatic game balancing (`DQN-tensorflow <https://github.com/devsisters/DQN-tensorflow>`__, `async-rl-tensorflow <https://github.com/devsisters/async-rl-tensorflow>`__)
 
 Software Engineer, `Vingle <https://www.vingle.net/>`__, Seoul, South Korea (2015.10 ~ 2016.04)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Build a prediction model for age and gender only with the user's action pattern in the services
-- Build a personal push notification system and a statistical data visualization for push notification
-- Worked as a substitute of mandatory military service      
+- User activity prediction
+- Data Visualization
 
 Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Maximum-likelihood estimation of Downloading Mobile Application
-- Visualize Probability Distributions for Likelihood of Downloading Mobile Application
-- Enhanced a Google Play Store Crawler for Multi-Country Analysis
+- Mobile app download prediction
+- Data Visualization
 
 Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Build a Cloud Comment Hosting Service which is similar to Disqus
-- Got a 2014 Excellence Award, which was given to 3 selected interns
+- Web development
 
 
 .. raw:: html
@@ -206,7 +188,6 @@ Campus Activities
 
 President, `HeXA`_ (a computer security research group) at UNIST (2012.08 ~ 2013.03)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Lead and improve the club as a national competitive computer security club
 - Lead more than 10 different hacking competitions and international supercomputing competitons
 
 
@@ -318,7 +299,7 @@ Open Source Contribution
 .. raw:: html
 
    <div class="pure-g hidden">
-      <a class="reference external image-reference" target="_blank" href="http://github.com/carpedm20/ggomggom-email/"><img alt="LINE" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/email.png" style="width: 90%;"></a>
+      <!--<a class="reference external image-reference" target="_blank" href="http://github.com/carpedm20/ggomggom-email/"><img alt="LINE" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/email.png" style="width: 90%;"></a>-->
    </div>
 
 - `PaperTrend <https://github.com/aikorea/PaperTrend>`__ :: Analyzing Trends in Research Papers :: Flask & React.js
@@ -350,7 +331,7 @@ Open Source Contribution
    <div class="pure-g hidden">
       <a class="reference external image-reference" target="_blank" href="http://carpedm20.blogspot.kr/2013/08/blog-post.html" style="width: 100%;"><img alt="HeXA Bot" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/hexabot.png" style="width: 60%;"></a>
       <br/>
-      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/movieduk"><img alt="MovieDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/movieduk.png" style="width: 90%;"></a>
+     <!-- <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/movieduk"><img alt="MovieDuk" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/movieduk.png" style="width: 90%;"></a>-->
    </div>
 
 - `MovieDuk`_ :: Django
@@ -392,7 +373,33 @@ Presentations
 
 2016
 ~~~~
+
+- `딥러닝과 강화 학습으로 나보다 잘하는 쿠키런 AI 구현하기 <http://www.slideshare.net/carpedm20/ai-67616630>`__ (DEVIEW 2016, 16-10-25)
+
+.. raw:: html
+
+
+   <div class="pure-g hidden">
+      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/p9PGzCRWhLSX8D" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+   </div>
+
+- `지적 대화를 위한 깊고 넓은 딥러닝 <http://www.slideshare.net/carpedm20/pycon-korea-2016>`__ (PyCon APAC 2016, 16-08-14)
+
+.. raw:: html
+
+   <div class="pure-g hidden">
+      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/ot0exDi3XtZo0X" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+   </div>
+      
 - `텐서플로우 설치도 했고 튜토리얼도 봤고 기초 예제도 짜봤다면 <http://www.slideshare.net/carpedm20/ss-63116251>`__ (TensorFlow Korea meetup, 16-06-15)
+
+.. raw:: html
+
+   <div class="pure-g hidden">
+      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/nTFP6A0udS1l6P" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+   </div>
+
+
 - `Reinforcement Learning an introduction  <http://www.slideshare.net/carpedm20/reinforcement-learning-an-introduction-64037079>`__ (16-06-08)
 - `Continuous control with deep reinforcement learning (DDPG) <http://www.slideshare.net/carpedm20/continuous-control-with-deep-reinforcement-learning-ddpg>`__ (16-06-28)
 - `Dueling network architectures for deep reinforcement learning  <http://www.slideshare.net/carpedm20/dueling-network-architectures-for-deep-reinforcement-learning>`__ (16-06-28)
@@ -409,12 +416,6 @@ Skills
 
 - Programming: Python, Lua, Go, node.js, Ruby, Java, C++, C#
 - Human Languages: English - Professional working proficiency, Korean - Native
-
-ETC
----
-
-- Wrote a recommendation for the Korean version of `Twisted: Network Programming Essentials <http://www.amazon.com/Twisted-Network-Programming-Essentials-McKellar/dp/1449326110>`__
-   - `트위스티드: 파이썬 네트워크 프로그래밍 <http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261154>`__ 추천사 작성
 
 
 .. _carpedm20.com: http://carpedm20.com
