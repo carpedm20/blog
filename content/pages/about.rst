@@ -93,24 +93,35 @@ Machine Learning
 ~~~~~~~~~~~~~~~~
 
 - `DataCom 2015 Best Paper Award <http://sail.unist.ac.kr/paper-best-paper-award-from-datacom-2015-for-predicting-real-world-electricity-usages/>`__
+   - **T. Kim**, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, *Extracting Baseline Electricity Usage Using Gradient Tree Boosting*, in 1st Intl. Conf. Big Data Intelligence and Computing (`DataCom 2015 <http://umc.uestc.edu.cn/conference/DataCom2015/>`__). [`PDF <https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf>`__]
 
 Supercomputing
 ~~~~~~~~~~~~~~
 - `International Supercomputing Conference 14 Student Cluster Challenge <http://www.isc-events.com/isc14/student-cluster-competition.html>`__ :: **Finalist**
+   - In Leipzig / Germany
+   - **One of 11 undergraduate teams (including MIT, Tsinghua Univ)** selected through the preliminary contest
 - `Asia student Supercomputing Challenge 14 <http://www.asc-events.org/ASC14/index14en.php>`__ :: **Finalist**
+   - In Guangzhou / China (participate as a team adviser)
+   - **One of 16 teams among 82 international teams** selected through the preliminary contest
 - `Asia student Supercomputing Challenge 13 <http://www.asc-events.org/13en/index13en.php>`__ :: **Finalist**
+   - In Shanghai / China
+   - **One of 10 teams among 43 international teams** selected through the preliminary contest
 
 Hacking
 ~~~~~~~
 - `2013 Korea Whitehat Contest`_ :: **3rd place** ( `HeXA`_ )
+   - Held by Ministry of National Defense and National Intelligence Service
    - Awarded by **the Minister of National Defense** (**국방부 장관상**). Received an award of **$8,000**
 - `Holyshield 2013`_ :: **1st place** ( CodePink )
-   - Received an award of $1,000
+   - Awarded by the President of Catholic University of Korea. Received an award of $1,000
 - `2014 Korea Whitehat Contest`_ :: **Finalist** ( `HeXA`_ )
+   - Held by Ministry of National Defense and National Intelligence Service
+   - 5th place at preliminary contest
 
 Scholarships
 ~~~~~~~~~~~~
 - **Global Scholarship** for Undergraduate Research Opportunities Program, UNIST :: 2015
+   - Received $3,000 as a financial support for research internship at `Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__
 - National Science and Engineering Scholarship, Korean Student Aid Foundation :: 2013
 - Academic Performance Scholarship, UNIST :: 2011-2015
 
@@ -134,15 +145,17 @@ Research Experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - *Reading documents for bayesian Online Change Point Detection* :: `EMNLP 2015 <https://www.cs.cmu.edu/~ark/EMNLP-2015/>`__ (23.5% a/r) :: [`PDF <http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
-- *Korean poet generation with Deep Learning* :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
-- *Korean Sentiment Analyzer* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
-- *Food Image Recognition* :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
+- *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
+- *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
+- *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
 
 
 `Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__, California, USA (2015.07 ~ 2015.09)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- *Predict electricity usage using gradient tree boosting* :: `DataCom 2015 <http://umc.uestc.edu.cn/conference/DataCom2015/>`__ :: [`PDF <https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf>`__]
+- Research Internship at Scientific Data Manage (`SDM <http://crd.lbl.gov/departments/data-science-and-technology/SDM/>`__) Group
+- *Extracting Baseline Electricity Usage Using Gradient Tree Boosting* :: `DataCom 2015 <http://umc.uestc.edu.cn/conference/DataCom2015/>`__ :: [`PDF <https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf>`__]
+- *Behavior Analytics: Identify how characteristics and behaviors affected by energy saving in programs only from smart meter data*
 
 
 `Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ at UNIST (2013.01 ~ 2014.08)
@@ -162,20 +175,25 @@ Work Experience
 Software Engineer, `Devsisters <http://www.devsisters.com/>`__, Seoul, South Korea (2016.04 ~ )     
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Deep reinforcement learning for automatic game balancing (`DQN-tensorflow <https://github.com/devsisters/DQN-tensorflow>`__, `async-rl-tensorflow <https://github.com/devsisters/async-rl-tensorflow>`__)
+- Build a system for automated anomaly detection with time series datasets
+- Worked as a substitute of mandatory military service
 
 Software Engineer, `Vingle <https://www.vingle.net/>`__, Seoul, South Korea (2015.10 ~ 2016.04)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- User activity prediction
-- Data Visualization
+- Build a prediction model for age and gender only with the user's action pattern in the services
+- Build a personal push notification system and a statistical data visualization for push notification
+  rked as a substitute of mandatory military service
 
 Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Mobile app download prediction
-- Data Visualization
+- Maximum-likelihood estimation of Downloading Mobile Application
+- Visualize Probability Distributions for Likelihood of Downloading Mobile Application
+- Enhanced a Google Play Store Crawler for Multi-Country Analysis
 
 Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Web development
+- Build a Cloud Comment Hosting Service which is similar to Disqus
+- Got a 2014 Excellence Award, which was given to 3 selected interns
 
 
 .. raw:: html
@@ -188,6 +206,7 @@ Campus Activities
 
 President, `HeXA`_ (a computer security research group) at UNIST (2012.08 ~ 2013.03)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+- Lead and improve the club as a national competitive computer security club
 - Lead more than 10 different hacking competitions and international supercomputing competitons
 
 
