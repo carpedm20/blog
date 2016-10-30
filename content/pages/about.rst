@@ -393,7 +393,7 @@ Presentations
 2016
 ~~~~
 
-- `딥러닝과 강화 학습으로 나보다 잘하는 쿠키런 AI 구현하기 <http://www.slideshare.net/carpedm20/ai-67616630>`__ (DEVIEW 2016, 16-10-25)
+- `딥러닝과 강화 학습으로 나보다 잘하는 쿠키런 AI 구현하기 <http://www.slideshare.net/carpedm20/ai-67616630>`__ (`DEVIEW 2016 <https://deview.kr/2016/>`__, 16-10-25)
 
 .. raw:: html
 
@@ -402,7 +402,7 @@ Presentations
       <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/p9PGzCRWhLSX8D" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
    </div>
 
-- `지적 대화를 위한 깊고 넓은 딥러닝 <http://www.slideshare.net/carpedm20/pycon-korea-2016>`__ (PyCon APAC 2016, 16-08-14)
+- `지적 대화를 위한 깊고 넓은 딥러닝 <http://www.slideshare.net/carpedm20/pycon-korea-2016>`__ (`PyCon APAC 2016 <https://www.pycon.kr/2016apac/>`__, 16-08-14)
 
 .. raw:: html
 
