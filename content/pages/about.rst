@@ -226,10 +226,11 @@ Personal Projects
 Machine Learning
 ~~~~~~~~~~~~~~~~
 
-- **DCGAN-tensorflow** :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434v1>`__ in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__ :: `demo <http://carpedm20.github.io/faces/>`__
+- **DCGAN-tensorflow** :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434>`__ in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__ :: `demo <http://carpedm20.github.io/faces/>`__
 - **visual-analogy-tensorflow** :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
+- **simulated-unsupervised-tensorflow** :: `Simulated and Unsupervised Images through Adversarial Training <https://arxiv.org/abs/1612.07828>`__ in Tensorflow :: `code <https://github.com/carpedm20/simulated-unsupervised-tensorflow>`__
 - **pixel-rnn-tensorflow** :: `Pixel Recurrent Neural Networks <https://arxiv.org/abs/1601.06759>`__ in Tensorflow :: `code <https://github.com/carpedm20/pixel-rnn-tensorflow/>`__
-- **MemN2N-tensorflow** :: `End-To-End Memory Network <http://arxiv.org/abs/1503.08895v4>`__ in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
+- **MemN2N-tensorflow** :: `End-To-End Memory Network <http://arxiv.org/abs/1503.08895>`__ in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
 - **NTM-tensorflow** :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
 - **DQN-tensorflow** :: `Human-Level Control through Deep Reinforcement Learning <http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf>`__ in Tensorflow :: `code <https://github.com/devsisters/DQN-tensorflow/>`__
 - **deep-rl-tensorflow** :: 1) `Prioritized <http://arxiv.org/abs/1511.05952>`__ 2) `Deuling <http://arxiv.org/abs/1511.06581>`__ 3) `Double <http://arxiv.org/abs/1509.06461>`__ 4) `DQN <https://arxiv.org/abs/1312.5602>`__ in Tensorflow :: `code <https://github.com/carpedm20/deep-rl-tensorflow/>`__
@@ -237,7 +238,7 @@ Machine Learning
 - **async-rl-tensorflow** :: `Asynchronous Methods for Deep Reinforcement Learning <http://arxiv.org/abs/1602.01783>`__ in Tensorflow :: `code <https://github.com/devsisters/async-rl-tensorflow/>`__
 - variational-text-tensorflow :: `Neural Variational Inference for Text Processing <http://arxiv.org/abs/1511.06038>`__ in Tensorflow :: `code <https://github.com/carpedm20/variational-text-tensorflow>`__
 - lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
-- attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/pdf/1506.03340v3.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__
+- attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/abs/1506.03340>`__ in Tensorflow :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__
 - text-based-game-rl-tensorflow :: `Language Understanding for Text-based Games using Deep Reinforcement Learning <http://arxiv.org/abs/1506.08941>`__ in Tensorflow :: `code <https://github.com/carpedm20/text-based-game-rl-tensorflow>`__
 
 
