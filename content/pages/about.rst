@@ -174,8 +174,8 @@ Work Experience
 
 Software Engineer, `Devsisters <http://www.devsisters.com/>`__, Seoul, South Korea (2016.04 ~ )     
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Deep reinforcement learning for automatic game balancing (`DQN-tensorflow <https://github.com/devsisters/DQN-tensorflow>`__, `async-rl-tensorflow <https://github.com/devsisters/async-rl-tensorflow>`__)
-- Build a system for automated anomaly detection with time series datasets
+- Trained multiple agents for each characters with Double q-learning, Dueling network, Prioritized replay memory and used prediction on dangerous and beneficial events as intrinsic rewards. (`DQN-tensorflow <https://github.com/devsisters/DQN-tensorflow>`__, `async-rl-tensorflow <https://github.com/devsisters/async-rl-tensorflow>`__)
+- Implemented Progressive Network to leverage transfer learning by training multiple networks that have connections from a pre-trained network that is trained with a character without any skills.
 - Worked as a substitute of mandatory military service
 
 Software Engineer, `Vingle <https://www.vingle.net/>`__, Seoul, South Korea (2015.10 ~ 2016.04)
@@ -236,6 +236,7 @@ Machine Learning
 - **deep-rl-tensorflow** :: 1) `Prioritized <http://arxiv.org/abs/1511.05952>`__ 2) `Deuling <http://arxiv.org/abs/1511.06581>`__ 3) `Double <http://arxiv.org/abs/1509.06461>`__ 4) `DQN <https://arxiv.org/abs/1312.5602>`__ in Tensorflow :: `code <https://github.com/carpedm20/deep-rl-tensorflow/>`__
 - **NAF-tensorflow** :: `Continuous Deep q-Learning with Model-based Acceleration <http://arxiv.org/abs/1603.00748>`__ in Tensorflow :: `code <https://github.com/carpedm20/NAF-tensorflow/>`__
 - **async-rl-tensorflow** :: `Asynchronous Methods for Deep Reinforcement Learning <http://arxiv.org/abs/1602.01783>`__ in Tensorflow :: `code <https://github.com/devsisters/async-rl-tensorflow/>`__
+- neural-combinatorial-rl :: `Neural Combinatorial Optimization with Reinforcement Learning <http://arxiv.org/abs/1611.09940>`__ in TensorFlow :: `code <https://github.com/devsisters/neural-combinatorial-rl-tensorflow>`__
 - variational-text-tensorflow :: `Neural Variational Inference for Text Processing <http://arxiv.org/abs/1511.06038>`__ in Tensorflow :: `code <https://github.com/carpedm20/variational-text-tensorflow>`__
 - lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
 - attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/abs/1506.03340>`__ in Tensorflow :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__
