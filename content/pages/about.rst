@@ -174,7 +174,7 @@ Work Experience
 
 Software Engineer, `Devsisters <http://www.devsisters.com/>`__, Seoul, South Korea (2016.04 ~ )     
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Trained multiple agents for each characters with Double q-learning, Dueling network, Prioritized replay memory and used prediction on dangerous and beneficial events as intrinsic rewards. (`DQN-tensorflow <https://github.com/devsisters/DQN-tensorflow>`__, `async-rl-tensorflow <https://github.com/devsisters/async-rl-tensorflow>`__)
+- Trained multiple agents for each characters with Double q-learning, Dueling network, Prioritized replay memory and used prediction on dangerous and beneficial events as intrinsic rewards. (`DQN-tensorflow <https://github.com/devsisters/DQN-tensorflow>`__)
 - Implemented Progressive Network to leverage transfer learning by training multiple networks that have connections from a pre-trained network that is trained with a character without any skills.
 - Worked as a substitute of mandatory military service
 
