@@ -41,7 +41,7 @@ Interests
 
 Current
 ~~~~~~~
-- Reinforcement Learning, Generative Model, Algorithm Learning
+- Reinforcement Learning, Computer vision, Machine learning
 
 
 Old
