@@ -236,10 +236,10 @@ Machine Learning
 - **NTM-tensorflow** :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
 - **DQN-tensorflow** :: `Human-Level Control through Deep Reinforcement Learning <http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf>`__ in Tensorflow :: `code <https://github.com/devsisters/DQN-tensorflow/>`__
 - **deep-rl-tensorflow** :: 1) `Prioritized <http://arxiv.org/abs/1511.05952>`__ 2) `Deuling <http://arxiv.org/abs/1511.06581>`__ 3) `Double <http://arxiv.org/abs/1509.06461>`__ 4) `DQN <https://arxiv.org/abs/1312.5602>`__ in Tensorflow :: `code <https://github.com/carpedm20/deep-rl-tensorflow/>`__
+- **pointer-network-tensorflow** :: `Pointer Network <https://arxiv.org/abs/1506.03134>`__ in TensorFlow :: `code <https://github.com/devsisters/pointer-network-tensorflow>`__
 - **NAF-tensorflow** :: `Continuous Deep q-Learning with Model-based Acceleration <http://arxiv.org/abs/1603.00748>`__ in Tensorflow :: `code <https://github.com/carpedm20/NAF-tensorflow/>`__
 - **async-rl-tensorflow** :: `Asynchronous Methods for Deep Reinforcement Learning <http://arxiv.org/abs/1602.01783>`__ in Tensorflow :: `code <https://github.com/devsisters/async-rl-tensorflow/>`__
 - neural-combinatorial-rl :: `Neural Combinatorial Optimization with RL <http://arxiv.org/abs/1611.09940>`__ in TensorFlow :: `code <https://github.com/devsisters/neural-combinatorial-rl-tensorflow>`__
-- pointer-network-rl :: `Pointer Network <https://arxiv.org/abs/1506.03134>`__ in TensorFlow :: `code <https://github.com/devsisters/pointer-network-tensorflow>`__
 - variational-text-tensorflow :: `Neural Variational Inference for Text Processing <http://arxiv.org/abs/1511.06038>`__ in Tensorflow :: `code <https://github.com/carpedm20/variational-text-tensorflow>`__
 - lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
 - attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/abs/1506.03340>`__ in Tensorflow :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__
