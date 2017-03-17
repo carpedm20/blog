@@ -230,6 +230,7 @@ Machine Learning
 - **DCGAN-tensorflow** :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434>`__ in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__ :: `demo <http://carpedm20.github.io/faces/>`__
 - **visual-analogy-tensorflow** :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
 - **simulated-unsupervised-tensorflow** :: `Simulated and Unsupervised learning with GAN <https://arxiv.org/abs/1612.07828>`__ in Tensorflow :: `code <https://github.com/carpedm20/simulated-unsupervised-tensorflow>`__
+- **DiscoGAN-tensorflow** :: `Discover Cross-Domain Relations with GAN <https://arxiv.org/abs/1703.05192>`__ in PyTorch:: `code <https://github.com/carpedm20/DiscoGAN-pytorch>`__
 - **pixel-rnn-tensorflow** :: `Pixel Recurrent Neural Networks <https://arxiv.org/abs/1601.06759>`__ in Tensorflow :: `code <https://github.com/carpedm20/pixel-rnn-tensorflow/>`__
 - **MemN2N-tensorflow** :: `End-To-End Memory Network <http://arxiv.org/abs/1503.08895>`__ in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
 - **NTM-tensorflow** :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
