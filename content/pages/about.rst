@@ -20,7 +20,7 @@ Profile
    <ul class="simple">
       <li>B.S. in Electrical and Computer Engineering from <a class="reference external" href="http://www.unist.ac.kr/">UNIST</a></li>
       <li style="font-size: 0.8em;">(with <b>The Best Undergraduate Award</b> from the Minister of Science, ICT and Future Planning (미래창조과학부 장관상))</li>
-      <li>Serving a mandatory military service and it ends at Aug. 2018</li>
+      <li>Serving a mandatory military service and it ends Aug. 2018</li>
       <li>CV : <a class="reference external" target="_blank" href="https://github.com/carpedm20/blog/raw/master/content/Taehoon_Kim_short_CV_dev.pdf">[PDF]</a></li>
    </ul>
 
