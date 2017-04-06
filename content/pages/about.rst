@@ -20,7 +20,7 @@ Profile
    <ul class="simple">
       <li>B.S. in Electrical and Computer Engineering from <a class="reference external" href="http://www.unist.ac.kr/">UNIST</a></li>
       <li style="font-size: 0.8em;">(with <b>The Best Undergraduate Award</b> from the Minister of Science, ICT and Future Planning (미래창조과학부 장관상))</li>
-      <li>Serving a mandatory military service and it ends at Aug. 2018</li>
+      <li>Serving a mandatory military service and it ends Aug. 2018</li>
       <li>CV : <a class="reference external" target="_blank" href="https://github.com/carpedm20/blog/raw/master/content/Taehoon_Kim_short_CV_dev.pdf">[PDF]</a></li>
    </ul>
 
@@ -172,7 +172,7 @@ Research Experience
 Work Experience
 -----------------
 
-Software Engineer, `Devsisters <http://www.devsisters.com/>`__, Seoul, South Korea (2016.04 ~ )     
+Research Engineer, `Devsisters <http://www.devsisters.com/>`__, Seoul, South Korea (2016.04 ~ )     
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Trained multiple agents for each characters with Double q-learning, Dueling network, Prioritized replay memory and used prediction on dangerous and beneficial events as intrinsic rewards.
 - Implemented Progressive Network to leverage transfer learning by training multiple networks that have connections from a pre-trained network that is trained with a character without any skills.
