@@ -240,7 +240,7 @@ Generative Models
       </a>
       <br/>
       <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/DiscoGAN-pytorch" style="width: 100%;">
-         <img alt="DiscoGAN" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/DiscoGAN.png" style="width: 90%;">
+         <img alt="DiscoGAN" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/DiscoGAN2.png" style="width: 90%;">
       </a>
    </div>
 
