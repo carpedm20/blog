@@ -230,6 +230,14 @@ Machine Learning
 Generative Models
 +++++++++++++++++
 
+.. raw:: html
+
+   <div class="pure-g hidden">
+      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/BEGAN-tensorflow"><img alt="BEGAN" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/BEGAN.png" style="width: 90%;"></a>
+      <br/>
+      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/DiscoGAN-pytorch"><img alt="DiscoGAN" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/DiscoGAN.png" style="width: 90%;"></a>
+   </div>
+
 - **DCGAN-tensorflow** :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434>`__ in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__ :: `demo <http://carpedm20.github.io/faces/>`__
 - **simulated-unsupervised-tensorflow** :: `Simulated and Unsupervised learning with GAN <https://arxiv.org/abs/1612.07828>`__ in Tensorflow :: `code <https://github.com/carpedm20/simulated-unsupervised-tensorflow>`__
 - **DiscoGAN-pytorch** :: `Discover Cross-Domain Relations with GAN <https://arxiv.org/abs/1703.05192>`__ in PyTorch:: `code <https://github.com/carpedm20/DiscoGAN-pytorch>`__
