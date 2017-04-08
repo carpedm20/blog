@@ -231,12 +231,12 @@ Generative Models
 +++++++++++++++++
 
 - **DCGAN-tensorflow** :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434>`__ in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__ :: `demo <http://carpedm20.github.io/faces/>`__
-- **visual-analogy-tensorflow** :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
 - **simulated-unsupervised-tensorflow** :: `Simulated and Unsupervised learning with GAN <https://arxiv.org/abs/1612.07828>`__ in Tensorflow :: `code <https://github.com/carpedm20/simulated-unsupervised-tensorflow>`__
 - **DiscoGAN-pytorch** :: `Discover Cross-Domain Relations with GAN <https://arxiv.org/abs/1703.05192>`__ in PyTorch:: `code <https://github.com/carpedm20/DiscoGAN-pytorch>`__
 - **BEGAN-tensorflow** :: `Boundary Equilibrium GAN <https://arxiv.org/abs/1703.10717>`__ in Tensorflow :: `code <https://github.com/carpedm20/BEGAN-tensorflow>`__
 - **BEGAN-pytorch** :: `Boundary Equilibrium GAN <https://arxiv.org/abs/1703.10717>`__ in PyTorch :: `code <https://github.com/carpedm20/BEGAN-pytorch>`__
 - **pixel-rnn-tensorflow** :: `Pixel Recurrent Neural Networks <https://arxiv.org/abs/1601.06759>`__ in Tensorflow :: `code <https://github.com/carpedm20/pixel-rnn-tensorflow/>`__
+- **visual-analogy-tensorflow** :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
 
 Reinforcement Learning
 ++++++++++++++++++++++
