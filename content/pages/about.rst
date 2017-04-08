@@ -233,9 +233,15 @@ Generative Models
 .. raw:: html
 
    <div class="pure-g hidden">
-      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/BEGAN-tensorflow"><img alt="BEGAN" class="align-center" src="https://github.com/carpedm20/BEGAN-tensorflow/raw/master/assets/AE_batch.png" style="width: 90%;"></a>
+      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/BEGAN-tensorflow" style="width: 100%;">
+         <img alt="BEGAN" class="align-center" src="https://github.com/carpedm20/BEGAN-tensorflow/raw/master/assets/interp_1.png" style="width: 90%;">
+         <img alt="BEGAN" class="align-center" src="https://github.com/carpedm20/BEGAN-tensorflow/raw/master/assets/interp_3.png" style="width: 90%;">
+         <img alt="BEGAN" class="align-center" src="https://github.com/carpedm20/BEGAN-tensorflow/raw/master/assets/interp_4.png" style="width: 90%;">
+      </a>
       <br/>
-      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/DiscoGAN-pytorch"><img alt="DiscoGAN" class="align-center" src="https://pbs.twimg.com/media/C7Nqb2WV0AE9ANF.jpg:large" style="width: 90%;"></a>
+      <a class="reference external image-reference" target="_blank" href="https://github.com/carpedm20/DiscoGAN-pytorch" style="width: 100%;">
+         <img alt="DiscoGAN" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/DiscoGAN.png" style="width: 90%;">
+      </a>
    </div>
 
 - **DCGAN-tensorflow** :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434>`__ in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__ :: `demo <http://carpedm20.github.io/faces/>`__
