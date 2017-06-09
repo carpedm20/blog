@@ -56,18 +56,6 @@ Old
 Publications
 ------------
 
-Journals
-~~~~~~~~
-
-.. raw:: html
-
-   <ul class="simple">
-   <dd>
-   <li>[1] <strong>T. Kim</strong>, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Predicting Baseline for Analysis of Electricity Pricing</em>, in International Journal of Big Data Intelligence, accepted for publication, 2016. [<a class="reference external" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2773991">PDF</a>]</li>
-   <li>[2] J. Lee, K. Lee, C. Han, <strong>T. Kim</strong>, and S. Chong, <em>Resource-efficient Mobile Multimedia Streaming with Adaptive Network Selection</em>, in IEEE Transactions on Multimedia (IF: 2.536), accepted for publication, 2016.</li>
-   </dd>
-   </ul>
-
 Conferences
 ~~~~~~~~~~~
 
@@ -75,8 +63,8 @@ Conferences
 
    <ul class="simple">
    <dd>
-   <li>[3] <strong>T. Kim</strong>, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Extracting Baseline Electricity Usage Using Gradient Tree Boosting</em>, in 1st Intl. Conf. Big Data Intelligence and Computing (<a class="reference external" href="http://umc.uestc.edu.cn/conference/DataCom2015/">DataCom 2015</a>). Chengdu, China, Dec. 2015. [<a class="reference external" href="https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf">PDF</a>]</li>
-   <li>[4] <strong>T. Kim</strong>, and J. Choi, <em>Reading documents for bayesian Online Change Point Detection</em>, in Empirical Methods on Natural Language Processing (<a class="reference external" href="http://www.emnlp2015.org/"><b class="black">EMNLP 2015</b></a>) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [<a class="reference external" href="http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf">PDF</a>]</li>
+   <li>[1] <strong>T. Kim</strong>, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Extracting Baseline Electricity Usage Using Gradient Tree Boosting</em>, in 1st Intl. Conf. Big Data Intelligence and Computing (<a class="reference external" href="http://umc.uestc.edu.cn/conference/DataCom2015/">DataCom 2015</a>). Chengdu, China, Dec. 2015. [<a class="reference external" href="https://sdm.lbl.gov/perf/DataCom2015-91-final.pdf">PDF</a>]</li>
+   <li>[2] <strong>T. Kim</strong>, and J. Choi, <em>Reading documents for bayesian Online Change Point Detection</em>, in Empirical Methods on Natural Language Processing (<a class="reference external" href="http://www.emnlp2015.org/"><b class="black">EMNLP 2015</b></a>) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [<a class="reference external" href="http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf">PDF</a>]</li>
    </dd>
    </ul>
 
@@ -84,6 +72,19 @@ Conferences
 
    <br>
    <hr>
+
+
+Journals
+~~~~~~~~
+
+.. raw:: html
+
+   <ul class="simple">
+   <dd>
+   <li>[3] <strong>T. Kim</strong>, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Predicting Baseline for Analysis of Electricity Pricing</em>, in International Journal of Big Data Intelligence, 2016. [<a class="reference external" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2773991">PDF</a>]</li>
+   <li>[4] J. Lee, K. Lee, C. Han, <strong>T. Kim</strong>, and S. Chong, <em>Resource-efficient Mobile Multimedia Streaming with Adaptive Network Selection</em>, in IEEE Transactions on Multimedia (IF: 2.536), 2016.</li>
+   </dd>
+   </ul>
 
 
 Awards
@@ -141,13 +142,18 @@ ETC
 Research Experience
 ---------------------
 
-`Statistical Artificial Intelligence Lab <http://sail.unist.ac.kr/>`__ at UNIST (2014.09 ~ 2015.10)
+`Statistical Artificial Intelligence Lab <http://people.csail.mit.edu/lim/>`__ @ USC (2016.12 ~ )
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Joint research with `Devsisters <http://www.devsisters.com/>`__ about *Hierarchical Reinforcement Learning* :: [PDF]
+
+
+`Statistical Artificial Intelligence Lab <http://sail.unist.ac.kr/>`__ @ UNIST (2014.09 ~ 2015.10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - *Reading documents for bayesian Online Change Point Detection* :: `EMNLP 2015 <https://www.cs.cmu.edu/~ark/EMNLP-2015/>`__ (23.5% a/r) :: [`PDF <http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
-- *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
+- *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ 
 - *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
-- *Food Image Recognition: Combination of Deep Convolutional Features and Shallow Encoded Features* :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
 
 
 `Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__, California, USA (2015.07 ~ 2015.09)
@@ -174,22 +180,20 @@ Work Experience
 
 Research Engineer, `Devsisters <http://www.devsisters.com/>`__, Seoul, South Korea (2016.04 ~ )     
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Trained multiple agents for each characters with Double q-learning, Dueling network, Prioritized replay memory and used prediction on dangerous and beneficial events as intrinsic rewards.
-- Implemented Progressive Network to leverage transfer learning by training multiple networks that have connections from a pre-trained network that is trained with a character without any skills.
+- Propose an attention-based Reinforcement Learning (RL) model to solve hierarchical RL problems guided by step-by-step manuals (collaborate research with `Research group @ USC <http://people.csail.mit.edu/lim/>`__)
+- Build automatic game balancing framework with Double Q-learning, Dueling network, Prioritized replay memory and used prediction on beneficial and dangerous events as intrinsic rewards
 - `DQN-tensorflow <https://github.com/devsisters/DQN-tensorflow>`__, `neural-combinatorial-rl-tensorflow <https://github.com/devsisters/neural-combinatorial-rl-tensorflow>`__, `pointer-network-tensorflow <https://github.com/devsisters/pointer-network-tensorflow>`__
-- Worked as a substitute of mandatory military service
+- Working as a substitute of mandatory military service
 
 Software Engineer, `Vingle <https://www.vingle.net/>`__, Seoul, South Korea (2015.10 ~ 2016.04)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Build a prediction model for age and gender only with the user's action pattern in the services
-- Build a personal push notification system and a statistical data visualization for push notification
-  rked as a substitute of mandatory military service
+- Worked as a substitute of mandatory military service
 
 Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Maximum-likelihood estimation of Downloading Mobile Application
-- Visualize Probability Distributions for Likelihood of Downloading Mobile Application
-- Enhanced a Google Play Store Crawler for Multi-Country Analysis
+- Real-time visualization from a large-scale database with query optimization and a cache system
 
 Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
