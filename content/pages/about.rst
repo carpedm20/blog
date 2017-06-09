@@ -157,7 +157,7 @@ Research Experience
 - *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 
 
-`Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__, California, USA (2015.07 ~ 2015.09)
+`Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__ (2015.07 ~ 2015.09)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Research Internship at Scientific Data Manage (`SDM <http://crd.lbl.gov/departments/data-science-and-technology/SDM/>`__) Group
@@ -165,7 +165,7 @@ Research Experience
 - *Behavior Analytics: Identify how characteristics and behaviors affected by energy saving in programs only from smart meter data*
 
 
-`Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ at UNIST (2013.01 ~ 2014.08)
+`Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ @ UNIST (2013.01 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Optimizing Mobile Video Streaming: From Context-aware Scheduling to Cloud-assisted Caching*
 - *Optimizing Mobile Web browsing: Through Page Caching in Local Access Point*
@@ -179,14 +179,14 @@ Research Experience
 Work Experience
 -----------------
 
-Research Engineer, `Devsisters <http://www.devsisters.com/>`__, Seoul, South Korea (2016.04 ~ )     
+Research Engineer, `Devsisters <http://www.devsisters.com/>`__ (2016.04 ~ )     
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Propose an attention-based Reinforcement Learning (RL) model to solve hierarchical RL problems guided by step-by-step manuals (collaborate research with `Research group @ USC <http://people.csail.mit.edu/lim/>`__)
 - Build automatic game balancing framework with Double Q-learning, Dueling network, Prioritized replay memory and used prediction on beneficial and dangerous events as intrinsic rewards
 - `DQN-tensorflow <https://github.com/devsisters/DQN-tensorflow>`__, `neural-combinatorial-rl-tensorflow <https://github.com/devsisters/neural-combinatorial-rl-tensorflow>`__, `pointer-network-tensorflow <https://github.com/devsisters/pointer-network-tensorflow>`__
 - Working as a substitute of mandatory military service
 
-Software Engineer, `Vingle <https://www.vingle.net/>`__, Seoul, South Korea (2015.10 ~ 2016.04)
+Software Engineer, `Vingle <https://www.vingle.net/>`__ (2015.10 ~ 2016.04)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Build a prediction model for age and gender only with the user's action pattern in the services
 - Worked as a substitute of mandatory military service
@@ -196,7 +196,7 @@ Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
 - Maximum-likelihood estimation of Downloading Mobile Application
 - Real-time visualization from a large-scale database with query optimization and a cache system
 
-Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
+Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Build a Cloud Comment Hosting Service which is similar to Disqus
 - Got a 2014 Excellence Award, which was given to 3 selected interns
@@ -210,7 +210,7 @@ Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
 Campus Activities
 ---------------------
 
-President, `HeXA`_ (a computer security research group) at UNIST (2012.08 ~ 2013.03)
+President, `HeXA`_ (a computer security research group) @ UNIST (2012.08 ~ 2013.03)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Lead and improve the club as a national competitive computer security club
 - Lead more than 10 different hacking competitions and international supercomputing competitons
