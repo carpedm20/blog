@@ -142,10 +142,11 @@ ETC
 Research Experience
 ---------------------
 
-`Statistical Artificial Intelligence Lab <http://people.csail.mit.edu/lim/>`__ @ USC (2016.12 ~ )
+`Research Group <http://people.csail.mit.edu/lim/>`__ @ USC (2016.12 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Joint research with `Devsisters <http://www.devsisters.com/>`__ about *Hierarchical Reinforcement Learning* :: [PDF]
+- Under the supervision of Prof. `Joseph Lim <http://people.csail.mit.edu/lim/>`__
 
 
 `Statistical Artificial Intelligence Lab <http://sail.unist.ac.kr/>`__ @ UNIST (2014.09 ~ 2015.10)
