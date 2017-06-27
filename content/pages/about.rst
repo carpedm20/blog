@@ -317,8 +317,8 @@ Hacked services
    </div>
    <div class="visible">
       <ul class="simple">
-      <li>LINE :: Mobile Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/LINE">PoC</a> :: <a class="reference external" href="https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf">PPT</a></li>
-      <li>KakaoTalk :: Mobile Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/kakaotalk">PoC</a> :: <a class="reference external" href="https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf">PPT</a></li>
+      <li>LINE :: Mobile Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/LINE">PoC</a> :: <a class="reference external" href="https://www.slideshare.net/carpedm20/ss-77283569">PPT</a></li>
+      <li>KakaoTalk :: Mobile Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/kakaotalk">PoC</a> :: <a class="reference external" href="https://www.slideshare.net/carpedm20/ss-77283569">PPT</a></li>
       <li>Between :: Windows Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/between">PoC</a></li>
       <li>Ndrive :: Web Protocol Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/ndrive">PoC</a></li>
       <li>Korail :: Mobile Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/korail2">PoC</a></li>
