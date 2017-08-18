@@ -87,6 +87,8 @@ Journals
 
 
 .. raw:: html
+
+   <br>
    <hr>
 
 
