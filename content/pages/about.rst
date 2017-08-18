@@ -431,6 +431,18 @@ Facebook bot
 Presentations
 -------------
 
+2017
+~~~~
+
+- `알아두면 쓸데있는 신기한 강화학습 <https://www.slideshare.net/carpedm20/naver-2017>`__ (NAVER Seminar 2017, 17-08-16)
+
+.. raw:: html
+
+
+   <div class="pure-g hidden">
+      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/1VODk8OC1fsZ3K" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+   </div>
+
 2016
 ~~~~
 
