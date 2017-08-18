@@ -71,7 +71,6 @@ Conferences
 .. raw:: html
 
    <br>
-   <hr>
 
 
 Journals
@@ -85,6 +84,10 @@ Journals
    <li>[4] J. Lee, K. Lee, C. Han, <strong>T. Kim</strong>, and S. Chong, <em>Resource-efficient Mobile Multimedia Streaming with Adaptive Network Selection</em>, in IEEE Transactions on Multimedia (IF: 2.536), 2016.</li>
    </dd>
    </ul>
+
+
+.. raw:: html
+   <hr>
 
 
 Awards
