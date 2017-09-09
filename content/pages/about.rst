@@ -439,6 +439,14 @@ Presentations
 2017
 ~~~~
 
+- `책 읽어주는 딥러닝 <https://deview.kr/2017/schedule/182>`__ (`DEVIEW 2017 <https://deview.kr/2017/>`__, 17-10-16)
+
+.. raw:: html
+
+   <div class="pure-g hidden">
+      TBA
+   </div>
+
 - `알아두면 쓸데있는 신기한 강화학습 <https://www.slideshare.net/carpedm20/naver-2017>`__ (NAVER Seminar 2017, 17-08-16)
 
 .. raw:: html
@@ -451,7 +459,7 @@ Presentations
 2016
 ~~~~
 
-- `딥러닝과 강화 학습으로 나보다 잘하는 쿠키런 AI 구현하기 <http://www.slideshare.net/carpedm20/ai-67616630>`__ (`DEVIEW 2016 <https://deview.kr/2016/>`__, 16-10-25)
+- `딥러닝과 강화 학습으로 나보다 잘하는 쿠키런 AI 구현하기 <https://deview.kr/2016/schedule#session/150>`__ (`DEVIEW 2016 <https://deview.kr/2016/>`__, 16-10-25)
 
 .. raw:: html
 
