@@ -439,7 +439,7 @@ Presentations
 2017
 ~~~~
 
-- `책 읽어주는 딥러닝 <https://deview.kr/2017/schedule/182>`__ (`DEVIEW 2017 <https://deview.kr/2017>`__, 17-10-16)
+- `책 읽어주는 딥러닝: 배우 유인나가 해리포터를 읽어준다면 <https://deview.kr/2017/schedule/182>`__ (`DEVIEW 2017 <https://deview.kr/2017>`__, 17-10-16)
 
 .. raw:: html
 
