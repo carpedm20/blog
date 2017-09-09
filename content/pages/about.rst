@@ -262,6 +262,7 @@ Generative Models
 - **pixel-rnn-tensorflow** :: `Pixel Recurrent Neural Networks <https://arxiv.org/abs/1601.06759>`__ in Tensorflow :: `code <https://github.com/carpedm20/pixel-rnn-tensorflow/>`__
 - **visual-analogy-tensorflow** :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
 
+
 Reinforcement Learning
 ++++++++++++++++++++++
 
@@ -271,6 +272,7 @@ Reinforcement Learning
 - **a3c-tensorflow** :: `Asynchronous Methods for Deep Reinforcement Learning <http://arxiv.org/abs/1602.01783>`__ in Tensorflow :: `code <https://github.com/carpedm20/a3c-tensorflow/>`__
 - text-based-game-rl-tensorflow :: `Language Understanding for Text-based Games using Deep Reinforcement Learning <http://arxiv.org/abs/1506.08941>`__ in Tensorflow :: `code <https://github.com/carpedm20/text-based-game-rl-tensorflow>`__
 
+
 NLP
 +++
 
@@ -278,6 +280,19 @@ NLP
 - variational-text-tensorflow :: `Neural Variational Inference for Text Processing <http://arxiv.org/abs/1511.06038>`__ in Tensorflow :: `code <https://github.com/carpedm20/variational-text-tensorflow>`__
 - lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
 - attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/abs/1506.03340>`__ in Tensorflow :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__
+
+
+Speech Synthesis
+++++++++++++++++
+
+- **improved-tacotron-tensorflow** :: `Tacotron: Towards End-to-End Speech Synthesis <https://arxiv.org/abs/1703.10135>`__ in Tensorflow :: code
+
+.. raw:: html
+
+   <div class="pure-g">
+      <iframe class="align-center" width="595" height="300" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/351343323&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+   </div>
+
 
 ETC
 +++
