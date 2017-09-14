@@ -71,7 +71,6 @@ Conferences
 .. raw:: html
 
    <br>
-   <hr>
 
 
 Journals
@@ -85,6 +84,12 @@ Journals
    <li>[4] J. Lee, K. Lee, C. Han, <strong>T. Kim</strong>, and S. Chong, <em>Resource-efficient Mobile Multimedia Streaming with Adaptive Network Selection</em>, in IEEE Transactions on Multimedia (IF: 2.536), 2016.</li>
    </dd>
    </ul>
+
+
+.. raw:: html
+
+   <br>
+   <hr>
 
 
 Awards
@@ -142,10 +147,11 @@ ETC
 Research Experience
 ---------------------
 
-`Statistical Artificial Intelligence Lab <http://people.csail.mit.edu/lim/>`__ @ USC (2016.12 ~ )
+`Research Group <http://people.csail.mit.edu/lim/>`__ @ USC (2016.12 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Joint research with `Devsisters <http://www.devsisters.com/>`__ about *Hierarchical Reinforcement Learning* :: [PDF]
+- Under the supervision of Prof. `Joseph Lim <http://people.csail.mit.edu/lim/>`__
 
 
 `Statistical Artificial Intelligence Lab <http://sail.unist.ac.kr/>`__ @ UNIST (2014.09 ~ 2015.10)
@@ -156,7 +162,7 @@ Research Experience
 - *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 
 
-`Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__, California, USA (2015.07 ~ 2015.09)
+`Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__ (2015.07 ~ 2015.09)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Research Internship at Scientific Data Manage (`SDM <http://crd.lbl.gov/departments/data-science-and-technology/SDM/>`__) Group
@@ -164,7 +170,7 @@ Research Experience
 - *Behavior Analytics: Identify how characteristics and behaviors affected by energy saving in programs only from smart meter data*
 
 
-`Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ at UNIST (2013.01 ~ 2014.08)
+`Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ @ UNIST (2013.01 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - *Optimizing Mobile Video Streaming: From Context-aware Scheduling to Cloud-assisted Caching*
 - *Optimizing Mobile Web browsing: Through Page Caching in Local Access Point*
@@ -178,14 +184,14 @@ Research Experience
 Work Experience
 -----------------
 
-Research Engineer, `Devsisters <http://www.devsisters.com/>`__, Seoul, South Korea (2016.04 ~ )     
+Research Engineer, `Devsisters <http://www.devsisters.com/>`__ (2016.04 ~ )     
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Propose an attention-based Reinforcement Learning (RL) model to solve hierarchical RL problems guided by step-by-step manuals (collaborate research with `Research group @ USC <http://people.csail.mit.edu/lim/>`__)
 - Build automatic game balancing framework with Double Q-learning, Dueling network, Prioritized replay memory and used prediction on beneficial and dangerous events as intrinsic rewards
 - `DQN-tensorflow <https://github.com/devsisters/DQN-tensorflow>`__, `neural-combinatorial-rl-tensorflow <https://github.com/devsisters/neural-combinatorial-rl-tensorflow>`__, `pointer-network-tensorflow <https://github.com/devsisters/pointer-network-tensorflow>`__
 - Working as a substitute of mandatory military service
 
-Software Engineer, `Vingle <https://www.vingle.net/>`__, Seoul, South Korea (2015.10 ~ 2016.04)
+Software Engineer, `Vingle <https://www.vingle.net/>`__ (2015.10 ~ 2016.04)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Build a prediction model for age and gender only with the user's action pattern in the services
 - Worked as a substitute of mandatory military service
@@ -195,7 +201,7 @@ Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
 - Maximum-likelihood estimation of Downloading Mobile Application
 - Real-time visualization from a large-scale database with query optimization and a cache system
 
-Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
+Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Build a Cloud Comment Hosting Service which is similar to Disqus
 - Got a 2014 Excellence Award, which was given to 3 selected interns
@@ -209,7 +215,7 @@ Intern, `NAVER Labs`_, Gyeonggi-do, South Korea (2014.07 ~ 2014.08)
 Campus Activities
 ---------------------
 
-President, `HeXA`_ (a computer security research group) at UNIST (2012.08 ~ 2013.03)
+President, `HeXA`_ (a computer security research group) @ UNIST (2012.08 ~ 2013.03)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Lead and improve the club as a national competitive computer security club
 - Lead more than 10 different hacking competitions and international supercomputing competitons
@@ -256,6 +262,7 @@ Generative Models
 - **pixel-rnn-tensorflow** :: `Pixel Recurrent Neural Networks <https://arxiv.org/abs/1601.06759>`__ in Tensorflow :: `code <https://github.com/carpedm20/pixel-rnn-tensorflow/>`__
 - **visual-analogy-tensorflow** :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
 
+
 Reinforcement Learning
 ++++++++++++++++++++++
 
@@ -265,6 +272,7 @@ Reinforcement Learning
 - **a3c-tensorflow** :: `Asynchronous Methods for Deep Reinforcement Learning <http://arxiv.org/abs/1602.01783>`__ in Tensorflow :: `code <https://github.com/carpedm20/a3c-tensorflow/>`__
 - text-based-game-rl-tensorflow :: `Language Understanding for Text-based Games using Deep Reinforcement Learning <http://arxiv.org/abs/1506.08941>`__ in Tensorflow :: `code <https://github.com/carpedm20/text-based-game-rl-tensorflow>`__
 
+
 NLP
 +++
 
@@ -272,6 +280,19 @@ NLP
 - variational-text-tensorflow :: `Neural Variational Inference for Text Processing <http://arxiv.org/abs/1511.06038>`__ in Tensorflow :: `code <https://github.com/carpedm20/variational-text-tensorflow>`__
 - lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
 - attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/abs/1506.03340>`__ in Tensorflow :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__
+
+
+Speech Synthesis
+++++++++++++++++
+
+- **improved-tacotron-tensorflow** :: `Tacotron: Towards End-to-End Speech Synthesis <https://arxiv.org/abs/1703.10135>`__ in Tensorflow :: code
+
+.. raw:: html
+
+   <div class="pure-g">
+      <iframe class="align-center" width="595" height="315" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/351343323&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+   </div>
+
 
 ETC
 +++
@@ -316,8 +337,8 @@ Hacked services
    </div>
    <div class="visible">
       <ul class="simple">
-      <li>LINE :: Mobile Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/LINE">PoC</a> :: <a class="reference external" href="https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf">PPT</a></li>
-      <li>KakaoTalk :: Mobile Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/kakaotalk">PoC</a> :: <a class="reference external" href="https://www.dropbox.com/s/m475fume4pet7n7/kakao_line.pdf">PPT</a></li>
+      <li>LINE :: Mobile Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/LINE">PoC</a> :: <a class="reference external" href="https://www.slideshare.net/secret/ClwAY7UwEp7s1e">PPT</a></li>
+      <li>KakaoTalk :: Mobile Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/kakaotalk">PoC</a> :: <a class="reference external" href="https://www.slideshare.net/secret/ClwAY7UwEp7s1e">PPT</a></li>
       <li>Between :: Windows Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/between">PoC</a></li>
       <li>Ndrive :: Web Protocol Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/ndrive">PoC</a></li>
       <li>Korail :: Mobile Application Reverse Engineering :: <a class="reference external" href="https://github.com/carpedm20/korail2">PoC</a></li>
@@ -430,15 +451,37 @@ Facebook bot
 Presentations
 -------------
 
-2016
+2017
 ~~~~
 
-- `딥러닝과 강화 학습으로 나보다 잘하는 쿠키런 AI 구현하기 <http://www.slideshare.net/carpedm20/ai-67616630>`__ (`DEVIEW 2016 <https://deview.kr/2016/>`__, 16-10-25)
+- `책 읽어주는 딥러닝: 배우 유인나가 해리포터를 읽어준다면 <https://deview.kr/2017/schedule/182>`__ (`DEVIEW 2017 <https://deview.kr/2017>`__, 17-10-16)
 
 .. raw:: html
 
 
-   <div class="pure-g hidden">
+   <div class="pure-g">
+      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/me0V0nEbzDUsLx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+      <iframe class="align-center" width="595" height="315" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/351343323&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+   </div>
+
+- `알아두면 쓸데있는 신기한 강화학습 <https://www.slideshare.net/carpedm20/naver-2017>`__ (NAVER Seminar 2017, 17-08-16)
+
+.. raw:: html
+
+
+   <div class="pure-g">
+      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/1VODk8OC1fsZ3K" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+   </div>
+
+2016
+~~~~
+
+- `딥러닝과 강화 학습으로 나보다 잘하는 쿠키런 AI 구현하기 <https://deview.kr/2016/schedule#session/150>`__ (`DEVIEW 2016 <https://deview.kr/2016>`__, 16-10-25)
+
+.. raw:: html
+
+
+   <div class="pure-g">
       <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/p9PGzCRWhLSX8D" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
    </div>
 
@@ -446,7 +489,7 @@ Presentations
 
 .. raw:: html
 
-   <div class="pure-g hidden">
+   <div class="pure-g">
       <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/ot0exDi3XtZo0X" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
    </div>
       
@@ -454,7 +497,7 @@ Presentations
 
 .. raw:: html
 
-   <div class="pure-g hidden">
+   <div class="pure-g">
       <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/nTFP6A0udS1l6P" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
    </div>
 
