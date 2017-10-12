@@ -285,7 +285,7 @@ NLP
 Speech Synthesis
 ++++++++++++++++
 
-- **multi-speaker-tacotron-tensorflow** :: `Deep Voice 2: Multi-Speaker Neural Text-to-Speech <https://arxiv.org/abs/1705.08947>`__ in Tensorflow :: code :: `demo <http://carpedm20.github.io/tacotron/>`
+- **multi-speaker-tacotron-tensorflow** :: `Deep Voice 2: Multi-Speaker Neural Text-to-Speech <https://arxiv.org/abs/1705.08947>`__ in Tensorflow :: code :: `demo <http://carpedm20.github.io/tacotron/>`__
 
 .. raw:: html
 
