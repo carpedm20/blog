@@ -285,13 +285,13 @@ NLP
 Speech Synthesis
 ++++++++++++++++
 
-- **improved-tacotron-tensorflow** :: `Tacotron: Towards End-to-End Speech Synthesis <https://arxiv.org/abs/1703.10135>`__ in Tensorflow :: code
-
 .. raw:: html
 
-   <div class="pure-g">
-      <iframe class="align-center" width="595" height="315" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/351343323&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+   <div class="pure-g hidden">
+      <a class="reference external image-reference" target="_blank" href="http://carpedm20.github.io/tacotron/"><img alt="Tacotron" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/tacotron.png" style="width: 90%;"></a>
    </div>
+
+- **Multi-Speaker-Tacotron-Tensorflow** :: `Deep Voice 2: Multi-Speaker Neural Text-to-Speech <https://arxiv.org/abs/1705.08947>`__ in Tensorflow :: `code <https://github.com/devsisters/multi-speaker-tacotron-tensorflow>`__ :: `demo <http://carpedm20.github.io/tacotron/en.html>`__
 
 
 ETC
@@ -460,7 +460,7 @@ Presentations
 
 
    <div class="pure-g">
-      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/me0V0nEbzDUsLx" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/7GHy0N6HskSZx1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
       <iframe class="align-center" width="595" height="315" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/351343323&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
    </div>
 
