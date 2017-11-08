@@ -103,7 +103,7 @@ Machine Learning
 
 Supercomputing
 ~~~~~~~~~~~~~~
-- `International Supercomputing Conference 14 Student Cluster Challenge <http://www.isc-events.com/isc14/student-cluster-competition.html>`__ :: **Finalist**
+- `International Supercomputing Conference 14 Student Cluster Challenge <http://hpcadvisorycouncil.com/events/2014/isc14-student-cluster-competition/>`__ :: **Finalist**
    - In Leipzig / Germany
    - **One of 11 undergraduate teams (including MIT, Tsinghua Univ)** selected through the preliminary contest
 - `Asia student Supercomputing Challenge 14 <http://www.asc-events.org/ASC14/index14en.php>`__ :: **Finalist**
