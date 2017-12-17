@@ -454,7 +454,7 @@ Presentations
 2017
 ~~~~
 
-- `책 읽어주는 딥러닝: 배우 유인나가 해리포터를 읽어준다면 <https://deview.kr/2017/schedule/182>`__ (`DEVIEW 2017 <https://deview.kr/2017>`__, 17-10-16)
+- `책 읽어주는 딥러닝: 배우 유인나가 해리포터를 읽어준다면 <https://deview.kr/2017/schedule/182>`__ (`DEVIEW 2017 <https://deview.kr/2017>`__, 17-10-16) [`Video (Korean) <http://tv.naver.com/v/2292650>`__]
 
 .. raw:: html
 
@@ -463,7 +463,7 @@ Presentations
       <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/7GHy0N6HskSZx1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
    </div>
 
-- `알아두면 쓸데있는 신기한 강화학습 <https://www.slideshare.net/carpedm20/naver-2017>`__ (NAVER Seminar 2017, 17-08-16)
+- `알아두면 쓸데있는 신기한 강화학습 <https://www.slideshare.net/carpedm20/naver-2017>`__ (NAVER Seminar 2017, 17-08-16) [`Video (Korean) <http://tv.naver.com/v/2051482>`__]
 
 .. raw:: html
 
@@ -475,7 +475,7 @@ Presentations
 2016
 ~~~~
 
-- `딥러닝과 강화 학습으로 나보다 잘하는 쿠키런 AI 구현하기 <https://deview.kr/2016/schedule#session/150>`__ (`DEVIEW 2016 <https://deview.kr/2016>`__, 16-10-25)
+- `딥러닝과 강화 학습으로 나보다 잘하는 쿠키런 AI 구현하기 <https://deview.kr/2016/schedule#session/150>`__ (`DEVIEW 2016 <https://deview.kr/2016>`__, 16-10-25) [`Video (Korean) <http://serviceapi.rmcnmv.naver.com/flash/outKeyPlayer.nhn?vid=744982879C4B8D95A768185158158FA1F14E&outKey=V122a39972b8120461b33134a56dad62b1db97657ca107701108d134a56dad62b1db9&controlBarMovable=true&jsCallable=true&skinName=tvcast_white>`__]
 
 .. raw:: html
 
@@ -484,7 +484,7 @@ Presentations
       <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/p9PGzCRWhLSX8D" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
    </div>
 
-- `지적 대화를 위한 깊고 넓은 딥러닝 <http://www.slideshare.net/carpedm20/pycon-korea-2016>`__ (`PyCon APAC 2016 <https://www.pycon.kr/2016apac/>`__, 16-08-14)
+- `지적 대화를 위한 깊고 넓은 딥러닝 <http://www.slideshare.net/carpedm20/pycon-korea-2016>`__ (`PyCon APAC 2016 <https://www.pycon.kr/2016apac/>`__, 16-08-14) [`Video (Korean) <https://www.youtube.com/watch?v=soJ-wDOSCf4>`__]
 
 .. raw:: html
 
