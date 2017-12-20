@@ -273,6 +273,15 @@ Reinforcement Learning
 - text-based-game-rl-tensorflow :: `Language Understanding for Text-based Games using Deep Reinforcement Learning <http://arxiv.org/abs/1506.08941>`__ in Tensorflow :: `code <https://github.com/carpedm20/text-based-game-rl-tensorflow>`__
 
 
+Program Induction
++++++++++++++++++
+
+- **program-synthesis-rl-tensorflow** :: `Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis <https://openreview.net/forum?id=H1Xw62kRZ>`__ in Tensorflow :: `code <https://github.com/carpedm20/program-synthesis-rl-tensorflow>`__
+- **NTM-tensorflow** :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
+- **pointer-network-tensorflow** :: `Pointer Network <https://arxiv.org/abs/1506.03134>`__ in TensorFlow :: `code <https://github.com/devsisters/pointer-network-tensorflow>`__
+- neural-combinatorial-rl :: `Neural Combinatorial Optimization with RL <http://arxiv.org/abs/1611.09940>`__ in TensorFlow :: `code <https://github.com/devsisters/neural-combinatorial-rl-tensorflow>`__
+
+
 NLP
 +++
 
@@ -292,14 +301,6 @@ Speech Synthesis
    </div>
 
 - **Multi-Speaker-Tacotron-Tensorflow** :: `Deep Voice 2: Multi-Speaker Neural Text-to-Speech <https://arxiv.org/abs/1705.08947>`__ in Tensorflow :: `code <https://github.com/carpedm20/multi-speaker-tacotron-tensorflow>`__ :: `demo <http://carpedm20.github.io/tacotron/en.html>`__
-
-
-ETC
-+++
-
-- **NTM-tensorflow** :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
-- **pointer-network-tensorflow** :: `Pointer Network <https://arxiv.org/abs/1506.03134>`__ in TensorFlow :: `code <https://github.com/devsisters/pointer-network-tensorflow>`__
-- neural-combinatorial-rl :: `Neural Combinatorial Optimization with RL <http://arxiv.org/abs/1611.09940>`__ in TensorFlow :: `code <https://github.com/devsisters/neural-combinatorial-rl-tensorflow>`__
 
 
 .. raw:: html
