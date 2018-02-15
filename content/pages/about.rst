@@ -266,6 +266,7 @@ Generative Models
 Reinforcement Learning
 ++++++++++++++++++++++
 
+- **ENAS-pytorch** :: `Efficient Neural Architecture Search via Parameters Sharing <https://arxiv.org/abs/1802.03268>`__ in PyTorch:: `code <https://github.com/carpedm20/ENAS-pytorch/>`__
 - **DQN-tensorflow** :: `Human-Level Control through Deep Reinforcement Learning <http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf>`__ in Tensorflow :: `code <https://github.com/devsisters/DQN-tensorflow/>`__
 - **deep-rl-tensorflow** :: 1) `Prioritized <http://arxiv.org/abs/1511.05952>`__ 2) `Deuling <http://arxiv.org/abs/1511.06581>`__ 3) `Double <http://arxiv.org/abs/1509.06461>`__ 4) `DQN <https://arxiv.org/abs/1312.5602>`__ in Tensorflow :: `code <https://github.com/carpedm20/deep-rl-tensorflow/>`__
 - **NAF-tensorflow** :: `Continuous Deep q-Learning with Model-based Acceleration <http://arxiv.org/abs/1603.00748>`__ in Tensorflow :: `code <https://github.com/carpedm20/NAF-tensorflow/>`__
