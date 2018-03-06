@@ -147,7 +147,7 @@ ETC
 Research Experience
 ---------------------
 
-`Research Group <http://people.csail.mit.edu/lim/>`__ @ USC (2016.12 ~ )
+`Cognitive Learning for Vision and Robotics (CLVR) Lab <http://people.csail.mit.edu/lim/>`__ @ USC (2016.12 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Joint research with `Devsisters <http://www.devsisters.com/>`__ about *Hierarchical Reinforcement Learning* :: [PDF]
