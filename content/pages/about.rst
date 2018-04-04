@@ -255,6 +255,7 @@ Generative Models
    </div>
 
 - **DCGAN-tensorflow** :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434>`__ in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__ :: `demo <http://carpedm20.github.io/faces/>`__
+- **SPIRAL-tensorflow** :: `Synthesizing Programs for Images using Reinforced Adversarial Learning <https://deepmind.com/blog/learning-to-generate-images/>`__ in Tensorflow :: `code <https://github.com/carpedm20/SPIRAL-tensorflow>`__
 - **simulated-unsupervised-tensorflow** :: `Simulated and Unsupervised learning with GAN <https://arxiv.org/abs/1612.07828>`__ in Tensorflow :: `code <https://github.com/carpedm20/simulated-unsupervised-tensorflow>`__
 - **DiscoGAN-pytorch** :: `Discover Cross-Domain Relations with GAN <https://arxiv.org/abs/1703.05192>`__ in PyTorch:: `code <https://github.com/carpedm20/DiscoGAN-pytorch>`__
 - **BEGAN-tensorflow** :: `Boundary Equilibrium GAN <https://arxiv.org/abs/1703.10717>`__ in Tensorflow :: `code <https://github.com/carpedm20/BEGAN-tensorflow>`__
