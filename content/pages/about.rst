@@ -254,43 +254,43 @@ Generative Models
       </a>
    </div>
 
-- **DCGAN-tensorflow** :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434>`__ in Tensorflow :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__ :: `demo <http://carpedm20.github.io/faces/>`__
-- **SPIRAL-tensorflow** :: `Synthesizing Programs for Images using Reinforced Adversarial Learning <https://deepmind.com/blog/learning-to-generate-images/>`__ in Tensorflow :: `code <https://github.com/carpedm20/SPIRAL-tensorflow>`__
-- **simulated-unsupervised-tensorflow** :: `Simulated and Unsupervised learning with GAN <https://arxiv.org/abs/1612.07828>`__ in Tensorflow :: `code <https://github.com/carpedm20/simulated-unsupervised-tensorflow>`__
-- **DiscoGAN-pytorch** :: `Discover Cross-Domain Relations with GAN <https://arxiv.org/abs/1703.05192>`__ in PyTorch:: `code <https://github.com/carpedm20/DiscoGAN-pytorch>`__
-- **BEGAN-tensorflow** :: `Boundary Equilibrium GAN <https://arxiv.org/abs/1703.10717>`__ in Tensorflow :: `code <https://github.com/carpedm20/BEGAN-tensorflow>`__
-- **BEGAN-pytorch** :: `Boundary Equilibrium GAN <https://arxiv.org/abs/1703.10717>`__ in PyTorch :: `code <https://github.com/carpedm20/BEGAN-pytorch>`__
-- **pixel-rnn-tensorflow** :: `Pixel Recurrent Neural Networks <https://arxiv.org/abs/1601.06759>`__ in Tensorflow :: `code <https://github.com/carpedm20/pixel-rnn-tensorflow/>`__
-- **visual-analogy-tensorflow** :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ in Tensorflow :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
+- **DCGAN-tensorflow** :: `Deep Convolutional GAN <http://arxiv.org/abs/1511.06434>`__ :: `code <https://github.com/carpedm20/DCGAN-tensorflow>`__ :: `demo <http://carpedm20.github.io/faces/>`__
+- **SPIRAL-tensorflow** :: `Synthesizing Programs for Images using Reinforced Adversarial Learning <https://deepmind.com/blog/learning-to-generate-images/>`__ :: `code <https://github.com/carpedm20/SPIRAL-tensorflow>`__
+- **simulated-unsupervised-tensorflow** :: `Simulated and Unsupervised learning with GAN <https://arxiv.org/abs/1612.07828>`__ :: `code <https://github.com/carpedm20/simulated-unsupervised-tensorflow>`__
+- **DiscoGAN-pytorch** :: `Discover Cross-Domain Relations with GAN <https://arxiv.org/abs/1703.05192>`__:: `code <https://github.com/carpedm20/DiscoGAN-pytorch>`__
+- **BEGAN-tensorflow** :: `Boundary Equilibrium GAN <https://arxiv.org/abs/1703.10717>`__ :: `code <https://github.com/carpedm20/BEGAN-tensorflow>`__
+- **BEGAN-pytorch** :: `Boundary Equilibrium GAN <https://arxiv.org/abs/1703.10717>`__ :: `code <https://github.com/carpedm20/BEGAN-pytorch>`__
+- **pixel-rnn-tensorflow** :: `Pixel Recurrent Neural Networks <https://arxiv.org/abs/1601.06759>`__ :: `code <https://github.com/carpedm20/pixel-rnn-tensorflow/>`__
+- **visual-analogy-tensorflow** :: `Deep Visual Analogy-Making <http://www-personal.umich.edu/~reedscot/nips2015.pdf>`__ :: `code <https://github.com/carpedm20/visual-analogy-tensorflow>`__
 
 
 Reinforcement Learning
 ++++++++++++++++++++++
 
-- **ENAS-pytorch** :: `Efficient Neural Architecture Search via Parameters Sharing <https://arxiv.org/abs/1802.03268>`__ in PyTorch:: `code <https://github.com/carpedm20/ENAS-pytorch/>`__
-- **DQN-tensorflow** :: `Human-Level Control through Deep Reinforcement Learning <http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf>`__ in Tensorflow :: `code <https://github.com/devsisters/DQN-tensorflow/>`__
-- **deep-rl-tensorflow** :: 1) `Prioritized <http://arxiv.org/abs/1511.05952>`__ 2) `Deuling <http://arxiv.org/abs/1511.06581>`__ 3) `Double <http://arxiv.org/abs/1509.06461>`__ 4) `DQN <https://arxiv.org/abs/1312.5602>`__ in Tensorflow :: `code <https://github.com/carpedm20/deep-rl-tensorflow/>`__
-- **NAF-tensorflow** :: `Continuous Deep q-Learning with Model-based Acceleration <http://arxiv.org/abs/1603.00748>`__ in Tensorflow :: `code <https://github.com/carpedm20/NAF-tensorflow/>`__
-- **a3c-tensorflow** :: `Asynchronous Methods for Deep Reinforcement Learning <http://arxiv.org/abs/1602.01783>`__ in Tensorflow :: `code <https://github.com/carpedm20/a3c-tensorflow/>`__
-- text-based-game-rl-tensorflow :: `Language Understanding for Text-based Games using Deep Reinforcement Learning <http://arxiv.org/abs/1506.08941>`__ in Tensorflow :: `code <https://github.com/carpedm20/text-based-game-rl-tensorflow>`__
+- **ENAS-pytorch** :: `Efficient Neural Architecture Search via Parameters Sharing <https://arxiv.org/abs/1802.03268>`__ :: `code <https://github.com/carpedm20/ENAS-pytorch/>`__
+- **DQN-tensorflow** :: `Human-Level Control through Deep Reinforcement Learning <http://home.uchicago.edu/~arij/journalclub/papers/2015_Mnih_et_al.pdf>`__ :: `code <https://github.com/devsisters/DQN-tensorflow/>`__
+- **deep-rl-tensorflow** :: 1) `Prioritized <http://arxiv.org/abs/1511.05952>`__ 2) `Deuling <http://arxiv.org/abs/1511.06581>`__ 3) `Double <http://arxiv.org/abs/1509.06461>`__ 4) `DQN <https://arxiv.org/abs/1312.5602>`__ :: `code <https://github.com/carpedm20/deep-rl-tensorflow/>`__
+- **NAF-tensorflow** :: `Continuous Deep q-Learning with Model-based Acceleration <http://arxiv.org/abs/1603.00748>`__ :: `code <https://github.com/carpedm20/NAF-tensorflow/>`__
+- **a3c-tensorflow** :: `Asynchronous Methods for Deep Reinforcement Learning <http://arxiv.org/abs/1602.01783>`__ :: `code <https://github.com/carpedm20/a3c-tensorflow/>`__
+- text-based-game-rl-tensorflow :: `Language Understanding for Text-based Games using Deep Reinforcement Learning <http://arxiv.org/abs/1506.08941>`__ :: `code <https://github.com/carpedm20/text-based-game-rl-tensorflow>`__
 
 
 Program Induction
 +++++++++++++++++
 
-- **program-synthesis-rl-tensorflow** :: `Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis <https://openreview.net/forum?id=H1Xw62kRZ>`__ in Tensorflow :: `code <https://github.com/carpedm20/program-synthesis-rl-tensorflow>`__
-- **NTM-tensorflow** :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ in Tensorflow :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
-- **pointer-network-tensorflow** :: `Pointer Network <https://arxiv.org/abs/1506.03134>`__ in TensorFlow :: `code <https://github.com/devsisters/pointer-network-tensorflow>`__
-- neural-combinatorial-rl :: `Neural Combinatorial Optimization with RL <http://arxiv.org/abs/1611.09940>`__ in TensorFlow :: `code <https://github.com/devsisters/neural-combinatorial-rl-tensorflow>`__
+- **program-synthesis-rl-tensorflow** :: `Leveraging Grammar and Reinforcement Learning for Neural Program Synthesis <https://openreview.net/forum?id=H1Xw62kRZ>`__ :: `code <https://github.com/carpedm20/program-synthesis-rl-tensorflow>`__
+- **NTM-tensorflow** :: `Neural Turing Machine <http://arxiv.org/abs/1410.5401>`__ :: `code <https://github.com/carpedm20/NTM-tensorflow>`__
+- **pointer-network-tensorflow** :: `Pointer Network <https://arxiv.org/abs/1506.03134>`__ :: `code <https://github.com/devsisters/pointer-network-tensorflow>`__
+- neural-combinatorial-rl :: `Neural Combinatorial Optimization with RL <http://arxiv.org/abs/1611.09940>`__ :: `code <https://github.com/devsisters/neural-combinatorial-rl-tensorflow>`__
 
 
 NLP
 +++
 
-- **MemN2N-tensorflow** :: `End-To-End Memory Network <http://arxiv.org/abs/1503.08895>`__ in Tensorflow :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
-- variational-text-tensorflow :: `Neural Variational Inference for Text Processing <http://arxiv.org/abs/1511.06038>`__ in Tensorflow :: `code <https://github.com/carpedm20/variational-text-tensorflow>`__
-- lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ in Tensorflow :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
-- attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/abs/1506.03340>`__ in Tensorflow :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__
+- **MemN2N-tensorflow** :: `End-To-End Memory Network <http://arxiv.org/abs/1503.08895>`__ :: `code <https://github.com/carpedm20/MemN2N-tensorflow>`__
+- variational-text-tensorflow :: `Neural Variational Inference for Text Processing <http://arxiv.org/abs/1511.06038>`__ :: `code <https://github.com/carpedm20/variational-text-tensorflow>`__
+- lstm-char-cnn-tensorflow :: `Character-Aware Neural Language Models <http://arxiv.org/abs/1508.06615>`__ :: `code <https://github.com/carpedm20/lstm-char-cnn-tensorflow>`__
+- attentive-reader-tensorflow :: `Teaching Machines to Read and Comprehend <http://arxiv.org/abs/1506.03340>`__ :: `code <https://github.com/carpedm20/attentive-reader-tensorflow>`__
 
 
 Speech Synthesis
@@ -302,7 +302,7 @@ Speech Synthesis
       <a class="reference external image-reference" target="_blank" href="http://carpedm20.github.io/tacotron/"><img alt="Tacotron" class="align-center" src="https://raw.githubusercontent.com/carpedm20/blog/master/content/images/tacotron.png" style="width: 90%;"></a>
    </div>
 
-- **Multi-Speaker-Tacotron-Tensorflow** :: `Deep Voice 2: Multi-Speaker Neural Text-to-Speech <https://arxiv.org/abs/1705.08947>`__ in Tensorflow :: `code <https://github.com/carpedm20/multi-speaker-tacotron-tensorflow>`__ :: `demo <http://carpedm20.github.io/tacotron/en.html>`__
+- **Multi-Speaker-Tacotron-Tensorflow** :: `Deep Voice 2: Multi-Speaker Neural Text-to-Speech <https://arxiv.org/abs/1705.08947>`__ :: `code <https://github.com/carpedm20/multi-speaker-tacotron-tensorflow>`__ :: `demo <http://carpedm20.github.io/tacotron/en.html>`__
 
 
 .. raw:: html
@@ -320,7 +320,7 @@ Speech Synthesis
 - Fake Review Generator :: Fake review generator born from Neural Network :: `code <https://github.com/carpedm20/poet-neural>`__ :: demo
 - ReviewDuk :: Korean Sentiment Analyzer in Morphologically Rich Languages :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
 - FoodClassifier :: Food image classifier :: `python <https://github.com/carpedm20/FoodClassifier>`__ :: `matlab <https://github.com/carpedm20/FoodClassifier-matlab>`__ :: `report <https://drive.google.com/file/d/0ByTS2HBKYvZxeHNhbUN1UkhGWjd2RTJYRkphb3dkSjVBbjJn/view?usp=sharing>`__
-- word2vec-tensorflow :: Word2Vec implementation in Tensorflow :: `code <https://github.com/carpedm20/word2vec-tensorflow>`__
+- word2vec-tensorflow :: Word2Vec implementation :: `code <https://github.com/carpedm20/word2vec-tensorflow>`__
 
 
 Hacked services
