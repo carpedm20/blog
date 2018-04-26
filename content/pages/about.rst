@@ -454,6 +454,18 @@ Facebook bot
 Presentations
 -------------
 
+2018
+~~~~
+
+- `Random Thoughts on Paper Implementations <https://www.slideshare.net/carpedm20/random-thoughts-on-paper-implementations-kaist-2018-95048244>`__ (KAIST 2018, 18-04-25)
+
+.. raw:: html
+
+
+   <div class="pure-g">
+      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/at2f2YgI8ftkdv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+   </div>
+
 2017
 ~~~~
 
