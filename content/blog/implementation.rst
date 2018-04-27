@@ -1,11 +1,11 @@
 딥러닝 논문 구현에 대한 생각
-#######################
+############################
 :date: 2018-10-26 23:04
 :category: blog,
 :tags: deep_learning
 :excerpt: 
 
-발표 자료: Link_
+발표 자료: `link <https://www.slideshare.net/carpedm20/random-thoughts-on-paper-implementations-kaist-2018-95048244>`__
 
 저는 TensorFlow가 공개된 2015년 11월부터 지금까지 여러 편의 논문을 구현하고 오픈 소스들을 읽으면서 많은 것을 배울 수 있었습니다. 다양한 분야의 연구자들이 어떤 고민을 하고 있는지, 특정 분야에서만 사용되는 노하우가 어떤 것이 있는지를 알 수 있었고, 몇 날 며칠을 같은 코드를 디버깅하면서 생긴 요령도 지금 하고있는 연구에 큰 도움이 되고 있습니다.
 
@@ -13,6 +13,4 @@
 
 하지만 저는 숫자와 속도에 너무 집착했었고 비판적 사고 없이 뇌를 비우고 구현하며 시간만 때운 경우가 많았습니다. 저와 비슷한 실수를 하시는 분이 없으면 좋겠고 계속해서 구현을 즐기고 이야기할 수 있는 분들이 많아졌으면 좋겠습니다.
 
-마지막으로 OpenAI의 Greg과 Ilya가 구현에 관해 한 얘기도 읽어보면 좋을 것 같습니다: https://www.quora.com/What-are-the-best-way…/…/Greg-Brockman
-
-.. _Link: https://www.slideshare.net/carpedm20/random-thoughts-on-paper-implementations-kaist-2018-95048244
+마지막으로 OpenAI의 Greg과 Ilya가 구현에 관해 한 얘기도 읽어보면 좋을 것 같습니다: `link <https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer/answer/Greg-Brockman>`__
