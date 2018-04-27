@@ -3,6 +3,7 @@
 :date: 2018-10-26 23:04
 :category: blog,
 :tags: deep_learning
+:slug: paper-implementation
 :excerpt: 
 
 발표 자료: `link <https://www.slideshare.net/carpedm20/random-thoughts-on-paper-implementations-kaist-2018-95048244>`__
