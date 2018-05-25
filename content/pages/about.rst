@@ -469,7 +469,7 @@ Presentations
 2017
 ~~~~
 
-- `책 읽어주는 딥러닝: 배우 유인나가 해리포터를 읽어준다면 <https://deview.kr/2017/schedule/182>`__ (`DEVIEW 2017 <https://deview.kr/2017>`__, 17-10-16) [`Video (Korean) <http://tv.naver.com/v/2292650>`__]
+- `책 읽어주는 딥러닝: 배우 유인나가 해리포터를 읽어준다면 <https://deview.kr/2017/schedule/182>`__ (`DEVIEW 2017 <https://deview.kr/2017>`__, 17-10-16) [`Video (Korean) <https://youtu.be/klnfWhPGPRs>`__]
 
 .. raw:: html
 
@@ -478,7 +478,7 @@ Presentations
       <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/7GHy0N6HskSZx1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
    </div>
 
-- `알아두면 쓸데있는 신기한 강화학습 <https://www.slideshare.net/carpedm20/naver-2017>`__ (NAVER Seminar 2017, 17-08-16) [`Video (Korean) <http://tv.naver.com/v/2051482>`__]
+- `알아두면 쓸데있는 신기한 강화학습 <https://www.slideshare.net/carpedm20/naver-2017>`__ (NAVER Seminar 2017, 17-08-16) [`Video (Korean) <https://youtu.be/NGGO0zdzhVQ>`__]
 
 .. raw:: html
 
