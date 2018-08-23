@@ -184,7 +184,7 @@ Research Experience
 Work Experience
 -----------------
 
-Research Engineer, `Devsisters <http://www.devsisters.com/>`__ (2016.04 ~ )     
+Research Engineer, `Devsisters <http://www.devsisters.com/>`__ (2016.04 ~ 2018.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 - Propose an attention-based Reinforcement Learning (RL) model to solve hierarchical RL problems guided by step-by-step manuals (collaborate research with `Research group @ USC <http://people.csail.mit.edu/lim/>`__)
 - Build automatic game balancing framework with Double Q-learning, Dueling network, Prioritized replay memory and used prediction on beneficial and dangerous events as intrinsic rewards
