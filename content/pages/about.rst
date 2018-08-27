@@ -18,7 +18,6 @@ Profile
 .. raw:: html
 
    <ul class="simple">
-      <li>김태훈</li>
       <li>B.S. in Electrical and Computer Engineering from <a class="reference external" href="http://www.unist.ac.kr/">UNIST</a></li>
       <li style="font-size: 0.8em;">(with <b>The Best Undergraduate Award</b> from the Minister of Science, ICT and Future Planning (미래창조과학부 장관상))</li>
       <li>Serving a mandatory military service and it ends Aug. 2018</li>
