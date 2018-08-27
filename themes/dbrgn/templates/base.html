@@ -8,15 +8,15 @@
 
     <!-- meta -->
     <meta charset="utf-8" />
-    <meta name="author" content="{{ AUTHOR }}" />
+    <meta name="author" content="Taehoon Kim (김태훈)" />
     <meta content="Reinforcement Learning, Computer Vision, Machine Learning" name="description">
+    <meta name="keywords" content="Reinforcement Learning,Machine Learning,김태훈,강화 학습">
     {% if article and article.summary %}
         <meta name="description" content="{{ article.summary|striptags }}" />
     {% endif %}
     <meta name="dc.language" content="{% if article and article.language %}{{ article.language }}{% else %}{{ DEFAULT_LANG }}{% endif %}" />
     <meta name="dc.license" content="{{ BLOG_LICENSE }}">
     {% if ctx and ctx.summary %}<meta name="description" content="{{ ctx.summary }}">{% endif %}
-    {% if ctx and ctx.tags %}<meta name="keywords" content="{{ ctx.tags|sort(case_sensitive=true)|join(', ') }}">{% endif %}
     {% if ctx and ctx.pub_date %}
         <meta name="dc.date.created" content="{{ ctx.pub_date.date().isoformat() }}">
         <meta name="dc.date.issued" content="{{ ctx.pub_date.date().isoformat() }}">
