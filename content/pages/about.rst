@@ -18,10 +18,9 @@ Profile
 .. raw:: html
 
    <ul class="simple">
+      <li>Machine Learning Engineer at <a class="reference external" href="http://openai.com/">OpenAI</a></li>
       <li>B.S. in Electrical and Computer Engineering from <a class="reference external" href="http://www.unist.ac.kr/">UNIST</a></li>
       <li style="font-size: 0.8em;">(with <b>The Best Undergraduate Award</b> from the Minister of Science, ICT and Future Planning (미래창조과학부 장관상))</li>
-      <li><s>Serving a mandatory military service and it ends Aug. 2018</s></li>
-      <li>Will land on #SF this Sep.</li>
       <li>CV : <a class="reference external" target="_blank" href="https://raw.githubusercontent.com/carpedm20/blog/HEAD/content/CV_Taehoon_Kim_Public.pdf">[PDF] (as of Aug. 2018)</a></li>
    </ul>
 
@@ -149,6 +148,11 @@ ETC
 
 Research Experience
 ---------------------
+
+`OpenAI <http://openai.com>`__ (2018.09 ~ )
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Machine Learning Enginner
 
 `Cognitive Learning for Vision and Robotics Lab <http://people.csail.mit.edu/lim/>`__ @ USC (2016.12 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
