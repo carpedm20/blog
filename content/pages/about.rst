@@ -19,7 +19,7 @@ Profile
 
    <ul class="simple">
       <li>Machine Learning Engineer at <a class="reference external" href="http://openai.com/">OpenAI</a></li>
-      <li>CV : <a class="reference external" target="_blank" href="https://raw.githubusercontent.com/carpedm20/blog/HEAD/content/CV_Taehoon_Kim_Public.pdf">[PDF] (as of Sep. 2018)</a></li>
+      <li>CV : <a class="reference external" target="_blank" href="https://raw.githubusercontent.com/carpedm20/blog/HEAD/content/CV_Taehoon_Kim_Public.pdf">[PDF] (as of Oct. 2018)</a></li>
    </ul>
 
 
@@ -51,7 +51,7 @@ Conferences
    <ul class="simple">
    <dd>
    <li>[1] <strong>T. Kim*</strong>, Y. Lee*, J. Lim, <em>TBA</em>, submitted, 2018. [PDF]</li>
-   <li>[2] H. Noh, <strong>T. Kim</strong>, J. Moon, B. Han, <em>TBA</em>, submitted, 2018. [PDF]</li>
+   <li>[2] H. Noh, <strong>T. Kim</strong>, J. Moon, B. Han, <em>Transfer Learning via Unsupervised Task Discovery for Visual Question Answering</em> [<a class="reference external" href="https://arxiv.org/abs/1810.02358">PDF</a>]</li>
    <li>[3] <strong>T. Kim</strong>, D. Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Extracting Baseline Electricity Usage Using Gradient Tree Boosting</em>, in 1st Intl. Conf. Big Data Intelligence and Computing (DataCom 2015). Chengdu, China, Dec. 2015. [<a class="reference external" href="https://sdm.lbl.gov/oapapers/DataCom2015_kim_report.pdf">PDF</a>]</li>
    <li>[4] <strong>T. Kim</strong>, and J. Choi, <em>Reading documents for bayesian Online Change Point Detection</em>, in Empirical Methods on Natural Language Processing (<a class="reference external" href="http://www.emnlp2015.org/"><b class="black">EMNLP 2015</b></a>) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [<a class="reference external" href="http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf">PDF</a>]</li>
    </dd>
@@ -87,9 +87,10 @@ Research Experience
 `OpenAI <http://openai.com>`__ (2018.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Machine Learning Enginner
+- Research Engineer
+- Advised by `John Schulman <http://joschu.net/>`
 
-`Cognitive Learning for Vision and Robotics Lab <http://people.csail.mit.edu/lim/>`__ @ USC (2016.12 ~ )
+`Cognitive Learning for Vision and Robotics Lab <http://people.csail.mit.edu/lim/>`__ @ USC (2016.12 ~ 2018.09)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Joint research with `Devsisters <http://www.devsisters.com/>`__ about *Hierarchical Reinforcement Learning* :: [PDF]
