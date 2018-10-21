@@ -87,8 +87,7 @@ Research Experience
 `OpenAI <http://openai.com>`__ (2018.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Research Engineer
-- Advised by `John Schulman <http://joschu.net/>`__
+- Research Engineer (Advised by `John Schulman <http://joschu.net/>`__)
 
 `Cognitive Learning for Vision and Robotics Lab <http://people.csail.mit.edu/lim/>`__ @ USC (2016.12 ~ 2018.09)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
