@@ -88,7 +88,7 @@ Research Experience
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Research Engineer
-- Advised by `John Schulman <http://joschu.net/>`
+- Advised by `John Schulman <http://joschu.net/>`__
 
 `Cognitive Learning for Vision and Robotics Lab <http://people.csail.mit.edu/lim/>`__ @ USC (2016.12 ~ 2018.09)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
