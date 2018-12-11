@@ -19,7 +19,7 @@ Profile
 
    <ul class="simple">
       <li>Research Engineer at <a class="reference external" href="http://openai.com/">OpenAI</a></li>
-      <li>CV : <a class="reference external" target="_blank" href="https://raw.githubusercontent.com/carpedm20/blog/HEAD/content/CV_Taehoon_Kim_Public.pdf">[PDF] (as of Oct. 2018)</a></li>
+      <li>CV : <a class="reference external" target="_blank" href="https://raw.githubusercontent.com/carpedm20/blog/HEAD/content/CV_Taehoon_Kim_Public.pdf">[PDF] (as of Dec. 2018)</a></li>
    </ul>
 
 
