@@ -31,7 +31,6 @@ Links
 :Slideshare: `slideshare.net/carpedm20`_
 :Facebook: `facebook.com/carpedm20`_
 :Twitter: `twitter.com/carpedm20`_
-:IG: `instagram.com/alphago_kim`_
 :Google Scholar: `author page <https://scholar.google.com/citations?user=0BefWnYAAAAJ>`__
 
 
