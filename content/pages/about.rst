@@ -533,6 +533,7 @@ Skills
 .. _linkedin.com/in/carpedm20: https://www.linkedin.com/in/carpedm20
 .. _slideshare.net/carpedm20: http://www.slideshare.net/carpedm20
 .. _twitter.com/carpedm20: https://twitter.com/carpedm20
+.. _instagram.com/alphago_kim: https://instagram.com/alphago_kim
 
 .. _ISC 14 Student Cluster Challenge: http://www.isc-events.com/isc14/student-cluster-competition.html
 .. _ASC 14: http://www.asc-events.org/ASC14/index14en.php
