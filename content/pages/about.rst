@@ -18,8 +18,8 @@ Profile
 .. raw:: html
 
    <ul class="simple">
-      <li>Machine Learning Engineer at <a class="reference external" href="http://openai.com/">OpenAI</a></li>
-      <li>CV : <a class="reference external" target="_blank" href="https://raw.githubusercontent.com/carpedm20/blog/HEAD/content/CV_Taehoon_Kim_Public.pdf">[PDF] (as of Oct. 2018)</a></li>
+      <li>Research Engineer at <a class="reference external" href="http://openai.com/">OpenAI</a></li>
+      <li>CV : <a class="reference external" target="_blank" href="https://raw.githubusercontent.com/carpedm20/blog/HEAD/content/CV_Taehoon_Kim_Public.pdf">[PDF] (as of Dec. 2018)</a></li>
    </ul>
 
 
@@ -50,10 +50,11 @@ Conferences
 
    <ul class="simple">
    <dd>
-   <li>[1] Y. Lee, <strong>T. Kim</strong>, J. Lim, <em>TBA</em>, submitted, 2018. [PDF]</li>
-   <li>[2] H. Noh, <strong>T. Kim</strong>, J. Moon, B. Han, <em>Transfer Learning via Unsupervised Task Discovery for Visual Question Answering</em> [<a class="reference external" href="https://arxiv.org/abs/1810.02358">PDF</a>]</li>
-   <li>[3] <strong>T. Kim</strong>, D. Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Extracting Baseline Electricity Usage Using Gradient Tree Boosting</em>, in 1st Intl. Conf. Big Data Intelligence and Computing (DataCom 2015). Chengdu, China, Dec. 2015. [<a class="reference external" href="https://sdm.lbl.gov/oapapers/DataCom2015_kim_report.pdf">PDF</a>]</li>
-   <li>[4] <strong>T. Kim</strong>, and J. Choi, <em>Reading documents for bayesian Online Change Point Detection</em>, in Empirical Methods on Natural Language Processing (<a class="reference external" href="http://www.emnlp2015.org/"><b class="black">EMNLP 2015</b></a>) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [<a class="reference external" href="http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf">PDF</a>]</li>
+   <li>[1] K. Cobbe, O. Klimov, C. Hesse, <strong>T. Kim</strong>, J. Schulman, <em>Quantifying Generalization in Reinforcement Learning</em>, 2018. [<a class="reference external" href="https://arxiv.org/pdf/1812.02341">PDF</a>]</li>
+   <li>[2] Y. Lee, <strong>T. Kim</strong>, J. Lim, <em>TBA</em>, submitted, 2018. [PDF]</li>
+   <li>[3] H. Noh, <strong>T. Kim</strong>, J. Moon, B. Han, <em>Transfer Learning via Unsupervised Task Discovery for Visual Question Answering</em> [<a class="reference external" href="https://arxiv.org/abs/1810.02358">PDF</a>]</li>
+   <li>[4] <strong>T. Kim</strong>, D. Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Extracting Baseline Electricity Usage Using Gradient Tree Boosting</em>, in 1st Intl. Conf. Big Data Intelligence and Computing (DataCom 2015). Chengdu, China, Dec. 2015. [<a class="reference external" href="https://sdm.lbl.gov/oapapers/DataCom2015_kim_report.pdf">PDF</a>]</li>
+   <li>[5] <strong>T. Kim</strong>, and J. Choi, <em>Reading documents for bayesian Online Change Point Detection</em>, in Empirical Methods on Natural Language Processing (<a class="reference external" href="http://www.emnlp2015.org/"><b class="black">EMNLP 2015</b></a>) (312/1315 ~ 23.5% a/r), Lisbon, Portugal, Sep. 2015. [<a class="reference external" href="http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf">PDF</a>]</li>
    </dd>
    </ul>
 
@@ -69,8 +70,8 @@ Journals
 
    <ul class="simple">
    <dd>
-   <li>[5] <strong>T. Kim</strong>, D. Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Predicting Baseline for Analysis of Electricity Pricing</em>, in International Journal of Big Data Intelligence, 2016. [<a class="reference external" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2773991">PDF</a>]</li>
-   <li>[6] J. Lee, K. Lee, C. Han, <strong>T. Kim</strong>, and S. Chong, <em>Resource-efficient Mobile Multimedia Streaming with Adaptive Network Selection</em>, in IEEE Transactions on Multimedia (IF: 2.536), 2016.</li>
+   <li>[6] <strong>T. Kim</strong>, D. Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, <em>Predicting Baseline for Analysis of Electricity Pricing</em>, in International Journal of Big Data Intelligence, 2016. [<a class="reference external" href="http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2773991">PDF</a>]</li>
+   <li>[7] J. Lee, K. Lee, C. Han, <strong>T. Kim</strong>, and S. Chong, <em>Resource-efficient Mobile Multimedia Streaming with Adaptive Network Selection</em>, in IEEE Transactions on Multimedia (IF: 2.536), 2016.</li>
    </dd>
    </ul>
 
@@ -531,6 +532,7 @@ Skills
 .. _linkedin.com/in/carpedm20: https://www.linkedin.com/in/carpedm20
 .. _slideshare.net/carpedm20: http://www.slideshare.net/carpedm20
 .. _twitter.com/carpedm20: https://twitter.com/carpedm20
+.. _instagram.com/alphago_kim: https://instagram.com/alphago_kim
 
 .. _ISC 14 Student Cluster Challenge: http://www.isc-events.com/isc14/student-cluster-competition.html
 .. _ASC 14: http://www.asc-events.org/ASC14/index14en.php
