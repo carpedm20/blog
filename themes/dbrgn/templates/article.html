@@ -30,20 +30,4 @@
         {% include 'disqus.html' %}
     {% endif %}
 
-    <div id="sermo"></div>
-<script type="text/javascript" src="//10.101.59.165:8000/static/js/iframeResizer.min.js"></script> 
-<script type="text/javascript">
-    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-    var sermo_server = 'repl.ajaxui.org:8000'
-    var sermo_shortname = 'YTE5NzZlMT'; // required
-
-    /* * * DON'T EDIT BELOW THIS LINE * * */
-    var sermo = document.createElement('script'); sermo.type = 'text/javascript'; sermo.async = true;
-    sermo.src = '//' + sermo_server + '/static/js/embed.js';
-    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(sermo);
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Sermo.</a></noscript>
-<a href="#" onclick="window.href=sermo_server;" class="dsq-brlink">comments powered by <span class="logo-disqus">sermo</span></a>
-    
-
 {% endblock %}
