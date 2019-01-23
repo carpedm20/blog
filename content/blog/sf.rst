@@ -37,3 +37,4 @@
 - Patagonia, Allbirds, Everlane, Timbuk2
 - 그놈의 오이 물은 왜 마시는 건지
 
+출처: `Facebook <https://www.facebook.com/carpedm20/posts/2010547345691447>`__
