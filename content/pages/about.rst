@@ -446,7 +446,7 @@ Presentations
 
 
    <div class="pure-g">
-      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/24SpRRNX4koi4R" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/24SpRRNX4koi4R" width="595" height="373" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
    </div>
 
 - `Random Thoughts on Paper Implementations <https://www.slideshare.net/carpedm20/random-thoughts-on-paper-implementations-kaist-2018-95048244>`__ (KAIST 2018, 18-04-25)
@@ -455,7 +455,7 @@ Presentations
 
 
    <div class="pure-g">
-      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/at2f2YgI8ftkdv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/at2f2YgI8ftkdv" width="595" height="373" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
    </div>
 
 2017
@@ -467,7 +467,7 @@ Presentations
 
 
    <div class="pure-g">
-      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/7GHy0N6HskSZx1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/7GHy0N6HskSZx1" width="595" height="373" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
    </div>
 
 - `알아두면 쓸데있는 신기한 강화학습 <https://www.slideshare.net/carpedm20/naver-2017>`__ (NAVER Seminar 2017, 17-08-16) [`Video (Korean) <https://youtu.be/NGGO0zdzhVQ>`__]
@@ -476,7 +476,7 @@ Presentations
 
 
    <div class="pure-g">
-      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/1VODk8OC1fsZ3K" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/1VODk8OC1fsZ3K" width="595" height="373" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
    </div>
 
 2016
@@ -488,7 +488,7 @@ Presentations
 
 
    <div class="pure-g">
-      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/p9PGzCRWhLSX8D" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/p9PGzCRWhLSX8D" width="595" height="373" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
    </div>
 
 - `지적 대화를 위한 깊고 넓은 딥러닝 <http://www.slideshare.net/carpedm20/pycon-korea-2016>`__ (`PyCon APAC 2016 <https://www.pycon.kr/2016apac/>`__, 16-08-14) [`Video (Korean) <https://www.youtube.com/watch?v=soJ-wDOSCf4>`__]

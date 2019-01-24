@@ -10,7 +10,7 @@
 .. raw:: html
 
    <div class="pure-g">
-      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/at2f2YgI8ftkdv" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+      <iframe class="align-center" src="//www.slideshare.net/slideshow/embed_code/key/at2f2YgI8ftkdv" width="595" height="373" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
    </div>
    <br/>
 
@@ -20,6 +20,6 @@
 
 하지만 저는 숫자와 속도에 너무 집착했었고 비판적 사고 없이 뇌를 비우고 구현하며 시간만 때운 경우가 많았습니다. 저와 비슷한 실수를 하시는 분이 없으면 좋겠고, 계속해서 구현을 즐기고 이야기할 수 있는 분들이 많아졌으면 좋겠습니다.
 
-마지막으로 OpenAI의 `Greg Brockman <https://twitter.com/gdb>`_ 과 `Ilya Sutskever <https://twitter.com/ilyasut>`_ 가 구현에 관해 한 `글 <https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer/answer/Greg-Brockman>`_ 도 읽어보면 좋을 것 같습니다.
+마지막으로 OpenAI의 `Greg Brockman <https://twitter.com/gdb>`_ 과 `Ilya Sutskever <https://twitter.com/ilyasut>`_ 가 구현에 관해 쓴 `글 <https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer/answer/Greg-Brockman>`_ 도 읽어보면 좋을 것 같습니다.
 
 출처: `Facebook <https://www.facebook.com/groups/TensorFlowKR/permalink/638778569796538/>`_
