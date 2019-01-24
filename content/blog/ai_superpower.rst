@@ -82,7 +82,7 @@ Chapter 6-8:
 
 1> 수많은 연구가 진행되고 논문이 나왔음에도 불구하고, AGI (Artificial General Intelligence)는 아직 우리에게 머나먼 존재다. 하지만 기업가들은 그런 기술적 한계에 연연하지 않고 지금까지의 기술만으로도 세상을 바꿔 나가고 있다.
 
-2> 저자가 말하고 있는 OMO (online-merge-offline)는 먼 미래는 아니라고 생각한다. 추천 기술과 인지 기술의 발전으로 온라인에서 겪었던 편리함을 오프라인에서도 누리는 것이 충분히 가능하다. 구글 Duplex에서 볼 수 있듯이 한가지 문제를 사람으로 착각할 정도로 자연스럽게 해결하는 방법은 존재한다.
+2> 저자가 그리고 있는 OMO(online-merge-offline) 시장은 그리 멀리 있지 않은 것 같다. 구글 Duplex에서 볼 수 있듯이 오프라인에서의 문제를 사람이라고 착각할 정도로 자연스럽게 해결할 수 있는 기술들은 존재한다.
 
 3> AI 논문은 매년 기하급수적으로 늘어나고 있지만 기술 그 자체의 발전 속도는 계속 정체되어 왔다. 최근에 Vision과 NLP 분야에 있었던 큰 발전들(`BigGAN <https://arxiv.org/abs/1809.11096>`__, `StyleGAN <https://arxiv.org/abs/1812.04948>`__, `Transformer <https://blog.openai.com/language-unsupervised/>`__, `BERT <https://arxiv.org/abs/1810.04805>`__)은 모두 컴퓨팅 파워에 대한 투자로 얻은 결과이며, 자본으로 성장 속도를 유지하고 있다는 생각이 든다. 때문에 AI의 진입 장벽이 연구와 스타트업 모두에서 계속해서 커질 것이다.
 
