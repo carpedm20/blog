@@ -6,6 +6,13 @@ AI Superpower 요약 및 생각
 :slug: ai-superpower
 :excerpt: 
 
+
+.. raw:: html
+
+   <a href="https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X">
+      <img class="align-center" src="/images/ai-superpower/book.jpg"> </img>
+   </a>
+
 중국과 일본의 인공지능 (AI) 스타트업에 관심이 있을 때, 중국어와 일본어로 쓰인 기사들을 구글 번역기를 돌려가며 읽어본 적이 있다. 두 나라에는 인공지능 기술만으로 유니콘이 된 회사가 존재하지만, 한국에는 왜 그런 기업이 나오지 못했는지 궁금했기 때문이다. 내수 시장의 규모, 인재의 풀 등 눈에 보이는 명백한 차이를 떠나서 지금처럼 성장할 수 있게 만든 그들의 문화와 성장 과정을 구체적으로 알고 싶었다. 그러다 얼마 전에 중국계 친구들과 중국의 스타트업 시장에 대한 얘기를 나눌 수 있었고, 한 친구로부터 `<AI Superpower> <https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X>`__ 란 책을 소개받아 읽어보았다.
 
 `<AI Superpower> <https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X>`__ 는 미국의 기술력을 발 빠르게 쫓아가고 있는 중국의 AI에 대한 책이다. 책의 저자 `Kai-Fu Lee <https://en.wikipedia.org/wiki/Kai-Fu_Lee>`__ 는 화려한 경력을 가지고 있는데, CMU에서 speech recognition로 박사 학위를 받고 Apple, Microsoft, Google, Google China 등에서 executive 등의 역할로 재직했다. 현재 Sinovation Ventures의 대표이며, AI 기술을 기반으로 한 스타트업에 공격적인 투자를 하고 있다. O2O를 넘어선 Online-Merges-with-Offline(OMO)란 비전을 가지고 `Zhuiyi <https://zhuiyi.ai/>`__ (ARS 챗봇)처럼 Business AI로 분류되는 회사부터 Perception AI의 한 사례인 `Megvii <https://megvii.com/>`__ (`Face++ <https://www.faceplusplus.com/>`__, 얼굴 인식), 그리고 Automation AI 중 하나인 `F5 Future Store <https://www.f5-futurestore.com/>`__ (무인 편의점) 등의 AI 스타트업에 투자했다.
