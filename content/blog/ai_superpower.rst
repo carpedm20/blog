@@ -13,6 +13,12 @@ AI Superpower 요약 및 생각
 저자는 AI 기술에 대한 깊은 이해와 풍부한 투자 경험을 바탕으로 중국 AI 스타트업과 AI가 우리에게 끼칠 영향에 대한 생각을 구체적인 사례를 들어 설명한다. 전체 내용 중 흥미로운 부분만 간략하게 요약하면:
 
 
+
+.. raw:: html
+
+   <img class="align-center" src="../../../content/images/ai-superpower/vs-us.jpg"> </img>
+
+
 Chapter 1-3:
 ------------
 
@@ -22,6 +28,11 @@ Chapter 1-3:
 - 딥러닝의 발견만큼 큰 기술적 도약은 일어나고 있지 않고 있기 때문에, 새로운 기술의 발전을 만들 수 있는 뛰어난 연구자보다 빠르게 product를 만들 수 있는 엔지니어의 중요성이 커지고 있다.
 - 중국은 압도적으로 큰 내부 시장이 존재하기에 외부와 격리된 인터넷 환경 속에서도 많은 데이터를 확보할 수 있다. (작년 한국의 스마트폰 가입자 수는 5천만 명인데 비해 중국은 7억 3천만 명)
 - 유토피아적 이상을 펼치는 실리콘밸리 창업가와는 달리 중국의 창업가들은 financial value 그 자체만을 optimize하기 때문에 더 빠른 성장이 가능하다고 생각한다.
+
+.. raw:: html
+
+   <img class="align-center" src="../../../content/images/ai-superpower/waves.png"> </img>
+
 
 
 Chapter 5:
@@ -37,6 +48,12 @@ Chapter 5:
 - Autonomus AI: 로봇(ex. 자율주행 자동차)이 현실 세계에서 직접 행동을 결정하고, 데이터를 실시간으로 처리하며 새로운 환경에 적응할 수 있게 될 것이다.
 - 현재의 기술 및 정책의 한계를 해결하면 Autonomous AI가 성장할 것
 - 4개의 wave에 순서는 중요하지 않다.
+
+
+.. raw:: html
+
+   <img class="align-center" src="../../../content/images/ai-superpower/job.png"> </img>
+
 
 
 Chapter 6-8:
