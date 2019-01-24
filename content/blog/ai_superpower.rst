@@ -65,11 +65,11 @@ Chapter 6-8:
 References:
 """"""""""""""""""
 
-- https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X
-- https://chinai.substack.com/
-- https://player.fm/series/town-hall-seattle-science-series/kai-fu-lee
-- https://blog.ycombinator.com/the-hidden-forces-behind-toutiao-chinas-content-king/
-- http://www.sinovationventures.com/index.php/home/investment/index.html
-- https://techsauce.co/en/tech-and-biz/four-waves-of-ai-investment-thesis/
-- https://medium.com/@kaifulee/kai-fu-lee-on-the-merging-of-online-and-offline-worlds-a590efd37d75
-- https://docs.google.com/document/d/1XJ6gJ6zm6z5cVg94I3xsAhF0_FArLzTx-R8pYBdbSb8
+- `AI Superpowers: China, Silicon Valley, and the New World Order <https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X>`__
+- `Kai-Fu Lee Town Hall Seattle Science Series podcast <https://player.fm/series/town-hall-seattle-science-series/kai-fu-lee>`__
+- `Sinovation Ventures <http://www.sinovationventures.com/index.php/home/investment/index.html>`__
+- `Four Waves of AI Investment Thesis <https://techsauce.co/en/tech-and-biz/four-waves-of-ai-investment-thesis/>`__
+- `Kai-Fu Lee on the merging of online and offline worlds <https://medium.com/@kaifulee/kai-fu-lee-on-the-merging-of-online-and-offline-worlds-a590efd37d75>`__
+- `ChinAI Newsletter <https://chinai.substack.com>`__
+- `Those who Work for AI <https://docs.google.com/document/d/1XJ6gJ6zm6z5cVg94I3xsAhF0_FArLzTx-R8pYBdbSb8>`__
+- `The Hidden Forces Behind Toutiao: China’s Content King <https://blog.ycombinator.com/the-hidden-forces-behind-toutiao-chinas-content-king/>`__
