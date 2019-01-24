@@ -16,7 +16,7 @@ AI Superpower 요약 및 생각
 
 .. raw:: html
 
-   <img class="align-center" src="../../../content/images/ai-superpower/vs-us.jpg"> </img>
+   <img class="align-center" src="/images/ai-superpower/vs-us.jpg"> </img>
 
 
 Chapter 1-3:
@@ -31,7 +31,7 @@ Chapter 1-3:
 
 .. raw:: html
 
-   <img class="align-center" src="../../../content/images/ai-superpower/waves.png"> </img>
+   <img class="align-center" src="/images/ai-superpower/waves.png"> </img>
 
 
 
@@ -52,7 +52,7 @@ Chapter 5:
 
 .. raw:: html
 
-   <img class="align-center" src="../../../content/images/ai-superpower/job.png"> </img>
+   <img class="align-center" src="/images/ai-superpower/job.png"> </img>
 
 
 
