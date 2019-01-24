@@ -2,7 +2,7 @@
 ############################
 :date: 2018-10-26 23:04
 :category: blog,
-:tags: deep_learning
+:tags: ai
 :slug: paper-implementation
 :excerpt: 
 
