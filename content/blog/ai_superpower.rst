@@ -9,7 +9,7 @@ AI Superpower 요약 및 생각
 
 .. raw:: html
 
-   <a href="https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X">
+   <a target="_blank" href="https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X">
       <img class="align-center" src="/images/ai-superpower/book.jpg"> </img>
    </a>
 
@@ -23,7 +23,9 @@ AI Superpower 요약 및 생각
 
 .. raw:: html
 
-   <img class="align-center" src="/images/ai-superpower/vs-us.jpg"> </img>
+   <a target="_blank" href="https://www.kdnuggets.com/2018/10/key-takeaways-aiconf-san-francisco-day1.html">
+      <img class="align-center" src="/images/ai-superpower/vs-us.jpg"> </img>
+   </a>
 
 
 Chapter 1-3:
@@ -38,7 +40,9 @@ Chapter 1-3:
 
 .. raw:: html
 
-   <img class="align-center" src="/images/ai-superpower/waves.png"> </img>
+   <a target="_blank" href="https://www.techinasia.com/talk/big-ai-trends-kai-fu-lee">
+      <img class="align-center" src="/images/ai-superpower/waves.png"> </img>
+   </a>
 
 
 
@@ -59,7 +63,9 @@ Chapter 5:
 
 .. raw:: html
 
-   <img class="align-center" src="/images/ai-superpower/job.png"> </img>
+   <a target="_blank" href="https://medium.com/future-today/the-4-waves-of-ai-and-a-blueprint-of-the-future-dr-kai-fu-lee-fa7fa04713cf">
+      <img class="align-center" src="/images/ai-superpower/job.png"> </img>
+   </a>
 
 
 
