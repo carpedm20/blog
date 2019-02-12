@@ -22,4 +22,4 @@
 
 마지막으로 OpenAI의 `Greg Brockman <https://twitter.com/gdb>`_ 과 `Ilya Sutskever <https://twitter.com/ilyasut>`_ 가 구현에 관해 쓴 `글 <https://www.quora.com/What-are-the-best-ways-to-pick-up-Deep-Learning-skills-as-an-engineer/answer/Greg-Brockman>`_ 도 읽어보면 좋을 것 같습니다.
 
-출처: `Facebook <https://www.facebook.com/groups/TensorFlowKR/permalink/638778569796538/>`_
+원글: `Facebook <https://www.facebook.com/groups/TensorFlowKR/permalink/638778569796538/>`_
