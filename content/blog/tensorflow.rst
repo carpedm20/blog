@@ -2,8 +2,8 @@ import tensorflow에서 벗어나기
 ################################
 :date: 2019-03-15 20:25
 :category: blog,
-:tags: life
-:slug: sf
+:tags: ai
+:slug: tensorflow
 :excerpt: 
 
 
