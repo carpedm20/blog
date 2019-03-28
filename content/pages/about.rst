@@ -89,34 +89,31 @@ Research Experience
 
 - Research Engineer (Advised by `John Schulman <http://joschu.net/>`__)
 
-`Cognitive Learning for Vision and Robotics Lab <http://people.csail.mit.edu/lim/>`__ @ USC (2016.12 ~ 2018.09)
+`University of Southern California <http://people.csail.mit.edu/lim/>`__ (2016.12 ~ 2018.09)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Joint research with `Devsisters <http://www.devsisters.com/>`__ about *Hierarchical Reinforcement Learning* :: [PDF]
-- Under the supervision of Prof. `Joseph Lim <http://people.csail.mit.edu/lim/>`__
+- Visiting Researcher (Advisor: `Prof. Joseph J. Lim <http://people.csail.mit.edu/lim/>`__)
 
+`Seoul National University <https://cv.snu.ac.kr/>`__ (2018.04 ~ 2018.07)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Visiting Researcher (Advisor: `Prof. Bohyung Han <https://cv.snu.ac.kr/index.php/~bhhan/>`__)
 
 `Statistical Artificial Intelligence Lab <http://sail.unist.ac.kr/>`__ @ UNIST (2014.09 ~ 2015.10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- *Reading documents for bayesian Online Change Point Detection* :: `EMNLP 2015 <https://www.cs.cmu.edu/~ark/EMNLP-2015/>`__ (23.5% a/r) :: [`PDF <http://sail.unist.ac.kr/papers/EMNLP15KimTChoiJ.pdf>`__]
-- *Generative model for Korean poetry using Multi-layer LSTM for Character-level Language* :: `code <https://github.com/carpedm20/poet-neural>`__ 
-- *ReviewDuk: Korean Sentiment Analyzer in Morphologically Rich Languages* :: `code <https://github.com/carpedm20/reviewduk>`__ :: `demo <https://www.youtube.com/watch?v=nKyt3jo2Hno>`__
-
+- Research Intern (Advisor: `Prof. Jaesik Choi <http://sail.unist.ac.kr/members/jaesik/>`__)
 
 `Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__ (2015.07 ~ 2015.09)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Research Internship at Scientific Data Manage (`SDM <http://crd.lbl.gov/departments/data-science-and-technology/SDM/>`__) Group
-- *Extracting Baseline Electricity Usage Using Gradient Tree Boosting* :: DataCom 2015 :: [`PDF <https://sdm.lbl.gov/oapapers/DataCom2015_kim_report.pdf>`__]
-- *Behavior Analytics: Identify how characteristics and behaviors affected by energy saving in programs only from smart meter data*
+- Research Intern (Advisors: `John Wu <https://crd.lbl.gov/departments/data-science-and-technology/sdm/staff/wu/>`__, `Alex Sim <https://crd.lbl.gov/departments/data-science-and-technology/sdm/staff/alex-sim/>`__)
 
 
 `Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ @ UNIST (2013.01 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- *Optimizing Mobile Video Streaming: From Context-aware Scheduling to Cloud-assisted Caching*
-- *Optimizing Mobile Web browsing: Through Page Caching in Local Access Point*
 
+- Research Intern (Advisor: `Prof. Kyunghan Lee <http://msn.unist.ac.kr/member/khlee/>`__)
 
 .. raw:: html
 
@@ -126,27 +123,17 @@ Research Experience
 Work Experience
 -----------------
 
-Research Engineer, `Devsisters <http://www.devsisters.com/>`__ (2016.04 ~ 2018.08)
+`Devsisters <http://www.devsisters.com/>`__, Research Engineer (2016.04 ~ 2018.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Propose an attention-based Reinforcement Learning (RL) model to solve hierarchical RL problems guided by step-by-step manuals (collaborate research with `Research group @ USC <http://people.csail.mit.edu/lim/>`__)
-- Build automatic game balancing framework with Double Q-learning, Dueling network, Prioritized replay memory and used prediction on beneficial and dangerous events as intrinsic rewards
-- `DQN-tensorflow <https://github.com/devsisters/DQN-tensorflow>`__, `neural-combinatorial-rl-tensorflow <https://github.com/devsisters/neural-combinatorial-rl-tensorflow>`__, `pointer-network-tensorflow <https://github.com/devsisters/pointer-network-tensorflow>`__
-- Working as a substitute of mandatory military service
 
-Software Engineer, `Vingle <https://www.vingle.net/>`__ (2015.10 ~ 2016.04)
+`Vingle <https://www.vingle.net/>`__, Software Engineer (2015.10 ~ 2016.04)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Build a prediction model for age and gender only with the user's action pattern in the services
-- Worked as a substitute of mandatory military service
 
-Intern, `Moloco`_, California, USA (2014.10 ~ 2015.01)
+`Moloco`_, Software Intern, Palo Alto, USA (2014.10 ~ 2015.01)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Maximum-likelihood estimation of Downloading Mobile Application
-- Real-time visualization from a large-scale database with query optimization and a cache system
 
-Intern, `NAVER Labs`_ (2014.07 ~ 2014.08)
+`NAVER Labs`_, Software Intern (2014.07 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-- Build a Cloud Comment Hosting Service which is similar to Disqus
-- Got a 2014 Excellence Award, which was given to 3 selected interns
 
 
 .. raw:: html
