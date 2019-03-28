@@ -89,7 +89,7 @@ Research Experience
 
 - Research Engineer (Advised by `John Schulman <http://joschu.net/>`__)
 
-`University of Southern California <http://people.csail.mit.edu/lim/>`__ (2016.12 ~ 2018.09)
+`University of Southern California <https://www.clvrai.com/>`__ (2016.12 ~ 2018.09)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Visiting Researcher (Advisor: `Prof. Joseph J. Lim <http://people.csail.mit.edu/lim/>`__)
