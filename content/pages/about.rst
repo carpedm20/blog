@@ -498,11 +498,12 @@ Presentations
 - `Continuous control with deep reinforcement learning (DDPG) <http://www.slideshare.net/carpedm20/continuous-control-with-deep-reinforcement-learning-ddpg>`__ (16-06-28)
 - `Dueling network architectures for deep reinforcement learning  <http://www.slideshare.net/carpedm20/dueling-network-architectures-for-deep-reinforcement-learning>`__ (16-06-28)
 
-2014
+Old
 ~~~~
 - `140분의 파이썬 <https://carpedm20.github.io/140min-python>`__ (`NAVER D2 대학생 세미나 <http://helloworld.naver.com/helloworld/900758>`__, 14-08-26)
 - `쉽게 쓰여진 Django`_ (14-03-19)
 - `영화 서비스에 대한 생각`_ (14-03-05)
+- `카카오톡으로 여친 만들기 <https://www.slideshare.net/carpedm20/ss-77283569>`__ (13-06-29)
 
 
 Skills
