@@ -162,13 +162,11 @@ Hacking
 - `2013 Korea Whitehat Contest`_ :: **3rd place** (reward **$8,000**)
    - Awarded by **the Minister of National Defense** (**국방부 장관상**)
 - `Holyshield 2013`_ :: **1st place** (reward $1,000)
-   - Awarded by the President of Catholic University of Korea
 - `2014 Korea Whitehat Contest`_ :: **Finalist**
 
 Scholarships
 ~~~~~~~~~~~~
-- **Global Scholarship** for Undergraduate Research Opportunities Program, UNIST :: 2015
-   - Received $3,000 as a financial support for research internship at `Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__
+- Global Scholarship for Undergraduate Research Opportunities Program, UNIST :: 2015
 - National Science and Engineering Scholarship, Korean Student Aid Foundation :: 2013
 - Academic Performance Scholarship, UNIST :: 2011-2015
 
