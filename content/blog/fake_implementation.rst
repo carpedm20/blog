@@ -21,4 +21,4 @@ Github에서 가끔 한국인이 구현한 논문 코드를 보인다. 예전보
 
 구현은 본인의 실력을 쌓는데 굉장히 중요하다. 하지만 그 과정에서 본인과 남을 속이진 않았으면 좋겠다.
 
-원본: `Facebook <https://www.facebook.com/carpedm20/posts/2120977561315091>`__
+원글: `Facebook <https://www.facebook.com/carpedm20/posts/2120977561315091>`__

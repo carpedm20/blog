@@ -27,3 +27,5 @@ GPU 1개로 논문을 구현할 수 있었던 1, 2년 전과 달리 지금은 DG
 - Parallel and Distributed Deep Learning: https://www.youtube.com/watch?v=xtxxLWZznBI
 - Blocksparse: https://openai.com/blog/block-sparse-gpu-kernels/
 - Gradient checkpoint: https://github.com/openai/gradient-checkpointing
+
+원글: `Facebook <https://www.facebook.com/carpedm20/posts/2102786876467493>`__

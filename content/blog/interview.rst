@@ -13,4 +13,4 @@
 
 링크: http://bit.ly/carpedm20-interview
 
-원본: `Facebook <https://www.facebook.com/carpedm20/posts/2134809779931869>`__
+원글: `Facebook <https://www.facebook.com/carpedm20/posts/2134809779931869>`__
