@@ -11,13 +11,13 @@
             {% if article.date.year != current_year %}{% set current_year = article.date.year %}{% endif %}
             {% if article.date.month != current_month %}{% set current_month = article.date.month %}{% endif %}
             <article class="entry-overview">
-                <div class="date">{{ article.locale_date }}</div>
-                <div class="detail">
-                    <header><h3>
+                <div class="date">
+                    <h3 style="margin: 0.5em 0;">
+                        {{ article.locale_date }}
                         <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
                             {{ article.title }}
                         </a>
-                    </h3></header>
+                    </h3>
                 </div>
             </article>
         {% endfor %}
