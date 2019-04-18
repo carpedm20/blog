@@ -27,10 +27,9 @@ Links
 -----
 :Email: **carpedm20** at gmail.com
 :Github: `github.com/carpedm20`_
+:Twitter: `twitter.com/carpedm20`_
 :Linkedin: `linkedin.com/in/carpedm20`_
 :Slideshare: `slideshare.net/carpedm20`_
-:Facebook: `facebook.com/carpedm20`_
-:Twitter: `twitter.com/carpedm20`_
 :Google Scholar: `author page <https://scholar.google.com/citations?user=0BefWnYAAAAJ>`__
 
 
