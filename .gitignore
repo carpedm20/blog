@@ -1,3 +1,4 @@
 .*.sw[op]
 *.py[co]
 .DS_Store
+out

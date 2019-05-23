@@ -27,10 +27,9 @@ Links
 -----
 :Email: **carpedm20** at gmail.com
 :Github: `github.com/carpedm20`_
+:Twitter: `twitter.com/carpedm20`_
 :Linkedin: `linkedin.com/in/carpedm20`_
 :Slideshare: `slideshare.net/carpedm20`_
-:Facebook: `facebook.com/carpedm20`_
-:Twitter: `twitter.com/carpedm20`_
 :Google Scholar: `author page <https://scholar.google.com/citations?user=0BefWnYAAAAJ>`__
 
 
@@ -129,43 +128,32 @@ Awards
 Machine Learning
 ~~~~~~~~~~~~~~~~
 
-- `DataCom 2015 Best Paper Award <http://sail.unist.ac.kr/paper-best-paper-award-from-datacom-2015-for-predicting-real-world-electricity-usages/>`__
-   - **T. Kim**, D.Lee, J. Choi, A. Spurlock, A. Sim, A. Todd, and K. Wu, *Extracting Baseline Electricity Usage Using Gradient Tree Boosting*, in 1st Intl. Conf. Big Data Intelligence and Computing (DataCom 2015). [`PDF <https://sdm.lbl.gov/oapapers/DataCom2015_kim_report.pdf>`__]
+- `AI Grant Fellowship <https://aigrant.org/>`__ ($2,500 cash + $20,000 credit as award) :: 2018
+- `DataCom 2015 Best Paper Award <http://sail.unist.ac.kr/paper-best-paper-award-from-datacom-2015-for-predicting-real-world-electricity-usages/>`__ :: [`PDF <https://sdm.lbl.gov/oapapers/DataCom2015_kim_report.pdf>`__]
 
 Supercomputing
 ~~~~~~~~~~~~~~
 - `International Supercomputing Conference 14 Student Cluster Challenge <http://hpcadvisorycouncil.com/events/2014/isc14-student-cluster-competition/>`__ :: **Finalist**
-   - In Leipzig / Germany
-   - **One of 11 undergraduate teams (including MIT, Tsinghua Univ)** selected through the preliminary contest
 - `Asia student Supercomputing Challenge 14 <http://www.asc-events.org/ASC14/index14en.php>`__ :: **Finalist**
-   - In Guangzhou / China (participate as a team adviser)
-   - **One of 16 teams among 82 international teams** selected through the preliminary contest
 - `Asia student Supercomputing Challenge 13 <http://www.asc-events.org/13en/index13en.php>`__ :: **Finalist**
-   - In Shanghai / China
-   - **One of 10 teams among 43 international teams** selected through the preliminary contest
 
 Hacking
 ~~~~~~~
-- `2013 Korea Whitehat Contest`_ :: **3rd place** ( `HeXA`_ )
-   - Held by Ministry of National Defense and National Intelligence Service
-   - Awarded by **the Minister of National Defense** (**국방부 장관상**). Received an award of **$8,000**
-- `Holyshield 2013`_ :: **1st place** ( CodePink )
-   - Awarded by the President of Catholic University of Korea. Received an award of $1,000
-- `2014 Korea Whitehat Contest`_ :: **Finalist** ( `HeXA`_ )
-   - Held by Ministry of National Defense and National Intelligence Service
-   - 5th place at preliminary contest
+- `2013 Korea Whitehat Contest`_ :: **3rd place** (reward **$8,000**)
+   - Awarded by **the Minister of National Defense** (**국방부 장관상**)
+- `Holyshield 2013`_ :: **1st place** (reward $1,000)
+- `2014 Korea Whitehat Contest`_ :: **Finalist**
 
 Scholarships
 ~~~~~~~~~~~~
-- **Global Scholarship** for Undergraduate Research Opportunities Program, UNIST :: 2015
-   - Received $3,000 as a financial support for research internship at `Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__
+- Global Scholarship for Undergraduate Research Opportunities Program, UNIST :: 2015
 - National Science and Engineering Scholarship, Korean Student Aid Foundation :: 2013
 - Academic Performance Scholarship, UNIST :: 2011-2015
 
 ETC
 ~~~
 - **2016 The Best Undergraduate Award** (**미래창조과학부장관상**)
-   - **Chosen as one of all graduates**, awarded by **the Minister of Science and Future Planning**
+   - **Ranked 1st out of 509 undergraduates**, awarded by **the Minister of Science and Future Planning**
 - 2014 Student Outstanding Contribution Award, awarded by the President of `UNIST`_
 - 2013 Student Outstanding Contribution Award, awarded by the President of `UNIST`_
 
@@ -479,11 +467,12 @@ Presentations
 - `Continuous control with deep reinforcement learning (DDPG) <http://www.slideshare.net/carpedm20/continuous-control-with-deep-reinforcement-learning-ddpg>`__ (16-06-28)
 - `Dueling network architectures for deep reinforcement learning  <http://www.slideshare.net/carpedm20/dueling-network-architectures-for-deep-reinforcement-learning>`__ (16-06-28)
 
-2014
+Old
 ~~~~
 - `140분의 파이썬 <https://carpedm20.github.io/140min-python>`__ (`NAVER D2 대학생 세미나 <http://helloworld.naver.com/helloworld/900758>`__, 14-08-26)
 - `쉽게 쓰여진 Django`_ (14-03-19)
 - `영화 서비스에 대한 생각`_ (14-03-05)
+- `카카오톡으로 여친 만들기 <https://www.slideshare.net/carpedm20/ss-77283569>`__ (13-06-29)
 
 
 Skills

@@ -8,20 +8,16 @@
         {% set current_year = 0 %}
         {% set current_month = 0 %}
         {% for article in dates %}
-            {% if article.date.year != current_year or article.date.month != current_month %}
-                <h2>{{ article.date.strftime("%B %Y") }}</h2>
-            {% endif %}
             {% if article.date.year != current_year %}{% set current_year = article.date.year %}{% endif %}
             {% if article.date.month != current_month %}{% set current_month = article.date.month %}{% endif %}
             <article class="entry-overview">
-                <div class="date">{{ article.locale_date }}</div>
-                <div class="detail">
-                    <header><h3>
+                <div class="date">
+                    <h3 style="margin: 0.5em 0;">
+                        {{ article.locale_date }}
                         <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">
                             {{ article.title }}
                         </a>
-                    </h3></header>
-                    <div class="summary">{{ article.summary|striptags }}</div>
+                    </h3>
                 </div>
             </article>
         {% endfor %}
