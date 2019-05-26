@@ -45,33 +45,33 @@ Research Experience
 `OpenAI <http://openai.com>`__ (2018.09 ~ )
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Research Engineer (Advised by `John Schulman <http://joschu.net/>`__)
+- Reinforcement Learning / Robotics / Language (Advised by `John Schulman <http://joschu.net/>`__)
 
 `University of Southern California <https://www.clvrai.com/>`__ (2016.12 ~ 2018.09)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Visiting Researcher (Advisor: `Prof. Joseph J. Lim <http://people.csail.mit.edu/lim/>`__)
+- Reinforcement Learning (Advisor: `Prof. Joseph J. Lim <http://people.csail.mit.edu/lim/>`__)
 
 `Seoul National University <https://cv.snu.ac.kr/>`__ (2018.04 ~ 2018.07)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Visiting Researcher (Advisor: `Prof. Bohyung Han <https://cv.snu.ac.kr/index.php/~bhhan/>`__)
+- Computer Vision (Advisor: `Prof. Bohyung Han <https://cv.snu.ac.kr/index.php/~bhhan/>`__)
 
 `Statistical Artificial Intelligence Lab <http://sail.unist.ac.kr/>`__ @ UNIST (2014.09 ~ 2015.10)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Research Intern (Advisor: `Prof. Jaesik Choi <http://sail.unist.ac.kr/members/jaesik/>`__)
+- Natural Language Processing (Advisor: `Prof. Jaesik Choi <http://sail.unist.ac.kr/members/jaesik/>`__)
 
 `Lawrence Berkeley National Laboratory <http://www.lbl.gov/>`__ (2015.07 ~ 2015.09)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Research Intern (Advisors: `John Wu <https://crd.lbl.gov/departments/data-science-and-technology/sdm/staff/wu/>`__, `Alex Sim <https://crd.lbl.gov/departments/data-science-and-technology/sdm/staff/alex-sim/>`__)
+- Machine Learning (Advisors: `John Wu <https://crd.lbl.gov/departments/data-science-and-technology/sdm/staff/wu/>`__, `Alex Sim <https://crd.lbl.gov/departments/data-science-and-technology/sdm/staff/alex-sim/>`__)
 
 
 `Mobile Social Network Lab <http://msn.unist.ac.kr/>`__ @ UNIST (2013.01 ~ 2014.08)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-- Research Intern (Advisor: `Prof. Kyunghan Lee <http://msn.unist.ac.kr/member/khlee/>`__)
+- Mobile Network (Advisor: `Prof. Kyunghan Lee <http://msn.unist.ac.kr/member/khlee/>`__)
 
 .. raw:: html
 
